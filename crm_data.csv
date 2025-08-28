@@ -1,0 +1,2001 @@
+OpportunityID,CustomerID,OpportunityName,Stage,ExpectedCloseDate,ExpectedRevenue,Owner,Probability
+OPP001,CUST004,Implement Out-Of-The-Box Systems,Closed Won,2025-10-19,5798.15,Russell,10
+OPP002,CUST003,Deploy Scalable Architectures,Qualified,2025-11-12,12267.13,Marc,10
+OPP003,CUST009,Re-Intermediate Leading-Edge Deliverables,Qualified,2025-10-01,16761.54,Susan,90
+OPP004,CUST018,Implement Proactive Synergies,Proposal,2025-11-21,5662.41,Melissa,30
+OPP005,CUST020,Transition Interactive Info-Mediaries,Proposal,2025-11-24,4808.52,Joshua,70
+OPP006,CUST014,Expedite Clicks-And-Mortar E-Tailers,Qualified,2025-11-19,15974.09,Barbara,30
+OPP007,CUST011,Mesh Magnetic Deliverables,Lead,2025-11-20,3915.31,Douglas,10
+OPP008,CUST011,Target Mission-Critical Mindshare,Lead,2025-09-06,13319.5,Kendra,90
+OPP009,CUST006,Embrace Distributed Web-Readiness,Closed Lost,2025-09-11,1981.04,Laura,30
+OPP010,CUST007,Streamline End-To-End Mindshare,Closed Lost,2025-11-23,4013.5,Aaron,10
+OPP011,CUST016,Cultivate End-To-End Applications,Closed Lost,2025-09-09,18126.64,Jacob,90
+OPP012,CUST004,Visualize Best-Of-Breed Deliverables,Qualified,2025-09-15,6287.31,Nathan,10
+OPP013,CUST005,Architect Intuitive Web Services,Qualified,2025-11-22,1398.02,Ashley,90
+OPP014,CUST007,Morph Bricks-And-Clicks Paradigms,Closed Won,2025-11-03,18788.03,Lisa,70
+OPP015,CUST003,Transition Web-Enabled Models,Closed Lost,2025-11-02,7196.65,Angela,50
+OPP016,CUST003,Facilitate Holistic Applications,Closed Won,2025-10-29,7720.27,Melinda,50
+OPP017,CUST011,Engage Viral E-Markets,Negotiation,2025-08-31,5856.85,Christopher,30
+OPP018,CUST020,Redefine Cross-Media Channels,Closed Won,2025-09-17,4766.93,John,10
+OPP019,CUST017,Brand Cutting-Edge Action-Items,Qualified,2025-10-29,18725.45,Julie,70
+OPP020,CUST020,Matrix Web-Enabled Functionalities,Negotiation,2025-09-25,1647.57,Rodney,10
+OPP021,CUST003,Enhance Extensible Markets,Lead,2025-10-15,3709.23,John,30
+OPP022,CUST006,Disintermediate World-Class Users,Proposal,2025-09-30,18800.76,Charles,50
+OPP023,CUST020,Orchestrate Turn-Key Mindshare,Lead,2025-10-18,2443.98,Samantha,10
+OPP024,CUST006,Enhance Magnetic Action-Items,Qualified,2025-11-07,10076.77,Christian,90
+OPP025,CUST019,Disintermediate Clicks-And-Mortar Info-Mediaries,Closed Won,2025-11-23,13482.91,Nathan,70
+OPP026,CUST016,Empower Scalable Initiatives,Proposal,2025-10-05,12051.84,Michael,30
+OPP027,CUST016,Maximize E-Business Action-Items,Negotiation,2025-11-01,12452.87,Joyce,10
+OPP028,CUST009,Strategize Efficient Portals,Qualified,2025-11-06,4824.62,Jenny,70
+OPP029,CUST018,Harness One-To-One Interfaces,Proposal,2025-11-02,1657.8,Ryan,30
+OPP030,CUST020,Unleash Enterprise Schemas,Lead,2025-11-24,16303.63,Darren,50
+OPP031,CUST015,Matrix Intuitive Networks,Lead,2025-11-06,10707.7,Jake,50
+OPP032,CUST006,Empower Frictionless Platforms,Lead,2025-09-07,13137.01,James,90
+OPP033,CUST013,Synthesize Seamless Networks,Closed Lost,2025-09-27,15624.24,Terri,70
+OPP034,CUST012,Expedite Strategic Supply-Chains,Lead,2025-10-29,6184.76,Samantha,50
+OPP035,CUST020,Enhance User-Centric Methodologies,Closed Won,2025-10-18,2460.75,Kyle,90
+OPP036,CUST003,Whiteboard Sticky Mindshare,Closed Lost,2025-09-24,12234.07,Samantha,30
+OPP037,CUST013,Whiteboard Bleeding-Edge Vortals,Proposal,2025-09-27,4306.44,Christine,10
+OPP038,CUST009,Transform Sticky Vortals,Proposal,2025-10-13,8242.23,Ricardo,30
+OPP039,CUST019,Integrate Scalable Users,Proposal,2025-10-11,17176.02,Randy,50
+OPP040,CUST019,Engage Extensible Interfaces,Negotiation,2025-09-12,5870.84,Margaret,90
+OPP041,CUST015,Incubate Next-Generation Methodologies,Closed Won,2025-10-14,19160.68,Eric,10
+OPP042,CUST006,Enhance Rich Paradigms,Qualified,2025-10-05,5749.45,Stephanie,10
+OPP043,CUST001,E-Enable Scalable Deliverables,Closed Lost,2025-10-06,6590.93,William,70
+OPP044,CUST006,Engage Seamless Functionalities,Proposal,2025-11-05,19602.07,Kevin,90
+OPP045,CUST005,Incentivize Impactful Markets,Closed Won,2025-10-24,7122.11,Michelle,70
+OPP046,CUST001,Utilize B2B Systems,Closed Won,2025-10-16,16366.44,Henry,10
+OPP047,CUST008,Benchmark Visionary Convergence,Closed Won,2025-11-16,4735.77,Brenda,10
+OPP048,CUST020,Iterate Collaborative Convergence,Closed Lost,2025-09-13,7638.51,Lauren,50
+OPP049,CUST002,Incubate Innovative Networks,Closed Won,2025-10-09,19604.82,Michael,10
+OPP050,CUST011,Facilitate Integrated Mindshare,Qualified,2025-08-29,17019.12,Alex,10
+OPP051,CUST017,Engage Proactive Bandwidth,Closed Won,2025-09-05,12973.95,Timothy,90
+OPP052,CUST005,Streamline Granular Solutions,Qualified,2025-11-23,13561.53,Anita,70
+OPP053,CUST008,Embrace Rich Metrics,Negotiation,2025-10-09,11438.18,Jeremiah,30
+OPP054,CUST007,E-Enable Viral Interfaces,Negotiation,2025-10-22,12564.38,Tiffany,90
+OPP055,CUST019,Repurpose Compelling Infrastructures,Closed Lost,2025-11-14,14862.32,Joseph,50
+OPP056,CUST014,Visualize Collaborative E-Markets,Qualified,2025-11-24,2462.38,Robert,70
+OPP057,CUST017,Unleash One-To-One Initiatives,Lead,2025-09-02,12576.18,John,50
+OPP058,CUST011,Redefine B2B Methodologies,Proposal,2025-09-12,9040.16,Ryan,30
+OPP059,CUST007,Enhance Cross-Media Schemas,Lead,2025-11-02,2664.68,Rose,70
+OPP060,CUST015,Maximize Best-Of-Breed Markets,Negotiation,2025-10-04,19395.15,Benjamin,70
+OPP061,CUST004,Embrace Next-Generation Markets,Lead,2025-11-19,18094.57,Adam,70
+OPP062,CUST006,Streamline Seamless Markets,Negotiation,2025-10-08,5575.84,Nicole,70
+OPP063,CUST005,Strategize Next-Generation Supply-Chains,Lead,2025-10-04,1820.11,Nancy,50
+OPP064,CUST005,Engineer Sticky Systems,Negotiation,2025-09-07,13470.93,Renee,50
+OPP065,CUST003,Integrate Integrated Systems,Closed Lost,2025-09-26,5408.01,Tracy,10
+OPP066,CUST013,Incentivize Global Portals,Closed Lost,2025-08-31,16289.85,Kaitlyn,30
+OPP067,CUST018,Implement Visionary Markets,Proposal,2025-09-21,11073.0,Anthony,50
+OPP068,CUST010,Architect Leading-Edge Deliverables,Proposal,2025-11-04,17700.81,Yvette,90
+OPP069,CUST012,Benchmark Next-Generation E-Tailers,Proposal,2025-10-15,7423.92,Elizabeth,10
+OPP070,CUST014,Re-Contextualize Ubiquitous Partnerships,Closed Won,2025-10-11,4963.71,Dawn,90
+OPP071,CUST006,Seize Killer Paradigms,Closed Lost,2025-10-14,3719.42,Richard,90
+OPP072,CUST001,Unleash 24/7 Bandwidth,Lead,2025-10-29,16073.61,Lynn,10
+OPP073,CUST002,Harness Customized E-Services,Closed Won,2025-10-25,9114.29,Charles,50
+OPP074,CUST015,Disintermediate Back-End Infrastructures,Closed Lost,2025-10-15,15729.79,William,90
+OPP075,CUST009,Transform Back-End E-Commerce,Qualified,2025-08-31,12785.88,Wendy,70
+OPP076,CUST004,Brand Seamless Applications,Closed Lost,2025-09-15,8332.82,Ronnie,30
+OPP077,CUST002,Scale Transparent Paradigms,Lead,2025-09-12,13928.07,Charlene,10
+OPP078,CUST006,Enhance Back-End Supply-Chains,Negotiation,2025-11-18,2583.06,Virginia,50
+OPP079,CUST002,Enhance Interactive E-Markets,Proposal,2025-09-25,13730.55,Anthony,70
+OPP080,CUST013,Extend Compelling Niches,Lead,2025-10-29,1288.95,Gregory,90
+OPP081,CUST010,Generate Rich Initiatives,Proposal,2025-09-30,8269.57,Jeffrey,30
+OPP082,CUST010,Seize One-To-One Architectures,Lead,2025-11-08,7695.82,John,10
+OPP083,CUST019,Architect Rich Web Services,Closed Lost,2025-10-06,9487.53,William,50
+OPP084,CUST019,Enable Viral Markets,Lead,2025-10-25,11184.07,Christopher,90
+OPP085,CUST013,Morph Magnetic Info-Mediaries,Proposal,2025-08-30,1580.07,Jon,50
+OPP086,CUST017,Engineer Cutting-Edge Info-Mediaries,Proposal,2025-11-01,7340.18,Bruce,90
+OPP087,CUST017,Grow Real-Time Markets,Closed Lost,2025-09-20,5008.39,Michael,70
+OPP088,CUST012,Engineer Leading-Edge Web-Readiness,Closed Lost,2025-10-21,2840.14,Shirley,30
+OPP089,CUST020,Architect Efficient Channels,Lead,2025-10-22,16903.7,Joe,70
+OPP090,CUST003,Target Back-End Platforms,Closed Won,2025-08-28,7164.87,Amanda,50
+OPP091,CUST020,Incubate Dynamic E-Commerce,Qualified,2025-10-19,19730.67,Robert,70
+OPP092,CUST007,Innovate Next-Generation Markets,Closed Won,2025-10-31,16478.67,Maria,10
+OPP093,CUST019,Optimize Wireless Bandwidth,Closed Lost,2025-10-06,17580.24,Jamie,90
+OPP094,CUST020,Productize Virtual Niches,Negotiation,2025-09-05,10454.43,Penny,70
+OPP095,CUST003,Brand Killer Markets,Negotiation,2025-08-30,13154.48,Mary,10
+OPP096,CUST017,E-Enable Robust Deliverables,Negotiation,2025-09-04,14278.9,Kathleen,10
+OPP097,CUST016,Evolve Strategic Supply-Chains,Qualified,2025-11-25,19078.58,Caroline,70
+OPP098,CUST003,Disintermediate Revolutionary Partnerships,Qualified,2025-09-09,16517.1,Rebecca,90
+OPP099,CUST012,Re-Intermediate Bleeding-Edge E-Tailers,Proposal,2025-11-24,18403.21,Samuel,30
+OPP100,CUST018,Incentivize Distributed Web-Readiness,Closed Lost,2025-09-04,4183.17,Nancy,70
+OPP101,CUST005,Productize Cross-Platform Solutions,Negotiation,2025-11-12,16866.39,Jonathan,10
+OPP102,CUST005,Target Frictionless Eyeballs,Qualified,2025-09-13,2807.0,Jonathan,90
+OPP103,CUST013,Architect Vertical Vortals,Qualified,2025-09-15,8323.16,Jon,30
+OPP104,CUST015,Generate Impactful Deliverables,Proposal,2025-09-29,5065.63,Yolanda,30
+OPP105,CUST017,Orchestrate 24/365 Content,Closed Won,2025-09-09,12354.26,Greg,30
+OPP106,CUST020,Engineer 24/365 Initiatives,Closed Lost,2025-10-06,10327.65,Eric,70
+OPP107,CUST005,Synthesize Plug-And-Play Markets,Lead,2025-09-05,17622.32,Jenna,90
+OPP108,CUST007,Revolutionize Compelling Metrics,Proposal,2025-11-05,2813.17,Teresa,50
+OPP109,CUST003,Strategize Viral Models,Negotiation,2025-09-11,14731.84,Denise,90
+OPP110,CUST015,Repurpose Clicks-And-Mortar Initiatives,Closed Lost,2025-09-21,5633.14,Richard,90
+OPP111,CUST008,Expedite User-Centric Platforms,Qualified,2025-09-05,17542.52,Kelly,70
+OPP112,CUST011,Iterate Cutting-Edge Supply-Chains,Proposal,2025-10-22,19792.55,Matthew,70
+OPP113,CUST017,Disintermediate Out-Of-The-Box E-Tailers,Closed Lost,2025-10-11,11943.09,Eugene,70
+OPP114,CUST018,Orchestrate Dot-Com Vortals,Proposal,2025-11-20,16541.57,Adam,90
+OPP115,CUST004,Brand Dot-Com Interfaces,Negotiation,2025-11-20,8042.84,Brittany,10
+OPP116,CUST012,Seize Scalable Markets,Closed Won,2025-09-25,1223.27,Daniel,90
+OPP117,CUST006,Embrace Ubiquitous Action-Items,Lead,2025-09-22,18812.36,Eric,30
+OPP118,CUST003,Enable Vertical Paradigms,Closed Won,2025-10-29,14214.64,Dennis,50
+OPP119,CUST009,Strategize Web-Enabled Experiences,Proposal,2025-10-13,5954.26,Jonathan,90
+OPP120,CUST017,Enable Mission-Critical Markets,Qualified,2025-11-26,19197.33,Darren,90
+OPP121,CUST012,Facilitate Best-Of-Breed Vortals,Closed Lost,2025-09-05,10669.16,Nancy,10
+OPP122,CUST012,Syndicate World-Class Convergence,Closed Won,2025-08-31,17109.28,Timothy,90
+OPP123,CUST013,Harness Killer Interfaces,Closed Lost,2025-10-11,4146.52,Jessica,90
+OPP124,CUST015,Generate One-To-One E-Business,Negotiation,2025-10-07,5706.27,Wendy,90
+OPP125,CUST017,Visualize Seamless Markets,Proposal,2025-11-22,8608.43,Tamara,70
+OPP126,CUST005,Aggregate Efficient Infrastructures,Negotiation,2025-09-07,19749.15,Theresa,90
+OPP127,CUST004,Exploit Viral Technologies,Closed Lost,2025-09-03,2181.92,Daniel,70
+OPP128,CUST002,Cultivate Frictionless Users,Negotiation,2025-11-14,4313.36,Stacey,70
+OPP129,CUST016,Incubate Cross-Media Methodologies,Negotiation,2025-08-28,10626.93,Gregory,10
+OPP130,CUST017,Iterate Proactive Experiences,Closed Lost,2025-09-18,1341.16,Christopher,90
+OPP131,CUST017,Target Granular Bandwidth,Qualified,2025-10-21,13300.63,Jeremiah,50
+OPP132,CUST014,E-Enable Killer Roi,Proposal,2025-10-20,10537.89,Teresa,10
+OPP133,CUST001,Visualize Mission-Critical Systems,Proposal,2025-09-26,15635.04,Jackie,10
+OPP134,CUST019,Drive E-Business E-Business,Lead,2025-11-17,3050.82,Diana,10
+OPP135,CUST001,Transition Ubiquitous Roi,Qualified,2025-11-05,7106.12,Christopher,30
+OPP136,CUST005,Redefine Holistic Methodologies,Closed Won,2025-09-30,15002.39,Jeffrey,10
+OPP137,CUST002,Facilitate Strategic Portals,Qualified,2025-09-24,5715.41,Olivia,10
+OPP138,CUST011,Integrate Transparent Convergence,Closed Won,2025-11-17,9072.46,Christopher,90
+OPP139,CUST018,Engineer Granular Vortals,Closed Lost,2025-10-30,3387.57,Larry,70
+OPP140,CUST002,Exploit Proactive Technologies,Lead,2025-10-21,17115.01,Donna,70
+OPP141,CUST009,Leverage Transparent Mindshare,Qualified,2025-09-01,3387.46,Elizabeth,10
+OPP142,CUST005,Target Bricks-And-Clicks Methodologies,Lead,2025-09-29,19834.82,Nicholas,10
+OPP143,CUST009,Maximize Dynamic Niches,Closed Won,2025-10-05,10239.93,Brian,90
+OPP144,CUST013,Incubate Frictionless Applications,Qualified,2025-09-26,13682.74,Clayton,50
+OPP145,CUST002,Scale Magnetic Functionalities,Closed Lost,2025-10-04,17282.83,Sarah,50
+OPP146,CUST013,Optimize Collaborative Supply-Chains,Closed Won,2025-10-17,18255.87,Jeremy,30
+OPP147,CUST016,Benchmark Killer Synergies,Closed Lost,2025-11-01,14348.87,Michelle,90
+OPP148,CUST019,Matrix Sticky Vortals,Negotiation,2025-11-12,6860.54,Victoria,70
+OPP149,CUST008,Matrix Virtual E-Commerce,Proposal,2025-10-10,2377.7,Darrell,30
+OPP150,CUST006,Deploy End-To-End Partnerships,Negotiation,2025-10-09,7348.79,John,10
+OPP151,CUST017,Scale Compelling Info-Mediaries,Lead,2025-09-28,16123.64,Christopher,10
+OPP152,CUST003,Strategize Cross-Platform Technologies,Closed Won,2025-10-02,12759.14,Keith,90
+OPP153,CUST013,Whiteboard Impactful Relationships,Proposal,2025-08-29,5976.52,Sharon,10
+OPP154,CUST008,Facilitate Integrated E-Services,Closed Lost,2025-11-11,11781.6,William,90
+OPP155,CUST014,Aggregate Integrated E-Business,Qualified,2025-10-07,3854.58,James,30
+OPP156,CUST005,Expedite Seamless E-Commerce,Lead,2025-10-26,5655.15,Carrie,90
+OPP157,CUST007,Implement Strategic Action-Items,Qualified,2025-09-19,16875.92,Erin,50
+OPP158,CUST007,Architect Seamless Metrics,Lead,2025-11-04,12047.6,Matthew,70
+OPP159,CUST015,Aggregate Compelling Eyeballs,Negotiation,2025-09-01,13967.21,Ryan,90
+OPP160,CUST007,Scale B2C Web-Readiness,Lead,2025-09-13,6636.77,Kim,50
+OPP161,CUST016,Incubate Clicks-And-Mortar Models,Lead,2025-11-17,9787.38,Elizabeth,10
+OPP162,CUST009,Benchmark Interactive Networks,Negotiation,2025-11-06,3185.38,Autumn,10
+OPP163,CUST004,Aggregate Enterprise Architectures,Qualified,2025-10-02,8929.82,Christopher,50
+OPP164,CUST016,Evolve Bricks-And-Clicks Markets,Negotiation,2025-10-23,4501.39,Debra,70
+OPP165,CUST020,Maximize Back-End Convergence,Negotiation,2025-11-10,14771.62,Darius,30
+OPP166,CUST019,Seize World-Class Metrics,Proposal,2025-11-12,16654.04,Mary,50
+OPP167,CUST012,Engage Granular Info-Mediaries,Closed Won,2025-10-16,10098.09,James,70
+OPP168,CUST003,Orchestrate Mission-Critical Bandwidth,Proposal,2025-10-09,3693.73,Krystal,50
+OPP169,CUST019,Empower Bleeding-Edge Partnerships,Proposal,2025-10-28,4674.15,Christina,70
+OPP170,CUST020,Implement Dot-Com E-Tailers,Proposal,2025-08-29,1137.59,Troy,10
+OPP171,CUST014,Iterate Real-Time Eyeballs,Closed Won,2025-09-12,17982.86,Thomas,30
+OPP172,CUST020,Incentivize Viral Mindshare,Closed Won,2025-09-27,8157.24,Michelle,50
+OPP173,CUST015,Morph Cutting-Edge E-Services,Lead,2025-11-15,17151.51,Robert,70
+OPP174,CUST010,Enhance Vertical Content,Closed Won,2025-10-22,9106.07,Julie,70
+OPP175,CUST019,Utilize Viral Eyeballs,Qualified,2025-09-20,17615.2,Amanda,30
+OPP176,CUST004,Generate Wireless Action-Items,Proposal,2025-09-18,13417.0,Antonio,50
+OPP177,CUST001,Unleash Dynamic Platforms,Closed Lost,2025-11-05,6856.61,Anthony,70
+OPP178,CUST010,Mesh Frictionless Experiences,Closed Won,2025-10-25,8100.34,Amanda,30
+OPP179,CUST015,Re-Intermediate Customized Communities,Qualified,2025-08-29,15140.51,Joshua,30
+OPP180,CUST015,Re-Intermediate Cutting-Edge Content,Closed Lost,2025-10-02,11905.87,Christine,90
+OPP181,CUST010,Syndicate Virtual Eyeballs,Closed Lost,2025-11-26,8931.65,Joseph,70
+OPP182,CUST014,Syndicate Compelling Infrastructures,Proposal,2025-10-26,1932.32,Kelly,10
+OPP183,CUST003,Leverage Seamless Info-Mediaries,Closed Lost,2025-09-07,16688.98,Tammy,30
+OPP184,CUST007,Mesh Extensible Initiatives,Lead,2025-10-12,10379.63,Brittany,50
+OPP185,CUST016,Embrace Compelling Mindshare,Lead,2025-11-18,5833.77,Robert,70
+OPP186,CUST004,Harness Customized Metrics,Closed Lost,2025-11-26,4792.75,John,30
+OPP187,CUST018,Synthesize B2B Infrastructures,Closed Lost,2025-10-21,4145.5,Michael,30
+OPP188,CUST020,Deploy User-Centric Experiences,Lead,2025-09-12,9738.15,Yolanda,90
+OPP189,CUST018,Mesh Web-Enabled E-Business,Lead,2025-11-08,6185.94,Jill,30
+OPP190,CUST006,Mesh Cross-Media Architectures,Negotiation,2025-09-22,5338.98,Nicholas,50
+OPP191,CUST005,Benchmark Dot-Com Applications,Qualified,2025-09-29,8036.63,James,90
+OPP192,CUST018,Synergize Innovative E-Commerce,Closed Lost,2025-09-11,15782.1,Mackenzie,70
+OPP193,CUST017,Incentivize Distributed Technologies,Lead,2025-10-26,11736.02,Derrick,70
+OPP194,CUST020,Harness Cross-Media E-Commerce,Closed Won,2025-09-20,5079.03,Shawn,50
+OPP195,CUST014,Integrate User-Centric Info-Mediaries,Closed Lost,2025-09-01,1532.16,Michael,10
+OPP196,CUST003,Aggregate Front-End Markets,Proposal,2025-10-19,3182.58,Samuel,70
+OPP197,CUST011,Visualize Dot-Com Experiences,Proposal,2025-11-01,19615.57,Caleb,10
+OPP198,CUST013,Embrace Compelling Applications,Closed Won,2025-10-17,15034.74,Mary,70
+OPP199,CUST011,Deliver Impactful Web Services,Negotiation,2025-11-23,11594.22,Peggy,70
+OPP200,CUST010,Harness Value-Added Markets,Proposal,2025-09-24,1157.89,Matthew,30
+OPP201,CUST008,Evolve E-Business Vortals,Lead,2025-11-05,8241.04,Jessica,70
+OPP202,CUST006,Matrix Real-Time Vortals,Closed Lost,2025-11-24,9268.98,Christopher,90
+OPP203,CUST019,Brand E-Business Methodologies,Negotiation,2025-11-14,564.03,Ryan,50
+OPP204,CUST005,Re-Contextualize Real-Time Roi,Closed Lost,2025-09-23,6372.64,Dennis,30
+OPP205,CUST013,E-Enable Killer Applications,Lead,2025-10-24,3460.38,Jeanette,90
+OPP206,CUST016,Drive Intuitive Vortals,Closed Lost,2025-09-25,17944.39,Antonio,50
+OPP207,CUST014,Whiteboard 24/365 Mindshare,Closed Won,2025-11-25,16557.32,Daniel,90
+OPP208,CUST014,E-Enable End-To-End Initiatives,Qualified,2025-11-22,11934.92,Danielle,10
+OPP209,CUST005,Disintermediate 24/7 Info-Mediaries,Lead,2025-11-21,2618.79,Tabitha,70
+OPP210,CUST010,Re-Contextualize Out-Of-The-Box Partnerships,Proposal,2025-09-16,12742.54,Mike,10
+OPP211,CUST018,Monetize Frictionless Partnerships,Proposal,2025-11-18,15784.46,Chase,30
+OPP212,CUST004,Optimize Innovative Web Services,Lead,2025-11-04,5316.16,Pamela,70
+OPP213,CUST013,Strategize Frictionless Roi,Qualified,2025-11-23,8842.32,Douglas,50
+OPP214,CUST013,Mesh Customized Models,Closed Won,2025-11-15,7048.88,Melanie,70
+OPP215,CUST015,Incubate Rich Technologies,Negotiation,2025-09-26,11484.26,Barry,10
+OPP216,CUST010,Aggregate Innovative Initiatives,Lead,2025-11-02,14027.39,James,30
+OPP217,CUST015,Integrate Bricks-And-Clicks Technologies,Closed Lost,2025-10-02,13917.95,Spencer,70
+OPP218,CUST015,Re-Intermediate Transparent Solutions,Negotiation,2025-09-12,2515.13,Ryan,50
+OPP219,CUST012,Revolutionize Collaborative Experiences,Lead,2025-09-19,8240.63,Ronnie,50
+OPP220,CUST015,Reinvent Viral Partnerships,Qualified,2025-11-03,5642.88,Jennifer,90
+OPP221,CUST007,Extend Open-Source Functionalities,Qualified,2025-11-06,17435.73,Robert,10
+OPP222,CUST002,Transform Wireless Eyeballs,Lead,2025-11-08,17232.4,Barbara,90
+OPP223,CUST013,Unleash Synergistic Web Services,Negotiation,2025-11-23,1577.33,Carol,70
+OPP224,CUST009,Benchmark Dot-Com Synergies,Closed Won,2025-11-22,6754.06,Angela,90
+OPP225,CUST001,Redefine Virtual Users,Negotiation,2025-11-21,1261.07,Katelyn,10
+OPP226,CUST019,Streamline Distributed Web-Readiness,Proposal,2025-11-07,10981.72,Angela,70
+OPP227,CUST003,Visualize 24/365 Users,Closed Won,2025-10-26,12568.07,Cynthia,90
+OPP228,CUST002,Engage Clicks-And-Mortar Channels,Closed Won,2025-10-12,7795.66,Kimberly,10
+OPP229,CUST015,Drive B2C E-Tailers,Closed Lost,2025-10-12,17256.54,Scott,70
+OPP230,CUST007,Leverage Clicks-And-Mortar Solutions,Proposal,2025-11-18,1838.97,Alicia,10
+OPP231,CUST019,Enhance Customized Infrastructures,Negotiation,2025-11-03,16610.94,Denise,70
+OPP232,CUST019,Aggregate Enterprise Interfaces,Proposal,2025-10-20,16609.74,Julian,30
+OPP233,CUST017,Redefine Leading-Edge E-Tailers,Qualified,2025-10-20,14448.3,Henry,50
+OPP234,CUST006,Leverage Wireless Initiatives,Proposal,2025-11-18,8497.3,Donald,10
+OPP235,CUST009,Re-Contextualize Extensible Solutions,Closed Lost,2025-09-14,19731.36,Kendra,30
+OPP236,CUST011,Matrix Collaborative Web Services,Qualified,2025-10-18,12834.1,Monica,10
+OPP237,CUST014,Morph Turn-Key Communities,Negotiation,2025-10-03,12073.49,Stephen,70
+OPP238,CUST006,Facilitate Enterprise Markets,Proposal,2025-11-15,15640.75,Terri,10
+OPP239,CUST010,Optimize Virtual Roi,Qualified,2025-10-19,7919.01,Jonathan,30
+OPP240,CUST001,Matrix 24/7 Platforms,Qualified,2025-09-28,716.85,Erik,90
+OPP241,CUST018,Synergize B2B Solutions,Closed Lost,2025-10-04,10690.68,Amanda,10
+OPP242,CUST006,Re-Intermediate Intuitive Supply-Chains,Lead,2025-09-24,3049.78,Michael,10
+OPP243,CUST012,Generate Magnetic Roi,Proposal,2025-09-19,19798.69,Riley,10
+OPP244,CUST006,Engineer Integrated Deliverables,Closed Won,2025-09-13,16739.58,Scott,70
+OPP245,CUST019,Generate B2C Eyeballs,Closed Lost,2025-10-19,10534.54,Lisa,70
+OPP246,CUST003,Transform Rich Convergence,Lead,2025-09-05,12595.55,Shirley,30
+OPP247,CUST018,Enhance Open-Source Vortals,Closed Lost,2025-10-06,4757.81,Ralph,90
+OPP248,CUST010,Seize Leading-Edge Solutions,Closed Won,2025-09-30,17475.56,Valerie,90
+OPP249,CUST008,Seize Synergistic Portals,Closed Lost,2025-10-10,10061.51,Keith,10
+OPP250,CUST007,Target Wireless Methodologies,Closed Lost,2025-11-04,15249.69,Alice,30
+OPP251,CUST002,Enable One-To-One Communities,Lead,2025-09-18,4648.72,Kim,90
+OPP252,CUST004,Empower Interactive Interfaces,Qualified,2025-11-23,19880.63,David,70
+OPP253,CUST015,Redefine World-Class Eyeballs,Negotiation,2025-11-09,14838.44,Nathan,90
+OPP254,CUST020,Maximize Cutting-Edge Systems,Negotiation,2025-10-11,2577.78,Jose,50
+OPP255,CUST006,Re-Contextualize Efficient Mindshare,Negotiation,2025-08-29,8871.31,Randall,90
+OPP256,CUST016,Empower Best-Of-Breed Portals,Lead,2025-10-25,11977.28,Lauren,50
+OPP257,CUST004,Evolve 24/7 Metrics,Closed Lost,2025-09-14,2959.99,Kenneth,30
+OPP258,CUST015,Harness Front-End Synergies,Negotiation,2025-11-20,2978.27,Allison,30
+OPP259,CUST006,Grow Dot-Com Synergies,Closed Won,2025-09-22,4234.81,Laura,30
+OPP260,CUST017,Streamline Seamless Action-Items,Negotiation,2025-09-24,1753.17,Patrick,50
+OPP261,CUST016,Envisioneer Viral Web Services,Closed Won,2025-09-19,9746.19,Penny,70
+OPP262,CUST014,E-Enable Collaborative Platforms,Proposal,2025-09-17,3913.99,Russell,10
+OPP263,CUST019,Benchmark B2B Info-Mediaries,Closed Won,2025-09-17,15584.9,John,30
+OPP264,CUST008,Re-Contextualize Bricks-And-Clicks Content,Closed Lost,2025-10-02,4671.01,Kathleen,70
+OPP265,CUST012,Visualize Granular Synergies,Closed Won,2025-10-12,19872.73,Ryan,50
+OPP266,CUST017,Strategize Magnetic Convergence,Negotiation,2025-11-09,1762.51,Lawrence,30
+OPP267,CUST017,Orchestrate Distributed Convergence,Closed Lost,2025-11-12,18466.3,Lisa,10
+OPP268,CUST005,Scale Viral Communities,Qualified,2025-11-11,8648.0,Alicia,50
+OPP269,CUST002,Extend User-Centric Infrastructures,Lead,2025-11-19,4195.16,Richard,10
+OPP270,CUST001,Integrate Virtual Models,Qualified,2025-09-12,2761.42,Kevin,70
+OPP271,CUST008,Utilize Visionary Eyeballs,Qualified,2025-10-21,3518.11,Eric,10
+OPP272,CUST001,Maximize B2B Eyeballs,Qualified,2025-11-06,12422.99,Thomas,30
+OPP273,CUST015,Implement Compelling Applications,Negotiation,2025-09-03,772.02,Robin,90
+OPP274,CUST001,Strategize Synergistic Bandwidth,Qualified,2025-09-16,9733.29,Jean,30
+OPP275,CUST013,Implement Vertical Platforms,Lead,2025-10-21,16167.38,Benjamin,30
+OPP276,CUST001,Iterate Visionary Infrastructures,Negotiation,2025-09-01,1711.46,Carlos,70
+OPP277,CUST002,Synthesize Sticky Infrastructures,Qualified,2025-09-02,18350.81,Jonathan,10
+OPP278,CUST002,Implement Out-Of-The-Box E-Business,Lead,2025-09-21,10660.2,Colleen,10
+OPP279,CUST002,Synthesize Rich Bandwidth,Qualified,2025-10-02,6583.51,Joshua,10
+OPP280,CUST007,Grow Ubiquitous E-Business,Lead,2025-09-08,12852.47,Sean,10
+OPP281,CUST001,Integrate Viral Partnerships,Closed Won,2025-09-01,1456.34,Elizabeth,70
+OPP282,CUST013,Re-Contextualize End-To-End Channels,Closed Won,2025-10-13,3936.99,Tara,90
+OPP283,CUST002,Transform Strategic Metrics,Proposal,2025-10-17,4239.96,James,30
+OPP284,CUST012,Redefine Bricks-And-Clicks Metrics,Lead,2025-08-29,17458.04,Taylor,30
+OPP285,CUST012,Expedite Granular Convergence,Closed Won,2025-10-31,807.36,Juan,70
+OPP286,CUST014,Exploit Bleeding-Edge Interfaces,Closed Won,2025-11-15,7727.46,David,50
+OPP287,CUST016,Implement Sticky Markets,Closed Won,2025-10-30,16928.27,Stacy,10
+OPP288,CUST013,Integrate Customized Schemas,Closed Won,2025-10-10,14791.77,Sally,90
+OPP289,CUST019,Visualize User-Centric Portals,Closed Lost,2025-09-10,16704.01,Steven,30
+OPP290,CUST007,Incubate 24/365 Metrics,Closed Won,2025-11-12,5791.72,Andrew,70
+OPP291,CUST003,Repurpose B2B Deliverables,Negotiation,2025-09-01,9916.36,Holly,90
+OPP292,CUST020,Incubate 24/365 Web Services,Closed Lost,2025-08-30,10112.87,Brenda,90
+OPP293,CUST015,Leverage Extensible Web Services,Negotiation,2025-11-03,4922.74,Michael,50
+OPP294,CUST003,Drive Holistic Schemas,Lead,2025-09-01,8028.86,Russell,70
+OPP295,CUST020,Seize B2B Experiences,Closed Lost,2025-11-21,6841.16,Sarah,10
+OPP296,CUST018,Syndicate Cross-Platform Synergies,Closed Won,2025-11-24,14648.1,Lauren,50
+OPP297,CUST005,Drive Visionary Functionalities,Closed Lost,2025-10-09,4805.17,Lisa,90
+OPP298,CUST016,Facilitate Integrated Architectures,Proposal,2025-09-13,17011.8,Dean,70
+OPP299,CUST011,Reinvent Out-Of-The-Box E-Tailers,Lead,2025-09-22,7291.07,Crystal,10
+OPP300,CUST009,Enable Front-End Info-Mediaries,Closed Won,2025-10-12,5528.97,Cheryl,70
+OPP301,CUST012,E-Enable Open-Source Portals,Proposal,2025-10-25,11542.41,Kelly,30
+OPP302,CUST017,Evolve Distributed Schemas,Closed Lost,2025-09-29,11525.78,Brandi,30
+OPP303,CUST016,Syndicate Virtual Applications,Negotiation,2025-10-09,7662.37,Kimberly,10
+OPP304,CUST005,E-Enable Frictionless Infrastructures,Lead,2025-09-02,8395.61,Daniel,50
+OPP305,CUST018,Embrace Global Infrastructures,Proposal,2025-09-19,9760.92,Anthony,10
+OPP306,CUST009,Grow Robust Deliverables,Proposal,2025-10-16,2872.4,Natasha,10
+OPP307,CUST018,E-Enable User-Centric Vortals,Closed Won,2025-10-26,1659.73,Daniel,90
+OPP308,CUST001,Transform Robust Metrics,Closed Lost,2025-09-25,4467.91,Charles,90
+OPP309,CUST020,Transform Cutting-Edge Synergies,Negotiation,2025-09-22,17343.68,Leah,70
+OPP310,CUST010,Unleash Collaborative Bandwidth,Closed Won,2025-09-09,8634.59,Terri,90
+OPP311,CUST007,Drive Compelling Schemas,Negotiation,2025-09-04,9654.96,Darrell,90
+OPP312,CUST017,Re-Contextualize Leading-Edge Experiences,Negotiation,2025-09-24,5642.5,Darlene,10
+OPP313,CUST019,Engineer Mission-Critical Paradigms,Lead,2025-09-09,2480.86,Karla,50
+OPP314,CUST020,Unleash Leading-Edge Interfaces,Lead,2025-11-10,8877.72,Ashley,10
+OPP315,CUST014,Seize Proactive Synergies,Proposal,2025-10-11,13851.35,Hector,10
+OPP316,CUST004,Whiteboard B2C Convergence,Closed Won,2025-09-09,1330.42,David,50
+OPP317,CUST012,Integrate Synergistic Niches,Closed Won,2025-09-10,13411.97,Kyle,30
+OPP318,CUST016,Repurpose B2B Solutions,Closed Won,2025-10-30,19381.42,Madison,70
+OPP319,CUST014,Enable Distributed Technologies,Negotiation,2025-09-21,4008.13,Vanessa,90
+OPP320,CUST009,Incubate Distributed Metrics,Proposal,2025-10-30,17534.18,Thomas,50
+OPP321,CUST013,Empower Customized Networks,Qualified,2025-09-17,11176.24,John,70
+OPP322,CUST004,Revolutionize Front-End E-Markets,Closed Won,2025-10-13,11313.62,Beth,90
+OPP323,CUST013,Matrix Mission-Critical Eyeballs,Lead,2025-10-30,13170.91,Adrienne,90
+OPP324,CUST010,Unleash Plug-And-Play Markets,Proposal,2025-09-14,1747.23,Ashley,70
+OPP325,CUST001,Unleash Cross-Platform Platforms,Proposal,2025-11-20,15547.74,Jennifer,10
+OPP326,CUST015,Iterate Clicks-And-Mortar Markets,Lead,2025-10-07,15085.1,Alejandra,70
+OPP327,CUST006,Enhance Turn-Key Networks,Negotiation,2025-11-06,11386.91,Hannah,10
+OPP328,CUST012,Evolve Plug-And-Play Architectures,Lead,2025-11-17,14958.1,Gina,50
+OPP329,CUST013,Visualize Interactive Experiences,Negotiation,2025-10-31,19680.0,Tiffany,10
+OPP330,CUST004,Transition Dynamic Content,Closed Won,2025-09-09,6732.51,Phillip,70
+OPP331,CUST008,Drive Clicks-And-Mortar Vortals,Negotiation,2025-10-24,14524.44,Michael,50
+OPP332,CUST020,Envisioneer Value-Added Info-Mediaries,Lead,2025-09-17,9861.93,Joseph,70
+OPP333,CUST016,Generate Proactive Eyeballs,Closed Won,2025-11-06,11422.77,Marissa,10
+OPP334,CUST011,Streamline Scalable Eyeballs,Closed Won,2025-10-11,11090.72,Tammy,90
+OPP335,CUST014,Grow Compelling Metrics,Closed Won,2025-11-19,18921.79,Kevin,90
+OPP336,CUST015,Brand Clicks-And-Mortar Platforms,Proposal,2025-10-07,4920.3,Kristy,10
+OPP337,CUST001,Exploit Frictionless Supply-Chains,Closed Won,2025-11-11,17424.5,Erin,70
+OPP338,CUST003,Syndicate Impactful Partnerships,Negotiation,2025-08-30,7105.14,Cassandra,70
+OPP339,CUST005,Synergize Clicks-And-Mortar Action-Items,Closed Lost,2025-11-14,2653.36,Taylor,50
+OPP340,CUST002,Exploit Leading-Edge Schemas,Negotiation,2025-08-31,14685.58,Erin,10
+OPP341,CUST012,Disintermediate One-To-One Paradigms,Negotiation,2025-10-02,8075.18,Brent,10
+OPP342,CUST003,Exploit Killer E-Services,Closed Lost,2025-08-30,19053.05,Frank,50
+OPP343,CUST012,Deliver Extensible Bandwidth,Qualified,2025-11-26,17123.78,Kevin,50
+OPP344,CUST015,Re-Intermediate Seamless Supply-Chains,Proposal,2025-10-03,9551.4,Molly,90
+OPP345,CUST004,Revolutionize Intuitive Action-Items,Proposal,2025-11-13,876.62,Selena,50
+OPP346,CUST019,Maximize Out-Of-The-Box Technologies,Closed Won,2025-10-31,7278.88,Kevin,70
+OPP347,CUST010,Architect Holistic E-Business,Negotiation,2025-10-03,5276.34,Danielle,70
+OPP348,CUST020,Whiteboard Proactive Niches,Qualified,2025-09-22,11650.35,Robert,50
+OPP349,CUST005,Synergize B2C Vortals,Negotiation,2025-09-13,13940.47,Mark,30
+OPP350,CUST004,Mesh Clicks-And-Mortar Convergence,Closed Won,2025-11-13,14090.85,Chad,50
+OPP351,CUST006,Maximize Real-Time Communities,Negotiation,2025-10-02,12613.99,Jennifer,10
+OPP352,CUST001,Maximize Frictionless Architectures,Lead,2025-09-09,3903.8,Kaitlyn,90
+OPP353,CUST008,Innovate Rich Technologies,Negotiation,2025-11-01,12779.93,Michael,10
+OPP354,CUST016,Seize Revolutionary Roi,Qualified,2025-11-26,16207.92,James,30
+OPP355,CUST020,Harness Killer Users,Lead,2025-10-31,2680.09,Connor,70
+OPP356,CUST013,Unleash Rich Infrastructures,Qualified,2025-09-07,4374.67,Kathleen,10
+OPP357,CUST011,Reinvent Synergistic Platforms,Closed Lost,2025-10-24,14490.08,Barbara,30
+OPP358,CUST014,Extend Cross-Media Applications,Proposal,2025-10-09,14573.0,Dennis,30
+OPP359,CUST001,Exploit Web-Enabled Roi,Lead,2025-09-06,16775.0,Wendy,50
+OPP360,CUST017,Utilize Best-Of-Breed Partnerships,Lead,2025-10-26,9787.86,William,50
+OPP361,CUST011,Grow Vertical Vortals,Negotiation,2025-11-17,16422.0,Andrea,30
+OPP362,CUST013,Leverage 24/365 E-Commerce,Lead,2025-10-20,17343.4,Suzanne,50
+OPP363,CUST010,Strategize Integrated Synergies,Lead,2025-11-10,12179.34,David,70
+OPP364,CUST004,Unleash Wireless E-Commerce,Qualified,2025-09-06,7084.01,Randall,90
+OPP365,CUST003,Syndicate B2C Web Services,Negotiation,2025-10-28,18664.77,Adriana,90
+OPP366,CUST007,Deploy Intuitive Initiatives,Qualified,2025-09-04,4220.48,Kevin,10
+OPP367,CUST017,Incubate Vertical E-Business,Closed Lost,2025-11-06,9317.69,Brandon,10
+OPP368,CUST016,Generate Web-Enabled Technologies,Closed Won,2025-11-24,19328.34,Willie,50
+OPP369,CUST011,Engineer Rich Portals,Closed Lost,2025-10-31,2125.42,James,50
+OPP370,CUST013,E-Enable Strategic Architectures,Proposal,2025-11-14,16987.0,John,30
+OPP371,CUST001,Facilitate Clicks-And-Mortar Metrics,Proposal,2025-08-31,11237.69,Cathy,70
+OPP372,CUST014,Morph User-Centric Web-Readiness,Closed Won,2025-10-14,6648.67,Jared,50
+OPP373,CUST010,Visualize Transparent Eyeballs,Lead,2025-10-26,16985.9,Sarah,10
+OPP374,CUST009,Re-Contextualize Bleeding-Edge Mindshare,Negotiation,2025-09-17,15907.7,Mary,90
+OPP375,CUST006,Grow Ubiquitous Solutions,Lead,2025-11-10,9534.95,Joseph,50
+OPP376,CUST015,Evolve Synergistic Synergies,Lead,2025-10-26,10210.3,Ann,10
+OPP377,CUST007,Deploy E-Business Solutions,Negotiation,2025-11-20,16503.77,James,30
+OPP378,CUST001,Exploit Dot-Com Deliverables,Closed Won,2025-11-03,3886.53,Rachel,70
+OPP379,CUST018,Deploy Sticky Info-Mediaries,Closed Won,2025-10-03,16115.97,William,70
+OPP380,CUST013,Leverage Web-Enabled E-Services,Lead,2025-11-16,1851.16,Emily,50
+OPP381,CUST011,Drive Revolutionary Platforms,Qualified,2025-10-05,19498.06,Paul,70
+OPP382,CUST009,Synthesize Open-Source Functionalities,Lead,2025-09-19,12685.34,Nathan,30
+OPP383,CUST011,Visualize Wireless Markets,Negotiation,2025-09-12,17871.53,Jennifer,50
+OPP384,CUST013,Facilitate Intuitive Applications,Negotiation,2025-10-16,16241.16,Adam,30
+OPP385,CUST013,Syndicate Visionary Roi,Lead,2025-11-20,3008.44,Joseph,90
+OPP386,CUST017,Redefine Global Mindshare,Closed Won,2025-09-20,12905.44,Timothy,90
+OPP387,CUST003,Transform Intuitive Action-Items,Proposal,2025-10-09,17625.18,Patricia,70
+OPP388,CUST002,Target Virtual E-Tailers,Proposal,2025-10-29,11599.52,Monica,30
+OPP389,CUST014,Re-Intermediate Front-End Interfaces,Closed Lost,2025-10-04,6249.13,Kristen,70
+OPP390,CUST019,Revolutionize 24/365 Architectures,Qualified,2025-09-06,6166.61,Robin,10
+OPP391,CUST003,Incentivize Front-End Action-Items,Qualified,2025-10-30,6879.31,Erin,50
+OPP392,CUST011,Architect Cross-Media Systems,Negotiation,2025-09-08,7300.15,Tiffany,70
+OPP393,CUST003,Target World-Class Interfaces,Closed Won,2025-10-27,17111.42,Brian,70
+OPP394,CUST007,Repurpose Out-Of-The-Box Channels,Negotiation,2025-09-26,7206.6,Cheryl,90
+OPP395,CUST011,Enhance Dynamic Initiatives,Negotiation,2025-09-15,18703.11,Allen,90
+OPP396,CUST012,Monetize Impactful Eyeballs,Proposal,2025-11-25,12477.94,Monica,50
+OPP397,CUST011,Benchmark Efficient Models,Qualified,2025-10-29,17469.73,David,90
+OPP398,CUST003,Envisioneer Vertical Partnerships,Closed Won,2025-09-01,16015.81,Lori,10
+OPP399,CUST020,Maximize Back-End Applications,Closed Won,2025-09-11,11118.61,Jacob,10
+OPP400,CUST016,Productize Dot-Com Schemas,Lead,2025-10-23,10870.49,Helen,10
+OPP401,CUST015,Engineer Cutting-Edge E-Tailers,Negotiation,2025-08-30,15187.93,Jessica,10
+OPP402,CUST020,Iterate Cross-Platform Platforms,Qualified,2025-10-27,7407.4,Sheena,50
+OPP403,CUST009,Embrace Virtual Models,Negotiation,2025-11-02,12043.01,Elizabeth,90
+OPP404,CUST008,Re-Contextualize Proactive Convergence,Lead,2025-11-16,873.34,Anne,70
+OPP405,CUST016,Reinvent Intuitive Initiatives,Closed Lost,2025-11-12,1869.01,Diamond,50
+OPP406,CUST004,E-Enable Proactive E-Tailers,Proposal,2025-09-25,16819.0,Jessica,10
+OPP407,CUST020,Leverage Next-Generation Content,Closed Lost,2025-11-12,870.55,Fernando,90
+OPP408,CUST017,Engineer Vertical Vortals,Closed Lost,2025-10-03,9621.92,Stacy,10
+OPP409,CUST014,Grow Compelling Schemas,Closed Won,2025-11-02,3433.16,Elizabeth,70
+OPP410,CUST018,Transition Bleeding-Edge Systems,Negotiation,2025-11-24,12454.03,Michael,10
+OPP411,CUST019,Generate Holistic Partnerships,Negotiation,2025-11-24,14809.8,Terri,90
+OPP412,CUST017,Syndicate Customized Partnerships,Closed Lost,2025-10-18,11927.56,Rebecca,10
+OPP413,CUST001,Enhance Next-Generation Architectures,Closed Won,2025-10-14,3540.02,Jeffrey,50
+OPP414,CUST011,Deliver Front-End Web-Readiness,Lead,2025-10-16,2427.31,Steven,70
+OPP415,CUST007,Syndicate Enterprise Deliverables,Closed Lost,2025-09-16,17514.26,Eric,30
+OPP416,CUST020,Transform Efficient Niches,Closed Lost,2025-10-11,8143.45,Ricky,30
+OPP417,CUST003,Synthesize Rich Initiatives,Lead,2025-09-01,15170.39,David,10
+OPP418,CUST010,Redefine Leading-Edge Platforms,Closed Won,2025-11-13,10496.55,Cindy,70
+OPP419,CUST014,Matrix Efficient Partnerships,Closed Lost,2025-10-27,18109.57,Crystal,70
+OPP420,CUST006,Envisioneer Web-Enabled Channels,Negotiation,2025-09-20,11642.44,Cynthia,70
+OPP421,CUST017,Reinvent Enterprise Applications,Closed Lost,2025-10-24,9682.88,Julia,70
+OPP422,CUST004,Productize Collaborative Channels,Closed Won,2025-11-11,5064.94,Paul,10
+OPP423,CUST007,Engineer 24/7 Communities,Negotiation,2025-09-23,19018.8,Brian,50
+OPP424,CUST009,Incentivize Holistic Channels,Closed Won,2025-09-18,3299.83,Ashley,10
+OPP425,CUST019,Visualize Impactful Initiatives,Lead,2025-09-17,1737.37,Melissa,50
+OPP426,CUST001,Redefine Robust Initiatives,Lead,2025-10-06,2450.85,Steven,10
+OPP427,CUST016,Empower Sticky Networks,Qualified,2025-09-21,5367.61,Jeremy,70
+OPP428,CUST007,Deliver Viral E-Tailers,Negotiation,2025-10-03,1351.09,Brian,10
+OPP429,CUST011,Incentivize Vertical Channels,Qualified,2025-10-19,1939.88,Charles,50
+OPP430,CUST017,Optimize Compelling Users,Closed Won,2025-11-07,18364.19,Angela,50
+OPP431,CUST002,Streamline Frictionless Supply-Chains,Negotiation,2025-11-05,9190.0,Stephen,10
+OPP432,CUST006,Deploy Bleeding-Edge Solutions,Proposal,2025-09-02,17557.76,Donna,70
+OPP433,CUST011,Generate Killer Users,Closed Lost,2025-11-09,12623.81,Kelly,70
+OPP434,CUST001,Facilitate Impactful Architectures,Qualified,2025-10-06,15557.71,Michael,70
+OPP435,CUST011,Reinvent User-Centric Communities,Qualified,2025-10-18,4733.67,Nicole,50
+OPP436,CUST009,Brand Efficient Experiences,Qualified,2025-09-07,16793.83,Jeff,10
+OPP437,CUST006,Envisioneer Front-End Interfaces,Closed Lost,2025-10-28,9239.42,Daniel,90
+OPP438,CUST017,Enable Innovative Deliverables,Proposal,2025-09-29,13489.34,Kathleen,90
+OPP439,CUST015,Deploy Scalable Eyeballs,Negotiation,2025-10-06,17725.99,Jacob,70
+OPP440,CUST001,Transition Viral Applications,Negotiation,2025-09-08,8814.12,Thomas,90
+OPP441,CUST004,Synthesize Seamless Technologies,Negotiation,2025-11-07,14314.77,Amy,70
+OPP442,CUST019,Re-Intermediate Value-Added Eyeballs,Closed Won,2025-11-24,17238.72,William,30
+OPP443,CUST009,Evolve Revolutionary Eyeballs,Negotiation,2025-11-08,4555.32,Connor,70
+OPP444,CUST011,Engage Out-Of-The-Box E-Tailers,Closed Lost,2025-10-10,13942.41,Sandra,90
+OPP445,CUST017,Engage B2C Vortals,Lead,2025-09-29,14816.69,Gary,50
+OPP446,CUST011,Scale Integrated Content,Proposal,2025-09-24,12997.84,Amanda,50
+OPP447,CUST010,Incubate Dot-Com Supply-Chains,Closed Won,2025-09-24,3487.91,Charles,90
+OPP448,CUST013,Re-Contextualize Mission-Critical Technologies,Negotiation,2025-11-22,3266.04,Jeremy,10
+OPP449,CUST006,Engage Customized Initiatives,Lead,2025-08-29,8831.01,Ruth,90
+OPP450,CUST009,Benchmark Impactful Portals,Negotiation,2025-10-04,11647.39,Martin,30
+OPP451,CUST007,Scale Intuitive E-Tailers,Lead,2025-10-15,4088.12,Rhonda,50
+OPP452,CUST006,Innovate Enterprise Initiatives,Closed Lost,2025-09-25,6816.27,Chad,90
+OPP453,CUST018,Disintermediate World-Class Deliverables,Closed Lost,2025-10-21,13700.47,Hannah,70
+OPP454,CUST020,Visualize Leading-Edge Systems,Closed Won,2025-09-20,13284.52,Carlos,10
+OPP455,CUST003,Redefine Real-Time E-Business,Lead,2025-11-06,3132.58,Monica,50
+OPP456,CUST011,Redefine Rich Metrics,Closed Won,2025-10-07,10363.33,Rhonda,70
+OPP457,CUST011,Iterate B2B Eyeballs,Proposal,2025-11-19,6344.9,Charles,50
+OPP458,CUST004,E-Enable Web-Enabled Architectures,Closed Won,2025-09-29,4664.69,Robert,10
+OPP459,CUST001,Aggregate Robust Platforms,Negotiation,2025-10-18,3805.63,Anthony,30
+OPP460,CUST007,Disintermediate Cross-Platform E-Commerce,Proposal,2025-11-13,8180.23,Kelli,90
+OPP461,CUST004,Generate Magnetic Users,Closed Lost,2025-11-13,2837.42,Beverly,90
+OPP462,CUST013,Morph Ubiquitous Bandwidth,Negotiation,2025-08-30,18110.23,John,50
+OPP463,CUST001,Integrate Value-Added Portals,Closed Lost,2025-08-30,6285.3,Brandon,30
+OPP464,CUST018,Cultivate Best-Of-Breed Architectures,Qualified,2025-09-26,14470.14,Heather,30
+OPP465,CUST019,Visualize Dot-Com Functionalities,Lead,2025-09-09,5342.1,Tonya,50
+OPP466,CUST007,Re-Contextualize Holistic Niches,Closed Won,2025-09-02,14902.79,Crystal,10
+OPP467,CUST007,Visualize Leading-Edge Relationships,Closed Lost,2025-09-13,14703.96,Bonnie,90
+OPP468,CUST002,Strategize Real-Time E-Tailers,Lead,2025-09-03,5477.71,Michelle,70
+OPP469,CUST011,Iterate Synergistic Functionalities,Proposal,2025-09-21,13171.09,Whitney,30
+OPP470,CUST013,Reinvent Visionary Models,Qualified,2025-09-06,3099.77,Michelle,10
+OPP471,CUST015,Disintermediate Wireless Markets,Closed Won,2025-09-10,9199.39,Miranda,70
+OPP472,CUST017,Re-Contextualize Cross-Media Metrics,Closed Lost,2025-10-28,14591.12,Joseph,30
+OPP473,CUST003,Implement Dot-Com Vortals,Closed Won,2025-10-20,1193.7,Tonya,10
+OPP474,CUST004,Visualize Leading-Edge Action-Items,Closed Lost,2025-11-16,14040.1,Gina,10
+OPP475,CUST009,Revolutionize Transparent Roi,Closed Lost,2025-10-27,2435.82,Tammy,90
+OPP476,CUST006,Innovate Sticky Schemas,Qualified,2025-11-25,18840.05,Tara,90
+OPP477,CUST019,Utilize Bleeding-Edge Synergies,Lead,2025-10-22,8058.12,James,70
+OPP478,CUST001,Scale Proactive Portals,Closed Won,2025-11-12,15007.97,Robert,70
+OPP479,CUST009,Deploy Extensible Relationships,Proposal,2025-10-31,17136.29,Daniel,50
+OPP480,CUST011,Streamline Magnetic Content,Closed Lost,2025-11-12,4606.51,Zachary,50
+OPP481,CUST014,Scale Strategic Applications,Lead,2025-11-04,16660.47,Philip,70
+OPP482,CUST002,Redefine User-Centric Markets,Closed Won,2025-10-06,5411.2,Karen,10
+OPP483,CUST014,Facilitate Seamless Users,Negotiation,2025-09-29,1664.39,Kaylee,70
+OPP484,CUST007,Streamline Strategic Synergies,Proposal,2025-11-22,16576.41,David,70
+OPP485,CUST008,Expedite B2B Architectures,Lead,2025-11-14,12176.06,Joseph,10
+OPP486,CUST013,Orchestrate Ubiquitous Technologies,Lead,2025-09-13,9545.94,Joann,50
+OPP487,CUST015,Envisioneer Cross-Media Bandwidth,Qualified,2025-10-13,14675.24,Jill,50
+OPP488,CUST010,Utilize Collaborative Functionalities,Lead,2025-09-12,4629.98,Matthew,90
+OPP489,CUST004,Embrace Distributed Channels,Lead,2025-11-03,8967.55,Nancy,30
+OPP490,CUST009,Grow Holistic E-Markets,Lead,2025-10-09,4768.36,Michael,70
+OPP491,CUST015,Revolutionize End-To-End Vortals,Negotiation,2025-10-23,4411.35,Toni,90
+OPP492,CUST019,Enhance Transparent Communities,Negotiation,2025-09-09,15881.31,Jenna,30
+OPP493,CUST013,Integrate Seamless Initiatives,Lead,2025-11-22,888.51,Steven,50
+OPP494,CUST008,Deploy Dot-Com Paradigms,Lead,2025-11-19,535.61,Bruce,10
+OPP495,CUST009,Transition Back-End Communities,Closed Lost,2025-10-20,1007.11,Christopher,30
+OPP496,CUST011,Transition Ubiquitous Content,Closed Lost,2025-08-28,14315.72,David,70
+OPP497,CUST017,Unleash Dynamic Paradigms,Closed Won,2025-10-21,11301.94,Kristi,90
+OPP498,CUST017,Re-Intermediate Plug-And-Play Schemas,Lead,2025-10-02,19329.07,Joshua,90
+OPP499,CUST007,E-Enable World-Class Platforms,Closed Won,2025-11-02,1116.97,Michelle,70
+OPP500,CUST005,Deliver Customized Portals,Proposal,2025-10-02,15725.68,Susan,50
+OPP501,CUST017,Redefine Cross-Platform Vortals,Closed Won,2025-10-04,3730.71,Evan,70
+OPP502,CUST007,Re-Contextualize Leading-Edge Platforms,Lead,2025-09-04,6809.05,Joshua,70
+OPP503,CUST011,Expedite Holistic E-Markets,Negotiation,2025-10-21,5329.59,Sherry,90
+OPP504,CUST006,Utilize Viral E-Services,Lead,2025-08-29,994.17,Lisa,50
+OPP505,CUST012,Drive E-Business Supply-Chains,Closed Won,2025-09-07,515.51,Jenna,70
+OPP506,CUST014,Deploy Customized Platforms,Lead,2025-11-24,3576.73,Harold,90
+OPP507,CUST010,Facilitate Sticky Technologies,Proposal,2025-09-20,2265.84,Erica,10
+OPP508,CUST008,Evolve Integrated Eyeballs,Negotiation,2025-09-01,5593.08,Erica,10
+OPP509,CUST004,Enable Cutting-Edge E-Tailers,Proposal,2025-11-19,3382.14,David,90
+OPP510,CUST013,Empower Killer Deliverables,Proposal,2025-10-03,1593.85,Calvin,90
+OPP511,CUST009,Syndicate Bricks-And-Clicks Action-Items,Closed Won,2025-09-19,18186.5,Kristin,10
+OPP512,CUST008,Extend Plug-And-Play Users,Proposal,2025-11-17,7674.59,Stephen,10
+OPP513,CUST015,Seize Bleeding-Edge Partnerships,Lead,2025-08-28,14058.91,Danielle,10
+OPP514,CUST005,Facilitate Clicks-And-Mortar Portals,Qualified,2025-10-03,16089.07,Steven,10
+OPP515,CUST005,Disintermediate Customized Architectures,Proposal,2025-10-16,17555.34,Angela,90
+OPP516,CUST019,Drive Plug-And-Play Action-Items,Closed Lost,2025-09-12,2207.56,Jacob,50
+OPP517,CUST017,Utilize B2C Architectures,Lead,2025-09-14,5417.68,Donald,50
+OPP518,CUST017,Innovate Innovative Action-Items,Qualified,2025-10-09,578.64,Katherine,50
+OPP519,CUST016,Aggregate Frictionless Bandwidth,Negotiation,2025-11-03,5161.99,Jacqueline,70
+OPP520,CUST017,Synergize Web-Enabled E-Services,Qualified,2025-09-30,17453.4,Jamie,10
+OPP521,CUST012,Iterate Magnetic E-Services,Proposal,2025-11-22,8923.64,William,90
+OPP522,CUST014,Engage One-To-One Interfaces,Closed Lost,2025-10-05,3197.64,Dustin,30
+OPP523,CUST005,Harness Back-End Communities,Negotiation,2025-09-11,17173.49,Christopher,50
+OPP524,CUST014,Architect Killer Synergies,Closed Won,2025-11-09,4404.47,Ashlee,70
+OPP525,CUST001,Disintermediate Back-End Portals,Closed Lost,2025-08-29,15301.41,Laura,70
+OPP526,CUST019,Transform Revolutionary Interfaces,Negotiation,2025-10-11,5352.64,Katherine,30
+OPP527,CUST013,Morph Value-Added Relationships,Closed Lost,2025-08-28,8845.38,Kevin,90
+OPP528,CUST001,Envisioneer Magnetic Users,Closed Won,2025-09-01,19635.57,Joseph,70
+OPP529,CUST018,Evolve Dot-Com Mindshare,Negotiation,2025-11-04,14474.18,Morgan,70
+OPP530,CUST020,Seize Best-Of-Breed Technologies,Negotiation,2025-10-09,13059.23,Beth,50
+OPP531,CUST019,Redefine Killer Infrastructures,Closed Won,2025-09-28,13568.79,Margaret,50
+OPP532,CUST006,Benchmark Strategic Networks,Negotiation,2025-10-03,13114.41,Carolyn,70
+OPP533,CUST019,Embrace Enterprise Web Services,Qualified,2025-10-26,16752.13,Amanda,10
+OPP534,CUST010,Integrate Intuitive Mindshare,Closed Won,2025-09-04,1902.48,Hannah,50
+OPP535,CUST005,Harness Clicks-And-Mortar E-Markets,Qualified,2025-10-18,19303.37,Michael,50
+OPP536,CUST019,Incentivize Collaborative Niches,Negotiation,2025-11-11,6349.49,Jillian,50
+OPP537,CUST009,Iterate Viral Bandwidth,Qualified,2025-09-24,15995.77,Rebecca,90
+OPP538,CUST020,Deliver Collaborative Eyeballs,Negotiation,2025-10-02,2191.49,Ann,70
+OPP539,CUST007,Visualize Visionary Systems,Qualified,2025-08-29,5929.69,Zachary,50
+OPP540,CUST014,Whiteboard Clicks-And-Mortar Applications,Lead,2025-09-29,17898.49,Jerome,30
+OPP541,CUST015,Re-Contextualize Scalable Relationships,Closed Lost,2025-10-21,17763.6,Alexis,90
+OPP542,CUST017,Matrix Frictionless Networks,Closed Won,2025-10-04,18519.69,Mary,50
+OPP543,CUST013,Engineer Cross-Media Communities,Qualified,2025-10-02,15970.46,Sara,90
+OPP544,CUST004,Empower Cutting-Edge Paradigms,Negotiation,2025-09-14,11162.65,Susan,50
+OPP545,CUST007,Re-Contextualize Efficient Eyeballs,Lead,2025-11-05,13400.57,Kayla,90
+OPP546,CUST007,Transform Magnetic Infrastructures,Negotiation,2025-10-28,13312.15,Tricia,50
+OPP547,CUST009,Mesh Strategic Deliverables,Qualified,2025-10-17,2495.71,Lisa,70
+OPP548,CUST005,Syndicate Distributed Functionalities,Proposal,2025-10-05,3167.72,Christopher,30
+OPP549,CUST018,Syndicate 24/365 Models,Proposal,2025-10-31,6125.13,Leslie,50
+OPP550,CUST018,Brand Next-Generation Info-Mediaries,Closed Won,2025-10-28,8287.7,Harry,10
+OPP551,CUST004,Benchmark Magnetic E-Tailers,Negotiation,2025-10-17,14959.64,Kristy,30
+OPP552,CUST020,Brand Bricks-And-Clicks Synergies,Closed Lost,2025-09-23,14894.36,Katherine,50
+OPP553,CUST008,Innovate Killer Models,Closed Won,2025-09-30,12862.61,Jason,30
+OPP554,CUST018,Innovate Killer Infrastructures,Negotiation,2025-08-31,5222.32,Tracey,70
+OPP555,CUST017,Incubate Cross-Media Infrastructures,Negotiation,2025-09-13,15662.58,Charles,70
+OPP556,CUST009,Engineer 24/365 Info-Mediaries,Negotiation,2025-11-11,15866.08,Nicole,70
+OPP557,CUST018,Grow Innovative Mindshare,Negotiation,2025-09-11,19544.54,Carolyn,10
+OPP558,CUST017,Redefine Cross-Media E-Tailers,Proposal,2025-10-15,6237.5,Eric,90
+OPP559,CUST020,E-Enable Customized Experiences,Qualified,2025-09-12,15551.36,Anna,30
+OPP560,CUST020,Unleash Cross-Platform Deliverables,Closed Lost,2025-08-29,15122.24,Vanessa,50
+OPP561,CUST020,Empower Virtual Users,Lead,2025-09-26,5809.13,Jason,30
+OPP562,CUST003,Orchestrate One-To-One Deliverables,Closed Won,2025-09-04,7722.4,Haley,90
+OPP563,CUST017,Syndicate Vertical Deliverables,Negotiation,2025-11-20,16504.05,David,10
+OPP564,CUST006,Incubate Bricks-And-Clicks Channels,Lead,2025-10-02,11963.3,Shane,90
+OPP565,CUST011,Embrace Turn-Key Systems,Qualified,2025-10-19,7207.09,Hunter,30
+OPP566,CUST005,Streamline Extensible Deliverables,Lead,2025-09-15,18326.27,Jeremiah,90
+OPP567,CUST006,Incentivize Granular Bandwidth,Negotiation,2025-10-23,18421.73,Preston,30
+OPP568,CUST016,Target Turn-Key Partnerships,Proposal,2025-08-28,5437.65,Adam,30
+OPP569,CUST015,Incubate Revolutionary Platforms,Proposal,2025-09-01,3758.88,Patricia,70
+OPP570,CUST011,Target Value-Added Convergence,Qualified,2025-10-18,8482.47,Heather,90
+OPP571,CUST009,Seize One-To-One Partnerships,Closed Won,2025-10-21,7563.36,Robert,30
+OPP572,CUST018,Architect Integrated Roi,Qualified,2025-09-28,16524.23,Jeanette,50
+OPP573,CUST019,Deliver End-To-End Paradigms,Negotiation,2025-10-02,7446.19,Douglas,90
+OPP574,CUST003,Envisioneer Ubiquitous E-Tailers,Lead,2025-11-06,17120.95,Deborah,50
+OPP575,CUST019,Architect 24/365 E-Services,Lead,2025-09-04,4322.92,Nicole,90
+OPP576,CUST010,Enhance Front-End Action-Items,Closed Won,2025-09-24,4518.78,Melanie,10
+OPP577,CUST017,Reinvent Impactful Models,Qualified,2025-09-07,10928.53,Dylan,30
+OPP578,CUST002,Morph Turn-Key Solutions,Qualified,2025-10-05,8242.68,Ricardo,90
+OPP579,CUST007,Architect Seamless E-Services,Closed Lost,2025-11-09,17515.63,Kelly,50
+OPP580,CUST020,Grow Wireless Deliverables,Proposal,2025-11-16,7546.11,Tim,30
+OPP581,CUST002,Transform Open-Source E-Services,Closed Won,2025-10-20,6732.64,Cody,90
+OPP582,CUST017,Repurpose Wireless Platforms,Closed Lost,2025-10-02,1557.28,Daniel,90
+OPP583,CUST003,Streamline Bricks-And-Clicks Bandwidth,Closed Won,2025-09-05,4104.31,Catherine,90
+OPP584,CUST010,Generate Collaborative Interfaces,Closed Lost,2025-09-01,13289.0,Stephanie,10
+OPP585,CUST018,Re-Contextualize Bricks-And-Clicks Networks,Qualified,2025-10-15,4905.71,Lynn,10
+OPP586,CUST015,Incubate Robust Applications,Proposal,2025-09-25,5753.14,Tiffany,10
+OPP587,CUST019,Reinvent Global Models,Closed Won,2025-10-08,12873.72,Monica,70
+OPP588,CUST014,Whiteboard 24/7 Technologies,Qualified,2025-10-14,4401.15,George,90
+OPP589,CUST008,Deploy Magnetic Communities,Proposal,2025-10-13,1174.34,Kenneth,50
+OPP590,CUST009,Implement Value-Added Web Services,Closed Won,2025-10-12,18743.99,Robert,90
+OPP591,CUST010,Innovate Magnetic Relationships,Negotiation,2025-11-12,2389.34,Emily,70
+OPP592,CUST003,Enable Cross-Platform Markets,Lead,2025-08-30,12475.9,Laura,90
+OPP593,CUST003,Transform Frictionless Metrics,Closed Lost,2025-08-31,15841.05,Erin,10
+OPP594,CUST008,Engage Collaborative Markets,Lead,2025-09-23,1487.11,Rhonda,90
+OPP595,CUST008,Synergize Collaborative Content,Closed Lost,2025-09-20,13723.8,Frank,70
+OPP596,CUST019,Unleash Leading-Edge Convergence,Proposal,2025-11-20,1853.38,Maurice,50
+OPP597,CUST009,Utilize Vertical Channels,Closed Won,2025-10-04,4259.44,James,30
+OPP598,CUST007,Leverage Cross-Platform Deliverables,Closed Won,2025-10-14,2668.9,Chelsea,90
+OPP599,CUST016,Generate Distributed Eyeballs,Qualified,2025-09-02,19332.61,Julie,70
+OPP600,CUST002,Architect Cross-Platform Convergence,Lead,2025-11-11,4630.43,April,10
+OPP601,CUST020,Grow World-Class Markets,Closed Won,2025-10-24,2287.27,Thomas,90
+OPP602,CUST014,Harness World-Class Partnerships,Lead,2025-09-03,18939.95,Travis,90
+OPP603,CUST013,Target Plug-And-Play Relationships,Closed Lost,2025-10-13,8713.18,Wendy,30
+OPP604,CUST002,Incubate Viral Niches,Lead,2025-10-10,7511.18,Hannah,50
+OPP605,CUST010,Iterate Bricks-And-Clicks Supply-Chains,Lead,2025-11-18,11205.62,Jason,90
+OPP606,CUST008,Drive Proactive Paradigms,Negotiation,2025-10-14,1285.34,Monica,10
+OPP607,CUST009,Re-Intermediate Vertical Web Services,Closed Won,2025-10-02,13539.55,Kimberly,30
+OPP608,CUST014,Unleash Out-Of-The-Box Niches,Proposal,2025-09-22,18530.93,Christy,50
+OPP609,CUST019,Transition Frictionless Platforms,Negotiation,2025-09-25,7112.87,Laura,70
+OPP610,CUST018,Disintermediate Out-Of-The-Box Action-Items,Negotiation,2025-09-12,2940.03,Brandon,70
+OPP611,CUST019,Disintermediate Holistic E-Tailers,Lead,2025-10-27,3428.36,Cameron,50
+OPP612,CUST015,Deploy Distributed Schemas,Proposal,2025-10-18,18653.54,Bruce,30
+OPP613,CUST016,Optimize Magnetic Vortals,Lead,2025-09-16,17537.64,Joan,30
+OPP614,CUST008,Optimize User-Centric E-Markets,Closed Lost,2025-09-16,19973.66,Patricia,10
+OPP615,CUST009,Synergize Dynamic Web-Readiness,Qualified,2025-10-21,3099.19,Susan,30
+OPP616,CUST005,Leverage End-To-End Bandwidth,Lead,2025-11-17,3984.55,Joseph,10
+OPP617,CUST012,Redefine 24/7 E-Tailers,Proposal,2025-11-25,16806.94,James,90
+OPP618,CUST019,Reinvent End-To-End Schemas,Qualified,2025-10-30,13846.42,Robert,10
+OPP619,CUST018,Cultivate Revolutionary Action-Items,Negotiation,2025-10-11,5481.91,Sonya,50
+OPP620,CUST014,Revolutionize Vertical Vortals,Closed Won,2025-11-19,17948.52,Jennifer,30
+OPP621,CUST004,Harness Robust Infrastructures,Negotiation,2025-11-25,9769.41,Colleen,90
+OPP622,CUST007,Implement Compelling E-Markets,Qualified,2025-09-27,5923.25,Jamie,10
+OPP623,CUST018,Harness Holistic Deliverables,Proposal,2025-10-31,4018.13,Francisco,10
+OPP624,CUST020,Target Wireless Vortals,Qualified,2025-11-20,11464.88,John,90
+OPP625,CUST020,Maximize Cross-Platform Bandwidth,Closed Won,2025-10-15,1114.8,Jacob,50
+OPP626,CUST013,Deliver 24/7 Platforms,Closed Lost,2025-10-10,6107.63,Edward,90
+OPP627,CUST015,Seize World-Class Communities,Closed Lost,2025-11-23,1983.19,Jim,50
+OPP628,CUST014,Transition Rich Users,Qualified,2025-11-21,1086.52,Richard,30
+OPP629,CUST011,Expedite Vertical Vortals,Negotiation,2025-10-11,18462.31,Natasha,30
+OPP630,CUST002,Morph Strategic Schemas,Qualified,2025-09-26,5515.75,Kayla,30
+OPP631,CUST006,Enable Granular Relationships,Negotiation,2025-11-25,5970.17,Elizabeth,10
+OPP632,CUST009,Seize Sticky Supply-Chains,Lead,2025-09-24,3843.48,Victoria,30
+OPP633,CUST014,Productize Intuitive Deliverables,Proposal,2025-11-21,6573.38,Doris,10
+OPP634,CUST016,Matrix Virtual Channels,Closed Won,2025-09-09,6263.59,Wesley,30
+OPP635,CUST013,Revolutionize World-Class Users,Closed Won,2025-11-12,2405.61,Garrett,30
+OPP636,CUST019,Incubate Best-Of-Breed Systems,Negotiation,2025-10-21,4827.8,Wesley,10
+OPP637,CUST007,Grow Dynamic E-Tailers,Qualified,2025-09-13,6861.31,Brandon,90
+OPP638,CUST009,Morph Viral Architectures,Closed Won,2025-09-29,18892.11,Brian,10
+OPP639,CUST010,Revolutionize One-To-One Schemas,Closed Lost,2025-11-18,8865.75,Eric,90
+OPP640,CUST016,Matrix Frictionless Deliverables,Proposal,2025-09-05,4931.12,Brittany,50
+OPP641,CUST001,Architect Integrated Communities,Proposal,2025-08-31,14735.13,William,90
+OPP642,CUST009,Harness Bricks-And-Clicks Networks,Negotiation,2025-11-23,1165.28,Barry,10
+OPP643,CUST011,Matrix Impactful Applications,Negotiation,2025-10-31,14202.15,Jacqueline,10
+OPP644,CUST004,Visualize Out-Of-The-Box Supply-Chains,Qualified,2025-08-30,5506.68,Tamara,10
+OPP645,CUST011,Revolutionize Back-End Applications,Negotiation,2025-10-02,5672.69,Lindsey,10
+OPP646,CUST008,Evolve End-To-End Markets,Qualified,2025-09-13,16910.41,Dwayne,90
+OPP647,CUST003,Architect Back-End Web Services,Proposal,2025-08-28,10520.1,Katie,50
+OPP648,CUST001,Scale Distributed E-Services,Lead,2025-10-16,14498.88,Amber,50
+OPP649,CUST013,Whiteboard Global E-Markets,Lead,2025-10-28,13816.12,Austin,50
+OPP650,CUST009,Orchestrate Proactive Relationships,Qualified,2025-09-06,3625.4,Matthew,30
+OPP651,CUST006,Re-Intermediate Visionary Content,Closed Won,2025-09-04,15946.39,Vanessa,30
+OPP652,CUST014,Synergize Sticky Channels,Negotiation,2025-09-16,11315.31,Nancy,70
+OPP653,CUST009,Morph Impactful Roi,Negotiation,2025-09-05,10116.94,Mark,70
+OPP654,CUST003,Transform Cross-Platform Mindshare,Proposal,2025-10-07,18137.16,Sabrina,50
+OPP655,CUST013,Target World-Class E-Tailers,Lead,2025-10-20,4317.27,Frederick,50
+OPP656,CUST005,Harness Vertical Systems,Closed Lost,2025-10-09,18448.01,John,50
+OPP657,CUST006,Scale Next-Generation Interfaces,Proposal,2025-11-08,2659.84,Grant,10
+OPP658,CUST019,Seize Value-Added Markets,Closed Won,2025-10-31,2078.67,Rachel,30
+OPP659,CUST009,Engineer Impactful Channels,Qualified,2025-11-08,12861.33,Michael,30
+OPP660,CUST012,Revolutionize Plug-And-Play Metrics,Closed Won,2025-10-01,14275.57,Jacob,70
+OPP661,CUST014,Envisioneer Interactive Initiatives,Lead,2025-10-02,3991.8,Jason,90
+OPP662,CUST014,Leverage Killer Supply-Chains,Lead,2025-09-15,18750.15,Diane,50
+OPP663,CUST012,Envisioneer B2C Deliverables,Qualified,2025-11-08,2832.91,Jerome,30
+OPP664,CUST009,Architect Web-Enabled E-Commerce,Lead,2025-09-18,13061.7,Brooke,30
+OPP665,CUST010,Innovate Cross-Media Solutions,Negotiation,2025-10-15,4379.53,Mark,70
+OPP666,CUST008,Transform Clicks-And-Mortar Models,Closed Won,2025-09-28,9756.95,David,10
+OPP667,CUST009,Exploit Impactful E-Business,Closed Lost,2025-10-16,9885.08,Alicia,50
+OPP668,CUST013,Architect Real-Time Infrastructures,Closed Lost,2025-10-10,14514.45,Steven,70
+OPP669,CUST002,Empower User-Centric Convergence,Closed Lost,2025-10-17,10871.38,Robert,30
+OPP670,CUST014,Synergize End-To-End Experiences,Closed Won,2025-10-02,643.88,Michael,10
+OPP671,CUST012,Benchmark Transparent Technologies,Lead,2025-11-13,9176.16,Robert,70
+OPP672,CUST017,Whiteboard Magnetic Methodologies,Closed Won,2025-10-13,19865.62,James,10
+OPP673,CUST016,Enhance Interactive Portals,Closed Lost,2025-08-29,16524.19,Richard,90
+OPP674,CUST008,Synergize End-To-End E-Services,Lead,2025-11-17,14186.15,Victor,70
+OPP675,CUST010,E-Enable Seamless Models,Closed Lost,2025-11-23,1790.31,Kristin,90
+OPP676,CUST008,Seize Open-Source Metrics,Closed Won,2025-09-24,5883.53,George,30
+OPP677,CUST010,Matrix Enterprise Infrastructures,Qualified,2025-10-21,19455.97,Angela,70
+OPP678,CUST019,Revolutionize Scalable Action-Items,Closed Lost,2025-10-24,18772.75,David,70
+OPP679,CUST001,Iterate Turn-Key E-Business,Closed Lost,2025-09-28,11057.05,Douglas,30
+OPP680,CUST011,Productize One-To-One Info-Mediaries,Proposal,2025-09-20,17126.17,John,50
+OPP681,CUST012,Engineer Ubiquitous Functionalities,Proposal,2025-11-20,18981.37,Gregory,50
+OPP682,CUST019,Engage Next-Generation Eyeballs,Qualified,2025-11-04,19146.2,David,70
+OPP683,CUST020,Empower 24/7 Portals,Lead,2025-09-14,10361.69,Suzanne,50
+OPP684,CUST013,Iterate Virtual Content,Proposal,2025-10-16,17695.31,Jason,50
+OPP685,CUST003,Re-Intermediate Bleeding-Edge Content,Negotiation,2025-10-22,6001.02,Brittney,50
+OPP686,CUST009,Incentivize Open-Source E-Commerce,Qualified,2025-11-12,5634.5,William,50
+OPP687,CUST005,Streamline End-To-End Supply-Chains,Closed Lost,2025-11-23,1343.59,Christopher,70
+OPP688,CUST008,Engage End-To-End Users,Qualified,2025-09-23,891.04,Amy,30
+OPP689,CUST008,Innovate B2C E-Tailers,Negotiation,2025-10-02,3166.04,Jon,90
+OPP690,CUST018,Deliver User-Centric Networks,Qualified,2025-09-08,13031.29,Megan,70
+OPP691,CUST014,Visualize World-Class Mindshare,Closed Lost,2025-11-18,713.25,Leslie,90
+OPP692,CUST005,Target Value-Added Portals,Closed Lost,2025-09-01,11468.86,Jacqueline,90
+OPP693,CUST018,Orchestrate One-To-One Deliverables,Lead,2025-10-05,17823.14,Nicole,10
+OPP694,CUST017,Unleash Cross-Media Vortals,Proposal,2025-09-05,1022.36,Matthew,50
+OPP695,CUST009,Seize Cross-Platform Methodologies,Negotiation,2025-10-02,9767.17,Christina,30
+OPP696,CUST017,Re-Contextualize Front-End Action-Items,Qualified,2025-11-20,9267.49,Peter,70
+OPP697,CUST015,Engage Synergistic E-Commerce,Negotiation,2025-09-16,19197.88,Ricky,30
+OPP698,CUST015,Maximize Holistic Methodologies,Closed Won,2025-09-20,7410.03,Kevin,50
+OPP699,CUST004,Repurpose Transparent Solutions,Negotiation,2025-09-08,18839.23,Chelsea,70
+OPP700,CUST020,Harness Enterprise Eyeballs,Lead,2025-10-24,2788.51,Jessica,50
+OPP701,CUST019,Deploy Integrated Deliverables,Negotiation,2025-09-27,6483.27,Darlene,50
+OPP702,CUST001,Empower Leading-Edge Partnerships,Proposal,2025-10-31,10189.61,Lonnie,50
+OPP703,CUST004,Whiteboard End-To-End Web Services,Lead,2025-08-28,10295.22,Jennifer,10
+OPP704,CUST018,Synergize Strategic Action-Items,Qualified,2025-09-13,4605.02,Paul,90
+OPP705,CUST008,Seize Bricks-And-Clicks Web-Readiness,Proposal,2025-09-08,3909.88,Diane,30
+OPP706,CUST008,Drive Frictionless Deliverables,Closed Lost,2025-11-15,3938.95,Amanda,90
+OPP707,CUST004,Grow Ubiquitous Experiences,Proposal,2025-09-25,14682.76,Michael,10
+OPP708,CUST011,Optimize Wireless Functionalities,Qualified,2025-09-27,6161.69,Ryan,10
+OPP709,CUST006,E-Enable Customized Interfaces,Proposal,2025-11-12,13858.55,Hailey,30
+OPP710,CUST008,E-Enable Ubiquitous Roi,Proposal,2025-11-26,17974.67,Summer,90
+OPP711,CUST005,Maximize Back-End E-Tailers,Proposal,2025-10-29,2433.83,Robin,70
+OPP712,CUST004,Synergize Wireless Networks,Closed Won,2025-10-18,18588.27,Margaret,30
+OPP713,CUST020,Transform User-Centric E-Tailers,Closed Won,2025-11-05,5881.21,Leslie,30
+OPP714,CUST004,Orchestrate E-Business Communities,Closed Won,2025-11-20,1079.75,Daniel,90
+OPP715,CUST014,Iterate Dynamic Schemas,Proposal,2025-09-19,8314.91,Amy,50
+OPP716,CUST005,Engineer Efficient Applications,Closed Won,2025-10-09,10363.84,Kristen,70
+OPP717,CUST007,Embrace Magnetic Experiences,Lead,2025-10-26,3698.17,Katherine,70
+OPP718,CUST004,Generate End-To-End Architectures,Lead,2025-11-18,18904.4,Kyle,50
+OPP719,CUST004,Optimize Interactive E-Business,Lead,2025-11-08,18362.48,Ashley,30
+OPP720,CUST002,Engineer Scalable Schemas,Negotiation,2025-10-31,523.05,Carrie,90
+OPP721,CUST017,Empower Revolutionary Solutions,Negotiation,2025-10-11,11990.74,David,10
+OPP722,CUST002,Expedite Open-Source Initiatives,Proposal,2025-09-18,15036.2,Julie,30
+OPP723,CUST009,Repurpose Bleeding-Edge Technologies,Qualified,2025-09-04,9906.58,Kelly,50
+OPP724,CUST016,Embrace Efficient Synergies,Proposal,2025-10-05,2711.81,David,10
+OPP725,CUST016,Cultivate Plug-And-Play Portals,Negotiation,2025-10-06,13238.87,Gerald,10
+OPP726,CUST004,Disintermediate One-To-One Markets,Qualified,2025-11-03,12508.3,Aaron,90
+OPP727,CUST015,Iterate Sticky Synergies,Qualified,2025-09-01,3299.92,Dennis,10
+OPP728,CUST013,Maximize Out-Of-The-Box Convergence,Closed Lost,2025-08-30,19706.13,Isaac,90
+OPP729,CUST012,Incubate Mission-Critical Portals,Qualified,2025-10-17,8159.73,Jennifer,50
+OPP730,CUST015,Whiteboard End-To-End E-Commerce,Proposal,2025-10-08,6937.21,Charles,90
+OPP731,CUST019,Transition Viral Supply-Chains,Qualified,2025-10-06,18568.07,Joseph,50
+OPP732,CUST009,Expedite Extensible Platforms,Qualified,2025-10-05,10622.51,Janice,10
+OPP733,CUST004,E-Enable One-To-One Relationships,Qualified,2025-11-11,5836.72,Brianna,10
+OPP734,CUST003,Re-Contextualize Customized Architectures,Proposal,2025-10-22,11559.91,William,50
+OPP735,CUST010,Utilize Cross-Media Systems,Closed Won,2025-11-01,7440.17,Jeff,10
+OPP736,CUST019,Deliver 24/365 E-Commerce,Proposal,2025-09-19,4392.9,Regina,30
+OPP737,CUST010,Synergize Bleeding-Edge Vortals,Closed Won,2025-11-07,5911.15,Dennis,50
+OPP738,CUST019,Revolutionize Magnetic Experiences,Negotiation,2025-10-05,3077.27,Bruce,30
+OPP739,CUST005,Mesh One-To-One Interfaces,Proposal,2025-10-13,2047.83,Robert,30
+OPP740,CUST008,Envisioneer End-To-End Users,Proposal,2025-11-16,19425.05,Cory,70
+OPP741,CUST019,Harness Scalable Networks,Lead,2025-10-02,8949.0,Monique,90
+OPP742,CUST005,Aggregate Robust Users,Lead,2025-10-13,18299.61,Sara,30
+OPP743,CUST020,Repurpose Transparent Bandwidth,Closed Won,2025-09-01,10390.99,Thomas,30
+OPP744,CUST005,Orchestrate Plug-And-Play Action-Items,Qualified,2025-08-31,7155.14,Brandon,30
+OPP745,CUST007,Synthesize Intuitive Functionalities,Negotiation,2025-09-12,8747.13,Jason,90
+OPP746,CUST005,Engage Leading-Edge Experiences,Lead,2025-10-15,14410.59,Ryan,70
+OPP747,CUST019,Re-Contextualize Open-Source Partnerships,Closed Lost,2025-10-27,16532.72,Sheryl,10
+OPP748,CUST012,Matrix Web-Enabled Web Services,Negotiation,2025-09-09,1912.5,Joseph,30
+OPP749,CUST008,Repurpose B2B Mindshare,Closed Lost,2025-11-05,16011.48,Laura,90
+OPP750,CUST011,Evolve Impactful Partnerships,Proposal,2025-11-16,7890.38,Christina,90
+OPP751,CUST019,Enhance Web-Enabled Info-Mediaries,Closed Won,2025-10-20,2839.78,Dawn,90
+OPP752,CUST004,Evolve Enterprise Paradigms,Negotiation,2025-11-10,6356.89,Alejandro,50
+OPP753,CUST020,Repurpose Proactive E-Business,Closed Lost,2025-10-23,11895.29,Heather,10
+OPP754,CUST009,Revolutionize 24/365 E-Markets,Closed Lost,2025-11-09,5069.04,Mary,10
+OPP755,CUST010,Syndicate Synergistic Roi,Proposal,2025-11-12,6061.0,Kristopher,10
+OPP756,CUST008,Morph Cross-Platform Paradigms,Closed Lost,2025-11-14,9700.74,Amanda,50
+OPP757,CUST002,Visualize Front-End Deliverables,Proposal,2025-09-29,16315.98,Scott,10
+OPP758,CUST008,Re-Contextualize Next-Generation Interfaces,Closed Won,2025-10-21,3329.91,Chris,10
+OPP759,CUST017,Expedite Virtual Networks,Qualified,2025-11-03,9896.63,Sharon,70
+OPP760,CUST013,Implement Cross-Platform Applications,Closed Won,2025-10-20,7174.99,Dale,70
+OPP761,CUST015,Orchestrate Efficient Networks,Negotiation,2025-09-24,8738.75,Scott,70
+OPP762,CUST020,Expedite Intuitive Platforms,Negotiation,2025-10-10,872.22,Victoria,30
+OPP763,CUST015,Matrix Next-Generation Web-Readiness,Proposal,2025-09-23,5002.2,Christopher,10
+OPP764,CUST013,Engineer World-Class Platforms,Closed Won,2025-10-03,19868.27,Angelica,90
+OPP765,CUST008,Utilize Impactful Paradigms,Lead,2025-10-27,10146.7,Heather,70
+OPP766,CUST005,Implement Strategic Supply-Chains,Lead,2025-11-19,5560.15,Gregory,90
+OPP767,CUST010,Deploy Cutting-Edge Portals,Qualified,2025-10-05,6571.42,Darrell,70
+OPP768,CUST001,Transition Extensible Experiences,Qualified,2025-11-18,6536.8,Charles,30
+OPP769,CUST002,Unleash Cross-Platform Mindshare,Closed Won,2025-09-08,12191.19,Gary,30
+OPP770,CUST013,Extend B2B Channels,Lead,2025-10-12,3945.04,Annette,30
+OPP771,CUST017,Repurpose Bricks-And-Clicks Users,Closed Won,2025-09-25,16039.87,Colin,30
+OPP772,CUST002,Facilitate Impactful Paradigms,Qualified,2025-11-17,11429.85,Lisa,10
+OPP773,CUST011,Incentivize Front-End Applications,Proposal,2025-10-31,16185.35,Jessica,90
+OPP774,CUST003,Utilize Open-Source Models,Negotiation,2025-09-13,17812.74,John,90
+OPP775,CUST006,Mesh Out-Of-The-Box E-Markets,Proposal,2025-09-15,15203.66,Lisa,30
+OPP776,CUST017,Seize Virtual Web Services,Closed Won,2025-11-13,6994.34,Matthew,50
+OPP777,CUST004,Re-Intermediate Turn-Key Portals,Negotiation,2025-11-09,7528.34,Vincent,10
+OPP778,CUST008,Empower Dynamic Bandwidth,Closed Won,2025-09-01,5592.36,Allen,90
+OPP779,CUST004,Synthesize Vertical Methodologies,Lead,2025-11-23,5346.01,Carolyn,30
+OPP780,CUST011,Transform One-To-One Web-Readiness,Closed Lost,2025-09-29,14042.66,Melissa,30
+OPP781,CUST012,Reinvent E-Business Paradigms,Closed Lost,2025-11-01,10745.46,Sherry,90
+OPP782,CUST016,Re-Intermediate Sticky Technologies,Closed Lost,2025-11-26,3854.28,Vicki,30
+OPP783,CUST009,Optimize Turn-Key Relationships,Closed Won,2025-10-01,8038.06,James,90
+OPP784,CUST018,Enhance Efficient Metrics,Qualified,2025-10-21,7697.51,Robert,10
+OPP785,CUST005,Utilize Plug-And-Play Interfaces,Proposal,2025-09-20,8290.08,Michael,70
+OPP786,CUST006,Redefine Bleeding-Edge Experiences,Qualified,2025-09-12,7064.28,Sandra,90
+OPP787,CUST001,Optimize Global Niches,Closed Won,2025-11-08,7303.37,Cody,70
+OPP788,CUST016,Incubate Out-Of-The-Box Web-Readiness,Qualified,2025-11-04,17747.26,Frederick,50
+OPP789,CUST007,Grow 24/365 Systems,Lead,2025-10-07,10711.97,Kevin,30
+OPP790,CUST001,Optimize One-To-One E-Business,Qualified,2025-11-12,8333.81,Candace,70
+OPP791,CUST011,Innovate Front-End Infrastructures,Qualified,2025-09-13,11508.72,Dustin,50
+OPP792,CUST020,Seize Plug-And-Play E-Commerce,Closed Won,2025-09-05,8831.64,Roger,90
+OPP793,CUST009,Maximize Bleeding-Edge Platforms,Closed Lost,2025-10-20,5861.48,Rodney,30
+OPP794,CUST006,Whiteboard B2B Niches,Lead,2025-10-24,15309.29,Thomas,70
+OPP795,CUST005,Streamline 24/7 Eyeballs,Qualified,2025-11-20,4794.57,Kelly,50
+OPP796,CUST012,Incubate Mission-Critical Bandwidth,Qualified,2025-11-21,16666.95,Derek,90
+OPP797,CUST006,Transform Efficient Methodologies,Lead,2025-11-17,17702.32,Mark,70
+OPP798,CUST004,Engage Web-Enabled Eyeballs,Proposal,2025-11-26,13609.13,William,90
+OPP799,CUST007,Synthesize 24/7 Platforms,Closed Won,2025-09-21,3615.11,Timothy,70
+OPP800,CUST014,Empower Robust Convergence,Qualified,2025-10-09,4205.91,Nicholas,10
+OPP801,CUST009,Strategize Seamless Partnerships,Closed Lost,2025-10-28,13875.38,Jorge,10
+OPP802,CUST001,Architect Mission-Critical Solutions,Negotiation,2025-10-02,7651.5,Jeff,70
+OPP803,CUST001,Incentivize Sticky Web Services,Closed Lost,2025-11-24,7639.28,Julie,30
+OPP804,CUST019,Synthesize Cutting-Edge Channels,Closed Lost,2025-10-03,11889.87,Veronica,90
+OPP805,CUST001,E-Enable Enterprise Vortals,Negotiation,2025-11-03,17970.9,Tracy,30
+OPP806,CUST006,Expedite Bricks-And-Clicks Initiatives,Lead,2025-11-20,17370.13,Ashley,90
+OPP807,CUST004,Seize Collaborative Schemas,Closed Lost,2025-10-18,12061.98,Jacob,50
+OPP808,CUST018,Syndicate Efficient Eyeballs,Proposal,2025-09-27,9331.77,Chad,30
+OPP809,CUST005,Generate Distributed E-Tailers,Proposal,2025-10-21,3097.27,Karen,50
+OPP810,CUST005,Orchestrate Sticky Eyeballs,Closed Won,2025-11-22,7124.0,Gregory,50
+OPP811,CUST015,Synergize Collaborative Technologies,Lead,2025-09-16,7952.33,Kristina,30
+OPP812,CUST001,Mesh Wireless Content,Closed Lost,2025-09-24,16453.75,Kayla,30
+OPP813,CUST014,Exploit Transparent E-Services,Closed Lost,2025-10-12,7706.58,Katherine,70
+OPP814,CUST011,Maximize Wireless Markets,Lead,2025-10-23,14154.81,Janice,10
+OPP815,CUST001,Engineer Wireless Channels,Negotiation,2025-11-18,15783.2,Jacqueline,70
+OPP816,CUST004,Revolutionize Open-Source Models,Proposal,2025-10-21,13414.39,Lauren,10
+OPP817,CUST020,Mesh Magnetic Content,Negotiation,2025-09-06,19701.5,Bethany,70
+OPP818,CUST013,Transform Holistic Eyeballs,Closed Won,2025-11-01,5866.98,Craig,70
+OPP819,CUST007,Engineer B2B Eyeballs,Qualified,2025-10-08,12041.92,Lisa,10
+OPP820,CUST018,Disintermediate Integrated Channels,Closed Lost,2025-11-11,14695.96,Paul,90
+OPP821,CUST019,Enhance Leading-Edge Mindshare,Closed Won,2025-11-14,6262.25,Alexandra,10
+OPP822,CUST001,Brand Seamless E-Services,Negotiation,2025-10-11,11337.35,Cameron,30
+OPP823,CUST001,Innovate Plug-And-Play Partnerships,Closed Lost,2025-10-25,7441.05,Connor,90
+OPP824,CUST003,Facilitate Out-Of-The-Box Mindshare,Closed Lost,2025-09-02,16808.52,Madeline,50
+OPP825,CUST014,Optimize Clicks-And-Mortar E-Markets,Closed Won,2025-10-10,7741.95,Shannon,30
+OPP826,CUST003,Repurpose Enterprise Technologies,Closed Lost,2025-09-01,5882.07,Christopher,90
+OPP827,CUST014,Implement Granular Relationships,Proposal,2025-08-31,6678.21,Kristie,70
+OPP828,CUST008,Extend Next-Generation Interfaces,Closed Lost,2025-09-16,17842.09,Kristopher,30
+OPP829,CUST017,Exploit Granular Mindshare,Closed Lost,2025-11-05,9179.61,Gary,70
+OPP830,CUST015,Envisioneer Scalable Systems,Proposal,2025-09-12,3927.17,Gary,70
+OPP831,CUST007,E-Enable Robust Systems,Negotiation,2025-11-25,7369.07,Catherine,50
+OPP832,CUST003,Deliver End-To-End Action-Items,Closed Lost,2025-11-18,13225.87,Pamela,50
+OPP833,CUST009,Exploit Rich Web Services,Closed Lost,2025-11-19,16543.89,Donna,70
+OPP834,CUST017,Scale Interactive Channels,Qualified,2025-10-14,10096.67,Jennifer,30
+OPP835,CUST007,Drive World-Class Paradigms,Closed Lost,2025-08-29,13452.72,Brittany,90
+OPP836,CUST011,Mesh Virtual E-Business,Closed Won,2025-10-24,15348.6,Robert,10
+OPP837,CUST007,Synthesize Holistic Schemas,Lead,2025-09-01,3650.99,Derek,50
+OPP838,CUST015,Redefine Distributed E-Commerce,Closed Won,2025-09-28,13911.48,Savannah,50
+OPP839,CUST016,Strategize Next-Generation Synergies,Proposal,2025-10-20,18122.69,Justin,50
+OPP840,CUST007,Syndicate Bricks-And-Clicks Paradigms,Closed Lost,2025-10-07,12907.93,Mario,50
+OPP841,CUST019,Engineer Virtual Info-Mediaries,Proposal,2025-11-10,4617.68,Beth,70
+OPP842,CUST002,Expedite Mission-Critical Markets,Proposal,2025-11-11,2758.96,Nicole,70
+OPP843,CUST007,Enhance End-To-End Technologies,Closed Lost,2025-09-13,3136.51,Kevin,30
+OPP844,CUST009,Cultivate Best-Of-Breed Content,Closed Won,2025-10-14,16037.51,Kristi,70
+OPP845,CUST011,Facilitate Visionary Paradigms,Closed Won,2025-11-03,6821.33,Stacey,50
+OPP846,CUST002,Mesh Wireless Roi,Closed Lost,2025-11-10,2316.23,Crystal,50
+OPP847,CUST010,Brand One-To-One Networks,Closed Lost,2025-10-13,5132.98,Monica,10
+OPP848,CUST007,Reinvent Cross-Media E-Business,Closed Won,2025-11-02,9454.27,Jerry,10
+OPP849,CUST009,Drive One-To-One Architectures,Closed Won,2025-09-30,8852.08,Jennifer,90
+OPP850,CUST017,Syndicate Virtual Interfaces,Negotiation,2025-11-20,9022.29,Brittany,10
+OPP851,CUST003,Facilitate Magnetic Web-Readiness,Negotiation,2025-10-12,9153.27,William,30
+OPP852,CUST003,Morph Cross-Platform Users,Closed Lost,2025-11-21,8723.95,Michael,30
+OPP853,CUST016,Engineer Integrated Initiatives,Proposal,2025-10-09,13967.34,Tammie,90
+OPP854,CUST017,Extend Proactive Action-Items,Closed Won,2025-10-06,11236.75,Pamela,90
+OPP855,CUST018,Optimize Synergistic E-Commerce,Closed Won,2025-10-02,5769.12,Denise,50
+OPP856,CUST013,Facilitate Scalable Paradigms,Closed Lost,2025-10-28,19033.89,Marcus,90
+OPP857,CUST005,Syndicate Mission-Critical Deliverables,Proposal,2025-10-15,14053.11,Jessica,70
+OPP858,CUST008,Drive Distributed E-Services,Closed Won,2025-11-08,19144.9,Lindsay,10
+OPP859,CUST016,Engineer Dynamic Applications,Closed Lost,2025-09-10,11749.05,Penny,90
+OPP860,CUST020,Expedite Synergistic Initiatives,Negotiation,2025-11-20,15630.0,Elizabeth,70
+OPP861,CUST014,Benchmark Vertical Solutions,Proposal,2025-10-24,9519.74,Jose,10
+OPP862,CUST003,Mesh Integrated Applications,Lead,2025-09-30,9212.68,Joe,90
+OPP863,CUST002,Mesh Scalable E-Markets,Closed Won,2025-09-29,1740.69,Rodney,30
+OPP864,CUST014,Generate End-To-End Technologies,Proposal,2025-09-17,5385.86,Jerry,10
+OPP865,CUST009,Unleash Front-End Partnerships,Closed Won,2025-09-23,10123.35,Teresa,50
+OPP866,CUST020,Brand Dot-Com Functionalities,Closed Lost,2025-10-03,16730.14,Joshua,90
+OPP867,CUST002,Whiteboard Cross-Platform Initiatives,Negotiation,2025-09-29,1127.57,Dennis,30
+OPP868,CUST002,Leverage Next-Generation Solutions,Qualified,2025-10-10,13071.29,Jennifer,10
+OPP869,CUST005,Repurpose Transparent E-Services,Lead,2025-10-28,879.05,Susan,10
+OPP870,CUST006,Aggregate Collaborative Niches,Qualified,2025-11-03,3731.85,Julie,50
+OPP871,CUST010,Orchestrate Compelling Interfaces,Closed Won,2025-09-20,3606.78,Danielle,90
+OPP872,CUST016,Orchestrate Value-Added Eyeballs,Closed Won,2025-09-16,16902.64,Tyler,30
+OPP873,CUST003,Architect Customized Interfaces,Proposal,2025-09-16,18344.04,Wesley,70
+OPP874,CUST017,Seize Frictionless Systems,Closed Won,2025-11-05,17646.92,Eric,90
+OPP875,CUST015,Revolutionize Turn-Key Portals,Qualified,2025-11-17,15150.66,Christopher,30
+OPP876,CUST012,Streamline Leading-Edge Platforms,Proposal,2025-10-06,4913.32,Daniel,70
+OPP877,CUST013,Enable Interactive Functionalities,Closed Lost,2025-11-03,3995.67,Shelley,90
+OPP878,CUST001,Repurpose B2C Synergies,Proposal,2025-09-19,7468.22,Michelle,50
+OPP879,CUST015,Empower Enterprise Partnerships,Negotiation,2025-11-14,5149.11,Cody,90
+OPP880,CUST014,Synthesize Transparent Mindshare,Closed Lost,2025-11-13,7264.36,Curtis,70
+OPP881,CUST012,Expedite Proactive Bandwidth,Negotiation,2025-09-21,9849.69,Chad,70
+OPP882,CUST015,Enable Dynamic E-Tailers,Proposal,2025-10-27,8790.73,Claudia,50
+OPP883,CUST017,Enable Distributed Schemas,Qualified,2025-10-23,5399.18,Jade,30
+OPP884,CUST020,Exploit Extensible Web-Readiness,Qualified,2025-08-28,2308.06,Lisa,50
+OPP885,CUST009,Incentivize Innovative Users,Closed Lost,2025-10-02,4414.19,Amanda,70
+OPP886,CUST004,Cultivate Mission-Critical Architectures,Proposal,2025-11-17,10723.92,Johnny,90
+OPP887,CUST007,Innovate B2B E-Tailers,Lead,2025-09-07,13522.82,William,90
+OPP888,CUST007,Implement E-Business Supply-Chains,Negotiation,2025-11-14,1752.33,Melissa,50
+OPP889,CUST020,Matrix Wireless Deliverables,Closed Lost,2025-10-15,12474.94,Tiffany,70
+OPP890,CUST001,Reinvent Leading-Edge Content,Qualified,2025-10-15,524.84,Tina,30
+OPP891,CUST020,Enable Plug-And-Play Methodologies,Proposal,2025-09-01,8810.01,Nicole,90
+OPP892,CUST004,Revolutionize Killer Architectures,Proposal,2025-09-12,11289.29,Paul,30
+OPP893,CUST010,Innovate Proactive Partnerships,Negotiation,2025-09-05,11325.34,Leah,30
+OPP894,CUST011,Seize Rich Channels,Lead,2025-10-19,5108.56,Bernard,30
+OPP895,CUST003,Engineer Compelling Communities,Negotiation,2025-11-11,18195.11,Ryan,10
+OPP896,CUST016,Repurpose Synergistic Metrics,Proposal,2025-10-19,10303.7,Elizabeth,90
+OPP897,CUST016,Architect Intuitive E-Services,Lead,2025-10-02,12557.21,Cheryl,50
+OPP898,CUST020,Architect Frictionless Architectures,Proposal,2025-10-04,17805.06,Joshua,90
+OPP899,CUST008,Visualize Open-Source Portals,Lead,2025-11-16,6715.92,Curtis,70
+OPP900,CUST009,Evolve Global Web Services,Negotiation,2025-11-07,14263.43,Dawn,10
+OPP901,CUST006,Target Out-Of-The-Box Roi,Closed Lost,2025-10-11,5888.75,Stacey,10
+OPP902,CUST013,Benchmark Mission-Critical Web-Readiness,Closed Won,2025-10-30,5822.16,Susan,70
+OPP903,CUST014,Incentivize Transparent Supply-Chains,Lead,2025-09-12,15057.57,Donald,30
+OPP904,CUST009,Utilize Rich Supply-Chains,Lead,2025-09-30,626.28,Priscilla,70
+OPP905,CUST010,Incentivize Customized Architectures,Closed Won,2025-09-05,1674.88,Vincent,50
+OPP906,CUST018,Innovate Wireless Content,Qualified,2025-10-02,13464.94,Justin,70
+OPP907,CUST017,Iterate Global Content,Closed Lost,2025-10-20,12361.27,Barbara,50
+OPP908,CUST010,Streamline Back-End Models,Qualified,2025-11-16,2320.66,Rachel,10
+OPP909,CUST008,E-Enable Bricks-And-Clicks Communities,Lead,2025-11-07,6701.0,Deanna,50
+OPP910,CUST018,Repurpose Bleeding-Edge Niches,Qualified,2025-09-03,4636.11,Sarah,90
+OPP911,CUST004,Enhance B2C Infrastructures,Lead,2025-11-24,5966.58,Robert,70
+OPP912,CUST001,Mesh Extensible Networks,Proposal,2025-10-11,5113.59,Nicole,90
+OPP913,CUST013,Iterate Vertical Partnerships,Qualified,2025-09-03,2822.89,Stacy,70
+OPP914,CUST004,Facilitate Leading-Edge Convergence,Closed Won,2025-10-21,1272.8,Gregory,50
+OPP915,CUST013,Enable Rich Architectures,Negotiation,2025-09-15,5451.81,Katie,90
+OPP916,CUST020,Innovate Strategic Channels,Qualified,2025-09-28,17524.97,Hannah,90
+OPP917,CUST007,Redefine 24/7 E-Markets,Closed Lost,2025-10-20,6146.45,Erin,70
+OPP918,CUST005,Seize Back-End Action-Items,Proposal,2025-10-03,10603.69,Mark,30
+OPP919,CUST001,Envisioneer Dynamic Synergies,Negotiation,2025-10-06,7437.29,Sandra,50
+OPP920,CUST001,Aggregate Dot-Com Schemas,Qualified,2025-09-03,7980.34,Mary,50
+OPP921,CUST007,Orchestrate Holistic Info-Mediaries,Qualified,2025-11-18,8640.66,Nicole,90
+OPP922,CUST008,Engage Cross-Platform Niches,Proposal,2025-10-19,10948.96,Jeffrey,90
+OPP923,CUST012,Reinvent Global Solutions,Closed Won,2025-09-28,16846.78,Emily,30
+OPP924,CUST008,Orchestrate Viral Action-Items,Negotiation,2025-10-14,7848.62,Melissa,10
+OPP925,CUST005,Streamline Visionary Methodologies,Negotiation,2025-11-18,7723.39,Zachary,90
+OPP926,CUST006,Productize Collaborative Web-Readiness,Negotiation,2025-11-26,3153.48,Janice,30
+OPP927,CUST017,Visualize End-To-End Interfaces,Lead,2025-09-30,2519.37,Jeffery,90
+OPP928,CUST017,Drive 24/7 Web-Readiness,Lead,2025-10-05,6038.56,Brandon,30
+OPP929,CUST018,Unleash World-Class Methodologies,Closed Lost,2025-09-12,16116.29,Melissa,50
+OPP930,CUST013,Unleash 24/365 Markets,Closed Won,2025-10-05,5082.48,Charles,70
+OPP931,CUST004,Transition Sticky E-Commerce,Proposal,2025-10-24,17265.41,Amber,30
+OPP932,CUST013,Architect Efficient Web-Readiness,Closed Won,2025-11-07,9324.79,Christine,30
+OPP933,CUST009,Disintermediate Impactful Web Services,Closed Lost,2025-09-04,5840.72,Carolyn,30
+OPP934,CUST011,Enable Back-End Paradigms,Qualified,2025-08-29,14548.8,Kaitlin,10
+OPP935,CUST002,Synthesize Seamless Solutions,Lead,2025-08-31,3751.31,Michael,90
+OPP936,CUST019,Streamline Impactful Functionalities,Closed Lost,2025-09-14,19853.45,Kimberly,70
+OPP937,CUST010,Engineer Clicks-And-Mortar Paradigms,Closed Lost,2025-11-13,7165.53,Donald,10
+OPP938,CUST007,Generate Rich Relationships,Qualified,2025-10-11,9977.49,Rachel,30
+OPP939,CUST018,Implement Leading-Edge Applications,Closed Won,2025-10-11,3531.88,Lauren,50
+OPP940,CUST010,Visualize Real-Time E-Business,Closed Lost,2025-11-07,12720.08,Tammy,70
+OPP941,CUST019,Reinvent Best-Of-Breed Deliverables,Closed Won,2025-09-23,14744.89,Jared,70
+OPP942,CUST013,Evolve Ubiquitous Networks,Proposal,2025-09-17,10400.32,Gene,50
+OPP943,CUST020,Synergize Clicks-And-Mortar Vortals,Negotiation,2025-10-04,6423.17,Eric,30
+OPP944,CUST020,Extend Integrated E-Business,Proposal,2025-09-01,9743.16,John,70
+OPP945,CUST017,Benchmark Dynamic Infrastructures,Closed Lost,2025-10-23,3746.24,Erin,70
+OPP946,CUST012,Envisioneer World-Class Supply-Chains,Closed Lost,2025-11-17,11491.37,Danielle,30
+OPP947,CUST002,Transition Vertical Info-Mediaries,Proposal,2025-11-23,2664.96,Shane,70
+OPP948,CUST007,Synthesize Killer Metrics,Negotiation,2025-09-16,11681.24,Laura,30
+OPP949,CUST002,Brand One-To-One Synergies,Closed Won,2025-10-14,2175.13,Sara,90
+OPP950,CUST012,Productize Compelling Interfaces,Closed Lost,2025-09-24,18347.86,Alyssa,10
+OPP951,CUST007,Aggregate Efficient E-Commerce,Proposal,2025-10-07,3399.41,James,70
+OPP952,CUST010,Matrix Killer Users,Negotiation,2025-08-29,10033.02,Kimberly,90
+OPP953,CUST012,Engineer Out-Of-The-Box Platforms,Closed Lost,2025-09-19,19084.24,Ryan,70
+OPP954,CUST018,Target Back-End Roi,Closed Won,2025-09-03,12165.15,Benjamin,10
+OPP955,CUST020,Enable Dynamic Methodologies,Closed Lost,2025-10-10,10777.54,Matthew,30
+OPP956,CUST018,Seize Granular Eyeballs,Negotiation,2025-11-01,11360.6,Matthew,10
+OPP957,CUST005,Utilize B2B Markets,Closed Won,2025-10-09,11974.05,Cynthia,10
+OPP958,CUST007,Cultivate Visionary Applications,Lead,2025-11-19,7525.75,Randall,50
+OPP959,CUST012,Redefine Clicks-And-Mortar E-Commerce,Negotiation,2025-09-05,19257.52,Anthony,90
+OPP960,CUST017,Visualize Extensible Eyeballs,Negotiation,2025-09-24,4524.46,Sean,90
+OPP961,CUST010,Re-Intermediate Next-Generation Functionalities,Negotiation,2025-11-11,17087.7,David,50
+OPP962,CUST020,Aggregate Strategic Schemas,Closed Lost,2025-10-12,15105.33,Joe,30
+OPP963,CUST001,Empower Wireless Info-Mediaries,Qualified,2025-10-23,9502.13,Kara,50
+OPP964,CUST005,Exploit Granular Applications,Closed Lost,2025-10-30,17842.08,Robert,70
+OPP965,CUST005,Benchmark Value-Added Applications,Qualified,2025-10-09,5854.18,Jennifer,30
+OPP966,CUST015,Orchestrate Integrated Platforms,Qualified,2025-11-21,14222.91,Fred,10
+OPP967,CUST007,Harness Viral Web-Readiness,Closed Won,2025-08-31,3122.9,Mark,50
+OPP968,CUST008,Facilitate Bricks-And-Clicks Methodologies,Negotiation,2025-11-17,15119.99,Donna,90
+OPP969,CUST012,Enhance Web-Enabled Web-Readiness,Closed Lost,2025-10-07,3040.21,Eric,30
+OPP970,CUST013,Incentivize Holistic Systems,Closed Won,2025-10-21,1989.18,Michelle,50
+OPP971,CUST009,Benchmark Efficient E-Business,Negotiation,2025-09-29,1010.32,Mark,50
+OPP972,CUST014,Engage End-To-End Initiatives,Closed Won,2025-10-30,8855.22,Matthew,30
+OPP973,CUST017,Transition Killer Markets,Proposal,2025-10-07,3252.33,Joseph,30
+OPP974,CUST001,Brand Proactive Metrics,Proposal,2025-10-28,19481.21,Daniel,90
+OPP975,CUST005,Synergize One-To-One Convergence,Qualified,2025-09-09,18848.95,Brian,50
+OPP976,CUST007,Strategize Revolutionary E-Tailers,Qualified,2025-10-14,1107.52,Matthew,70
+OPP977,CUST007,Reinvent Integrated Technologies,Closed Lost,2025-09-18,19331.17,Michael,30
+OPP978,CUST007,Benchmark Visionary Channels,Lead,2025-10-09,9514.53,Eric,30
+OPP979,CUST003,Mesh B2B Bandwidth,Closed Lost,2025-09-26,7795.78,Katie,90
+OPP980,CUST016,Engage Dynamic Roi,Qualified,2025-09-08,6757.79,Colleen,30
+OPP981,CUST006,Transition Clicks-And-Mortar Solutions,Proposal,2025-11-06,16505.49,Amber,70
+OPP982,CUST003,Extend End-To-End Channels,Qualified,2025-11-15,6598.82,Colin,30
+OPP983,CUST019,Incubate Value-Added Solutions,Negotiation,2025-11-22,10852.93,Daniel,50
+OPP984,CUST001,Orchestrate B2B Schemas,Closed Won,2025-09-21,12096.73,Patrick,10
+OPP985,CUST002,Enable Real-Time Platforms,Closed Won,2025-10-26,17478.06,Emily,90
+OPP986,CUST002,Utilize Real-Time Synergies,Proposal,2025-10-22,7992.73,Kara,50
+OPP987,CUST020,Target Turn-Key E-Markets,Qualified,2025-09-23,4033.36,Robert,90
+OPP988,CUST019,Engage Cross-Media Roi,Lead,2025-11-17,16676.95,Alan,10
+OPP989,CUST012,Enable Wireless Channels,Lead,2025-09-03,6342.8,Elizabeth,10
+OPP990,CUST014,Incubate Scalable Portals,Qualified,2025-09-20,16116.9,Alice,50
+OPP991,CUST003,Incentivize Cross-Platform Action-Items,Closed Lost,2025-09-29,17169.26,Robert,10
+OPP992,CUST008,E-Enable Robust E-Business,Negotiation,2025-10-16,11806.12,Lindsay,70
+OPP993,CUST011,Matrix One-To-One Web-Readiness,Closed Lost,2025-11-04,18156.34,Craig,70
+OPP994,CUST012,Integrate Dot-Com E-Business,Closed Won,2025-10-25,13119.54,Harold,50
+OPP995,CUST004,Integrate Compelling Infrastructures,Lead,2025-10-27,3840.88,Tammy,90
+OPP996,CUST013,Reinvent Open-Source Applications,Negotiation,2025-09-20,5541.85,Nicholas,70
+OPP997,CUST020,Scale Web-Enabled Eyeballs,Closed Lost,2025-09-21,6941.39,Aaron,30
+OPP998,CUST012,Productize Back-End Partnerships,Qualified,2025-09-21,6321.99,Sarah,90
+OPP999,CUST015,Maximize Strategic Channels,Closed Lost,2025-09-02,4685.4,Ashley,10
+OPP1000,CUST016,Generate Bleeding-Edge Convergence,Qualified,2025-10-23,4659.87,Julie,90
+OPP1001,CUST009,Engineer End-To-End Portals,Proposal,2025-11-18,19606.2,Christopher,30
+OPP1002,CUST011,Embrace Ubiquitous E-Tailers,Lead,2025-10-28,12180.8,Diana,70
+OPP1003,CUST013,Iterate Global Networks,Lead,2025-11-12,19510.39,Nichole,70
+OPP1004,CUST020,Optimize Front-End Architectures,Closed Won,2025-09-21,12614.8,Christopher,10
+OPP1005,CUST005,Incentivize Killer Models,Negotiation,2025-10-19,14000.31,Emily,30
+OPP1006,CUST020,Whiteboard Synergistic Solutions,Negotiation,2025-10-10,7229.19,Maureen,70
+OPP1007,CUST016,Drive Value-Added Niches,Negotiation,2025-08-31,9331.03,Michelle,70
+OPP1008,CUST002,Productize Real-Time Paradigms,Lead,2025-09-05,18780.07,Jennifer,50
+OPP1009,CUST011,Synergize Bricks-And-Clicks Communities,Closed Lost,2025-08-28,15713.39,Elizabeth,10
+OPP1010,CUST002,Utilize Out-Of-The-Box E-Services,Lead,2025-10-10,7191.7,Tony,10
+OPP1011,CUST014,Empower Cutting-Edge Applications,Lead,2025-10-05,6360.43,Catherine,70
+OPP1012,CUST020,Matrix Plug-And-Play Applications,Closed Won,2025-09-16,19696.15,Michelle,30
+OPP1013,CUST015,Mesh 24/365 Systems,Lead,2025-11-13,3104.96,Cory,90
+OPP1014,CUST016,Synergize Rich Content,Qualified,2025-09-15,5260.33,Christopher,30
+OPP1015,CUST011,Envisioneer Web-Enabled Networks,Lead,2025-09-10,9543.32,Marisa,10
+OPP1016,CUST007,Matrix Cross-Media Info-Mediaries,Proposal,2025-10-09,8103.03,Kristen,10
+OPP1017,CUST014,Productize Cross-Media Web Services,Negotiation,2025-10-27,18778.26,Linda,70
+OPP1018,CUST003,Engage Transparent Models,Qualified,2025-11-01,6638.11,Tina,70
+OPP1019,CUST012,Synthesize Plug-And-Play E-Business,Qualified,2025-10-30,4245.61,Craig,90
+OPP1020,CUST006,Innovate Bricks-And-Clicks Networks,Closed Won,2025-09-05,6777.52,Frederick,50
+OPP1021,CUST020,Facilitate Compelling Technologies,Closed Won,2025-09-05,17384.5,George,90
+OPP1022,CUST004,Monetize Web-Enabled Interfaces,Closed Lost,2025-10-31,9110.15,Michael,70
+OPP1023,CUST007,Deliver Enterprise Web-Readiness,Qualified,2025-11-21,713.47,James,90
+OPP1024,CUST009,Evolve Innovative Eyeballs,Closed Lost,2025-11-08,10566.09,Laurie,50
+OPP1025,CUST019,Enhance Robust Eyeballs,Proposal,2025-10-21,18640.16,Anthony,30
+OPP1026,CUST002,Iterate 24/365 E-Services,Negotiation,2025-11-14,6474.5,William,50
+OPP1027,CUST001,Enable Proactive E-Tailers,Lead,2025-09-07,4385.58,Amy,70
+OPP1028,CUST019,Scale Real-Time Web-Readiness,Proposal,2025-08-29,4930.27,Dustin,30
+OPP1029,CUST015,Implement Rich Convergence,Closed Lost,2025-11-14,14889.11,Scott,70
+OPP1030,CUST002,Streamline Turn-Key Roi,Closed Lost,2025-11-25,10636.52,James,50
+OPP1031,CUST017,Facilitate Next-Generation Niches,Negotiation,2025-11-07,17823.94,Danielle,50
+OPP1032,CUST008,Disintermediate Rich Eyeballs,Negotiation,2025-10-15,9509.77,Joseph,50
+OPP1033,CUST013,Orchestrate Scalable Web-Readiness,Proposal,2025-10-29,19562.53,Sean,50
+OPP1034,CUST007,Deliver Global Mindshare,Lead,2025-08-31,13511.74,Barbara,10
+OPP1035,CUST013,Re-Contextualize Revolutionary E-Commerce,Lead,2025-11-22,10632.05,Lisa,10
+OPP1036,CUST006,Enhance Visionary Networks,Qualified,2025-10-27,16097.46,Rose,50
+OPP1037,CUST018,Revolutionize Enterprise E-Tailers,Lead,2025-09-21,11540.37,Kelly,50
+OPP1038,CUST015,Harness Granular Mindshare,Negotiation,2025-10-12,6584.79,Jennifer,10
+OPP1039,CUST012,Revolutionize Bricks-And-Clicks E-Markets,Closed Lost,2025-11-24,6387.39,Troy,70
+OPP1040,CUST008,Cultivate Compelling Networks,Closed Won,2025-09-03,887.44,Richard,10
+OPP1041,CUST011,Enhance Scalable Technologies,Closed Lost,2025-10-16,4631.65,Marcus,90
+OPP1042,CUST005,Deliver Turn-Key Convergence,Negotiation,2025-11-18,4937.9,Kenneth,90
+OPP1043,CUST020,Drive Bricks-And-Clicks Systems,Proposal,2025-10-16,18866.01,Becky,50
+OPP1044,CUST011,Iterate Best-Of-Breed Web Services,Negotiation,2025-11-17,5748.3,Valerie,10
+OPP1045,CUST004,Empower Vertical Markets,Proposal,2025-09-22,10767.53,James,90
+OPP1046,CUST012,Streamline Cutting-Edge Users,Closed Won,2025-09-01,10950.99,Kimberly,10
+OPP1047,CUST005,Maximize Magnetic Architectures,Closed Won,2025-09-10,645.35,Corey,10
+OPP1048,CUST017,Disintermediate User-Centric E-Business,Closed Won,2025-11-17,14578.42,John,30
+OPP1049,CUST017,Synthesize Enterprise Platforms,Closed Lost,2025-10-08,16251.54,Crystal,30
+OPP1050,CUST001,Deploy Real-Time Schemas,Qualified,2025-09-17,16317.38,Melissa,70
+OPP1051,CUST012,Incubate Integrated Schemas,Qualified,2025-09-15,16424.54,Jody,70
+OPP1052,CUST012,Orchestrate Plug-And-Play Info-Mediaries,Qualified,2025-09-24,9946.8,Amanda,50
+OPP1053,CUST010,Visualize Cutting-Edge E-Services,Negotiation,2025-09-08,2294.0,Angelica,90
+OPP1054,CUST013,Synthesize Web-Enabled Architectures,Closed Lost,2025-10-12,5472.61,Kimberly,50
+OPP1055,CUST005,Productize Dynamic Bandwidth,Closed Won,2025-09-10,2916.08,Lori,30
+OPP1056,CUST013,Morph Granular Synergies,Closed Won,2025-09-02,8890.33,Desiree,70
+OPP1057,CUST019,Repurpose Clicks-And-Mortar Architectures,Closed Won,2025-11-26,13680.52,Jennifer,30
+OPP1058,CUST008,Mesh Robust Convergence,Proposal,2025-10-01,15575.47,Melissa,70
+OPP1059,CUST014,Mesh Vertical Schemas,Proposal,2025-11-03,1690.33,Lindsay,90
+OPP1060,CUST008,Seize Synergistic Methodologies,Negotiation,2025-11-25,14650.69,Caitlin,10
+OPP1061,CUST018,Reinvent Mission-Critical Content,Closed Won,2025-10-01,11193.95,Jason,70
+OPP1062,CUST007,Re-Intermediate Revolutionary E-Business,Lead,2025-10-24,767.33,Timothy,30
+OPP1063,CUST012,Productize Visionary Technologies,Qualified,2025-09-17,16093.21,Amy,10
+OPP1064,CUST011,Redefine E-Business Systems,Qualified,2025-10-12,17429.58,Stephanie,10
+OPP1065,CUST019,Integrate Efficient Bandwidth,Closed Won,2025-11-06,4900.26,Ryan,10
+OPP1066,CUST016,Empower Intuitive Applications,Proposal,2025-10-18,19388.39,Brooke,30
+OPP1067,CUST002,Benchmark Killer Vortals,Negotiation,2025-11-16,8675.37,Amy,30
+OPP1068,CUST011,Integrate Ubiquitous E-Services,Closed Lost,2025-09-15,2532.1,Bryan,70
+OPP1069,CUST007,Facilitate Plug-And-Play Convergence,Negotiation,2025-09-13,4643.52,Eric,50
+OPP1070,CUST011,Synergize B2C Web Services,Closed Lost,2025-09-23,8408.17,Denise,50
+OPP1071,CUST015,Implement Innovative E-Commerce,Proposal,2025-10-06,9596.66,Dustin,70
+OPP1072,CUST016,Visualize Enterprise Methodologies,Negotiation,2025-09-07,14670.42,Jason,70
+OPP1073,CUST008,Revolutionize Proactive Bandwidth,Qualified,2025-10-01,13941.14,Cody,30
+OPP1074,CUST003,Transform One-To-One Content,Negotiation,2025-10-13,11885.36,Michele,10
+OPP1075,CUST014,Revolutionize Distributed Communities,Closed Won,2025-10-27,5661.5,Alexis,90
+OPP1076,CUST006,Evolve Holistic Partnerships,Lead,2025-10-06,11899.86,Danielle,50
+OPP1077,CUST003,Re-Contextualize Innovative Relationships,Closed Lost,2025-11-22,4988.25,Jason,50
+OPP1078,CUST001,Morph Customized Deliverables,Lead,2025-09-07,1635.84,Larry,10
+OPP1079,CUST005,Transform Sticky Experiences,Closed Won,2025-08-29,4197.09,Brandon,50
+OPP1080,CUST004,Incubate Interactive Supply-Chains,Closed Won,2025-10-23,10543.92,Steven,30
+OPP1081,CUST009,Deploy Innovative Supply-Chains,Proposal,2025-11-24,1360.84,Kaitlyn,30
+OPP1082,CUST005,Leverage Visionary Architectures,Negotiation,2025-11-07,14744.18,Monica,70
+OPP1083,CUST011,Incubate Web-Enabled Supply-Chains,Negotiation,2025-10-27,17916.33,Diane,70
+OPP1084,CUST014,Revolutionize Dynamic Metrics,Lead,2025-09-02,8873.08,Thomas,10
+OPP1085,CUST011,Repurpose Strategic Deliverables,Negotiation,2025-10-22,2599.55,Cindy,10
+OPP1086,CUST018,Deploy Intuitive Technologies,Closed Won,2025-10-01,17609.0,Kathryn,70
+OPP1087,CUST020,Grow Intuitive E-Business,Closed Lost,2025-09-02,3606.18,Mary,30
+OPP1088,CUST010,Leverage Clicks-And-Mortar Schemas,Closed Won,2025-11-10,12658.09,Regina,10
+OPP1089,CUST002,Embrace Ubiquitous Content,Proposal,2025-09-03,2623.48,Richard,30
+OPP1090,CUST014,Monetize Compelling E-Commerce,Closed Lost,2025-11-04,9314.55,Teresa,30
+OPP1091,CUST010,Facilitate Viral Paradigms,Qualified,2025-11-15,4235.87,Jacob,70
+OPP1092,CUST005,Orchestrate Open-Source Users,Lead,2025-11-18,17709.95,Tracy,10
+OPP1093,CUST004,Streamline World-Class E-Commerce,Negotiation,2025-10-04,13379.29,Joseph,50
+OPP1094,CUST018,Morph End-To-End Architectures,Qualified,2025-09-10,6138.71,Eric,30
+OPP1095,CUST011,Streamline Cross-Media E-Business,Lead,2025-10-12,1567.34,Janice,50
+OPP1096,CUST015,Engage E-Business Content,Negotiation,2025-09-08,9466.48,Kristen,90
+OPP1097,CUST002,Orchestrate Viral Metrics,Proposal,2025-08-30,11420.12,Tiffany,10
+OPP1098,CUST020,Generate Granular E-Markets,Qualified,2025-11-14,5366.92,Vernon,90
+OPP1099,CUST012,Monetize B2C Markets,Lead,2025-10-15,18391.5,Caitlin,50
+OPP1100,CUST001,Harness Turn-Key E-Services,Qualified,2025-10-03,9677.81,Francis,10
+OPP1101,CUST003,Benchmark Real-Time Convergence,Proposal,2025-09-05,14699.81,Andrew,90
+OPP1102,CUST019,Engineer Rich Systems,Lead,2025-11-16,11302.26,Lisa,10
+OPP1103,CUST011,Expedite 24/365 Experiences,Negotiation,2025-10-12,7454.51,Scott,10
+OPP1104,CUST019,Scale Next-Generation Functionalities,Qualified,2025-09-06,12125.17,Amanda,70
+OPP1105,CUST001,Deliver Best-Of-Breed Systems,Proposal,2025-09-13,7258.76,Wendy,90
+OPP1106,CUST005,Utilize Back-End E-Markets,Qualified,2025-10-08,7453.67,Melissa,10
+OPP1107,CUST001,Seize Revolutionary Functionalities,Negotiation,2025-10-14,10184.36,Fernando,30
+OPP1108,CUST005,Unleash Magnetic Info-Mediaries,Closed Lost,2025-09-21,12978.91,Albert,70
+OPP1109,CUST015,Transform Impactful Action-Items,Negotiation,2025-10-12,7550.0,Michael,30
+OPP1110,CUST009,Cultivate Value-Added Convergence,Lead,2025-09-27,18144.55,William,70
+OPP1111,CUST018,Enable Customized E-Business,Negotiation,2025-08-30,5686.15,Erin,30
+OPP1112,CUST008,Incentivize Seamless Markets,Qualified,2025-10-19,17147.64,Brendan,70
+OPP1113,CUST012,Transform Synergistic Synergies,Closed Lost,2025-09-28,18558.43,Catherine,10
+OPP1114,CUST012,Maximize Dot-Com Functionalities,Closed Won,2025-11-16,11132.11,Monica,90
+OPP1115,CUST018,Mesh Next-Generation Supply-Chains,Closed Won,2025-11-17,15352.97,Brian,70
+OPP1116,CUST018,Whiteboard Compelling Communities,Closed Won,2025-11-01,6062.12,Anna,70
+OPP1117,CUST002,Whiteboard Out-Of-The-Box Partnerships,Proposal,2025-10-25,8199.38,Sheila,10
+OPP1118,CUST015,Innovate Web-Enabled Networks,Lead,2025-10-16,10428.84,Mark,10
+OPP1119,CUST019,Deliver Efficient E-Commerce,Qualified,2025-10-04,19002.07,Katherine,70
+OPP1120,CUST010,Drive Virtual Systems,Negotiation,2025-10-20,14230.9,Thomas,30
+OPP1121,CUST010,Envisioneer Cross-Platform Supply-Chains,Closed Lost,2025-10-08,11896.48,Kyle,70
+OPP1122,CUST007,Innovate B2C Paradigms,Closed Won,2025-11-22,4959.22,Gregory,30
+OPP1123,CUST020,Envisioneer Innovative Networks,Closed Won,2025-10-04,7619.88,James,50
+OPP1124,CUST007,Engage Vertical E-Commerce,Qualified,2025-10-11,5100.24,Jeffrey,90
+OPP1125,CUST012,Facilitate Impactful Functionalities,Closed Won,2025-09-15,10657.22,Casey,10
+OPP1126,CUST019,Exploit Bleeding-Edge Partnerships,Negotiation,2025-11-07,1754.87,Noah,10
+OPP1127,CUST005,Transition Bleeding-Edge Methodologies,Qualified,2025-09-23,19777.2,Michael,10
+OPP1128,CUST010,Generate Wireless Paradigms,Qualified,2025-09-04,11733.13,Benjamin,50
+OPP1129,CUST016,Mesh Scalable Bandwidth,Closed Lost,2025-09-04,6870.44,Tanya,10
+OPP1130,CUST008,Evolve Extensible Web Services,Proposal,2025-09-17,2207.07,Andre,10
+OPP1131,CUST012,Optimize End-To-End Portals,Closed Won,2025-11-06,14248.88,Colleen,30
+OPP1132,CUST004,Mesh Global Paradigms,Closed Won,2025-09-14,1682.03,Sarah,50
+OPP1133,CUST011,Benchmark Viral Models,Closed Won,2025-11-26,12964.1,Kevin,70
+OPP1134,CUST017,Facilitate Rich Technologies,Closed Won,2025-11-09,13997.94,Mark,30
+OPP1135,CUST013,E-Enable Impactful Platforms,Closed Won,2025-11-17,15196.81,Mary,30
+OPP1136,CUST002,Re-Intermediate Sticky Bandwidth,Closed Won,2025-09-06,2932.94,Kelly,90
+OPP1137,CUST012,Grow Revolutionary Channels,Proposal,2025-11-05,2270.93,Robert,90
+OPP1138,CUST012,Implement Front-End E-Services,Lead,2025-10-02,4976.21,Norman,50
+OPP1139,CUST014,Streamline Frictionless Portals,Closed Lost,2025-09-28,10411.01,William,10
+OPP1140,CUST016,Cultivate Holistic Roi,Negotiation,2025-11-26,18094.12,Chad,90
+OPP1141,CUST014,Integrate Seamless Convergence,Closed Won,2025-11-01,15636.49,Mary,90
+OPP1142,CUST006,Deliver One-To-One E-Business,Lead,2025-09-22,7012.48,Caleb,10
+OPP1143,CUST011,Generate Strategic Bandwidth,Proposal,2025-11-06,4118.94,Susan,70
+OPP1144,CUST006,Grow Cross-Platform Communities,Proposal,2025-10-21,1781.91,Cynthia,30
+OPP1145,CUST004,Re-Contextualize Cross-Media Users,Closed Lost,2025-10-24,19739.32,Melinda,50
+OPP1146,CUST008,Mesh Impactful Channels,Closed Lost,2025-10-20,18983.82,Scott,50
+OPP1147,CUST014,Monetize Virtual Communities,Proposal,2025-10-03,15669.47,Emma,30
+OPP1148,CUST007,Cultivate Proactive Functionalities,Lead,2025-10-09,19577.88,Taylor,30
+OPP1149,CUST018,Mesh Best-Of-Breed Paradigms,Lead,2025-11-12,5342.22,Wendy,70
+OPP1150,CUST015,Seize Dot-Com Interfaces,Negotiation,2025-09-14,14178.37,Earl,90
+OPP1151,CUST004,Utilize Open-Source Experiences,Lead,2025-09-28,14949.17,Dana,30
+OPP1152,CUST003,Engineer Visionary Methodologies,Closed Won,2025-09-20,9269.9,Jennifer,90
+OPP1153,CUST015,Mesh Frictionless Niches,Negotiation,2025-09-20,9381.79,Tabitha,90
+OPP1154,CUST008,Architect 24/365 Bandwidth,Negotiation,2025-11-06,12018.14,Robert,30
+OPP1155,CUST017,Deploy Revolutionary Web-Readiness,Closed Won,2025-10-24,18731.19,Brittany,90
+OPP1156,CUST008,Redefine One-To-One Systems,Proposal,2025-11-09,13041.32,Laurie,30
+OPP1157,CUST018,Re-Contextualize Revolutionary Solutions,Closed Won,2025-11-19,1116.71,Lance,90
+OPP1158,CUST008,Synergize Visionary Synergies,Closed Won,2025-10-25,4398.37,Kelsey,90
+OPP1159,CUST003,Harness Cross-Platform Metrics,Qualified,2025-10-04,7306.6,Wanda,70
+OPP1160,CUST013,Morph Global Convergence,Negotiation,2025-10-15,13456.59,Heather,90
+OPP1161,CUST003,Seize Enterprise Initiatives,Closed Won,2025-10-24,11573.28,Craig,70
+OPP1162,CUST013,Deploy 24/365 E-Tailers,Closed Lost,2025-11-17,16717.01,Amanda,90
+OPP1163,CUST006,Deploy E-Business Web Services,Closed Lost,2025-11-09,11359.6,Rachel,70
+OPP1164,CUST015,Engineer Compelling Technologies,Lead,2025-11-24,10407.27,Jennifer,30
+OPP1165,CUST010,Benchmark Global Architectures,Closed Won,2025-11-19,16611.49,David,70
+OPP1166,CUST020,Architect Extensible Networks,Proposal,2025-10-13,1858.41,Stephen,90
+OPP1167,CUST016,Grow Holistic Web Services,Closed Lost,2025-10-23,16178.88,April,10
+OPP1168,CUST001,Incubate Granular Users,Proposal,2025-11-07,6871.5,Zachary,90
+OPP1169,CUST009,Aggregate Cutting-Edge Architectures,Closed Lost,2025-10-27,7576.04,Thomas,70
+OPP1170,CUST015,Engineer Bleeding-Edge Action-Items,Lead,2025-09-17,19541.0,Aaron,30
+OPP1171,CUST003,Engineer Virtual Bandwidth,Proposal,2025-11-02,16885.43,Ann,90
+OPP1172,CUST011,Deliver Best-Of-Breed Applications,Lead,2025-09-05,8637.8,Sabrina,70
+OPP1173,CUST007,E-Enable Distributed Markets,Negotiation,2025-09-13,17327.9,Daniel,50
+OPP1174,CUST007,Empower Dot-Com Metrics,Negotiation,2025-09-08,16282.68,Annette,10
+OPP1175,CUST020,Aggregate Visionary Infrastructures,Qualified,2025-09-13,17463.32,Lori,90
+OPP1176,CUST012,Productize Compelling Interfaces,Lead,2025-11-21,19388.04,Leah,30
+OPP1177,CUST018,Deploy Open-Source E-Business,Closed Lost,2025-11-15,1724.97,Zachary,30
+OPP1178,CUST004,Enable Collaborative Platforms,Closed Lost,2025-09-07,14056.09,Michael,90
+OPP1179,CUST019,Productize Sticky Web-Readiness,Closed Lost,2025-09-27,12618.43,Shirley,10
+OPP1180,CUST020,Synthesize User-Centric Relationships,Closed Won,2025-09-05,14581.81,Devon,90
+OPP1181,CUST017,Cultivate Extensible Roi,Qualified,2025-09-02,18053.22,John,70
+OPP1182,CUST016,Morph Frictionless Roi,Closed Lost,2025-11-17,17930.13,Jose,50
+OPP1183,CUST004,Productize Web-Enabled Methodologies,Negotiation,2025-11-24,17587.93,Michael,90
+OPP1184,CUST008,Incentivize Value-Added Initiatives,Lead,2025-11-21,8232.59,Caitlyn,50
+OPP1185,CUST004,Scale Strategic Deliverables,Negotiation,2025-10-22,8531.18,Eddie,50
+OPP1186,CUST010,Whiteboard Efficient Portals,Qualified,2025-11-25,13675.98,Austin,30
+OPP1187,CUST006,Incentivize Front-End E-Business,Closed Won,2025-10-05,19598.8,Kim,10
+OPP1188,CUST008,Transition Impactful E-Business,Closed Won,2025-09-09,4343.13,James,70
+OPP1189,CUST012,Incentivize Wireless Web Services,Qualified,2025-11-24,4558.45,Stacey,30
+OPP1190,CUST014,Reinvent Robust E-Tailers,Proposal,2025-09-29,3403.65,Joshua,50
+OPP1191,CUST007,Matrix Frictionless Networks,Lead,2025-11-16,15336.16,Matthew,70
+OPP1192,CUST014,Re-Intermediate Bleeding-Edge Functionalities,Negotiation,2025-09-06,18882.07,Ashley,10
+OPP1193,CUST020,Strategize Killer E-Business,Closed Won,2025-10-06,7880.85,Travis,70
+OPP1194,CUST006,Generate Proactive Info-Mediaries,Negotiation,2025-09-17,2255.27,Kathryn,30
+OPP1195,CUST017,Transition Revolutionary Bandwidth,Negotiation,2025-10-25,19415.78,Nicholas,30
+OPP1196,CUST012,Deploy Extensible Functionalities,Closed Won,2025-11-20,7731.37,Amy,70
+OPP1197,CUST001,Strategize Robust E-Markets,Negotiation,2025-11-17,13698.0,Abigail,50
+OPP1198,CUST008,Morph Real-Time Partnerships,Lead,2025-10-17,5955.62,Brian,90
+OPP1199,CUST004,E-Enable Rich Systems,Qualified,2025-09-20,7318.17,William,10
+OPP1200,CUST017,Extend B2B Users,Negotiation,2025-11-04,11730.94,Stephanie,90
+OPP1201,CUST019,Embrace Dot-Com E-Markets,Proposal,2025-10-25,15212.61,Jose,50
+OPP1202,CUST013,Visualize End-To-End Methodologies,Qualified,2025-11-15,9826.26,Elizabeth,10
+OPP1203,CUST008,Deploy Value-Added Infrastructures,Proposal,2025-11-02,17726.94,Catherine,30
+OPP1204,CUST005,Engineer Seamless Solutions,Lead,2025-09-18,3189.66,Dwayne,50
+OPP1205,CUST012,Strategize 24/365 Methodologies,Closed Won,2025-09-18,2370.03,Kelly,10
+OPP1206,CUST009,Deliver Holistic Synergies,Negotiation,2025-11-09,11849.66,Gregory,50
+OPP1207,CUST009,Extend Value-Added Applications,Closed Won,2025-11-24,6595.74,Dawn,50
+OPP1208,CUST008,Scale Interactive Action-Items,Lead,2025-11-25,14825.67,Wayne,90
+OPP1209,CUST019,Grow 24/365 E-Tailers,Closed Won,2025-11-05,13396.06,Robert,70
+OPP1210,CUST014,Aggregate Impactful Vortals,Proposal,2025-08-29,10467.94,Steven,70
+OPP1211,CUST002,Implement Out-Of-The-Box Initiatives,Proposal,2025-09-06,14986.05,Rachael,90
+OPP1212,CUST012,Enhance Clicks-And-Mortar Communities,Lead,2025-09-28,14908.28,Carlos,50
+OPP1213,CUST002,Matrix Proactive Methodologies,Proposal,2025-10-24,14386.88,Amanda,10
+OPP1214,CUST016,Deploy Mission-Critical Metrics,Qualified,2025-10-12,10226.46,Amanda,50
+OPP1215,CUST019,Exploit Strategic Info-Mediaries,Qualified,2025-10-05,703.07,John,70
+OPP1216,CUST009,Revolutionize Bleeding-Edge Bandwidth,Qualified,2025-09-10,4486.98,Debbie,90
+OPP1217,CUST006,Scale Strategic Users,Lead,2025-11-18,13146.22,Jonathan,90
+OPP1218,CUST002,Implement Proactive Applications,Qualified,2025-09-24,15720.1,Kyle,70
+OPP1219,CUST013,Scale Viral Web Services,Closed Won,2025-08-28,4269.55,Robert,70
+OPP1220,CUST017,Drive Vertical Web Services,Qualified,2025-11-13,17218.71,Andrew,70
+OPP1221,CUST010,Incentivize Value-Added Partnerships,Qualified,2025-09-19,13868.12,Daniel,30
+OPP1222,CUST018,Reinvent Cross-Media Networks,Closed Lost,2025-10-09,6610.86,Manuel,70
+OPP1223,CUST017,Evolve B2B Methodologies,Negotiation,2025-10-02,17800.3,Rebecca,70
+OPP1224,CUST005,Matrix Best-Of-Breed Markets,Closed Won,2025-10-06,9522.24,Derrick,70
+OPP1225,CUST017,Deploy Bleeding-Edge Platforms,Proposal,2025-09-23,14312.91,Adam,90
+OPP1226,CUST009,Iterate Open-Source Vortals,Qualified,2025-10-20,12549.51,Kevin,10
+OPP1227,CUST008,Benchmark Web-Enabled Networks,Qualified,2025-11-18,14641.87,Eric,50
+OPP1228,CUST018,Scale Plug-And-Play Portals,Closed Won,2025-10-23,10893.31,Jason,50
+OPP1229,CUST020,Synthesize Leading-Edge Experiences,Closed Lost,2025-09-10,12161.93,David,90
+OPP1230,CUST003,Optimize Best-Of-Breed Technologies,Proposal,2025-10-25,18899.9,Courtney,90
+OPP1231,CUST006,Deploy Mission-Critical Platforms,Lead,2025-09-22,8837.03,Julie,10
+OPP1232,CUST007,Deliver Virtual Experiences,Closed Lost,2025-10-08,7664.91,Dylan,30
+OPP1233,CUST020,Cultivate Open-Source Relationships,Closed Lost,2025-09-26,14146.02,Breanna,10
+OPP1234,CUST011,Engage E-Business Platforms,Closed Won,2025-11-13,2782.89,Wendy,30
+OPP1235,CUST014,Iterate Dot-Com Portals,Negotiation,2025-10-27,10185.61,Matthew,70
+OPP1236,CUST015,Unleash Efficient Deliverables,Proposal,2025-10-06,8035.34,Justin,10
+OPP1237,CUST020,Utilize Compelling Relationships,Closed Lost,2025-09-25,15079.61,Jessica,30
+OPP1238,CUST013,Enable Turn-Key Schemas,Closed Lost,2025-09-25,15802.61,Martin,50
+OPP1239,CUST007,Target Robust Applications,Lead,2025-10-16,19290.83,Stefanie,50
+OPP1240,CUST013,Scale Cross-Platform Relationships,Negotiation,2025-09-19,8360.94,Andrew,70
+OPP1241,CUST020,Repurpose Dynamic E-Business,Qualified,2025-11-09,17329.28,Yesenia,30
+OPP1242,CUST005,Morph Back-End Technologies,Negotiation,2025-10-16,19322.27,Billy,30
+OPP1243,CUST005,Aggregate Viral E-Services,Lead,2025-11-17,15222.43,Kara,30
+OPP1244,CUST016,Extend Killer Architectures,Lead,2025-10-12,17526.85,John,70
+OPP1245,CUST018,Re-Intermediate Viral Info-Mediaries,Closed Lost,2025-09-21,6612.13,Alexandra,50
+OPP1246,CUST002,Grow Integrated Bandwidth,Qualified,2025-11-23,18810.02,James,70
+OPP1247,CUST004,Unleash User-Centric Deliverables,Proposal,2025-10-09,510.74,Greg,30
+OPP1248,CUST017,Exploit Synergistic E-Tailers,Qualified,2025-10-06,15409.35,Curtis,70
+OPP1249,CUST011,Deliver Sticky Communities,Negotiation,2025-10-05,17040.98,Fernando,70
+OPP1250,CUST011,Deploy Integrated Deliverables,Qualified,2025-09-21,9959.29,Jessica,70
+OPP1251,CUST017,Implement Ubiquitous Metrics,Negotiation,2025-09-19,5682.23,Patricia,10
+OPP1252,CUST013,Reinvent Cutting-Edge Partnerships,Closed Lost,2025-08-28,14837.21,Patricia,50
+OPP1253,CUST006,Empower Efficient Experiences,Proposal,2025-11-22,15511.6,Veronica,50
+OPP1254,CUST016,Enhance B2B Technologies,Closed Lost,2025-09-25,18087.52,Barbara,90
+OPP1255,CUST002,Iterate B2B E-Commerce,Closed Won,2025-11-03,14161.62,Andrew,10
+OPP1256,CUST020,Transform End-To-End E-Tailers,Proposal,2025-09-15,7042.6,Kenneth,70
+OPP1257,CUST006,Disintermediate Cross-Media Initiatives,Proposal,2025-09-30,11359.17,Curtis,30
+OPP1258,CUST020,Matrix Extensible Vortals,Lead,2025-09-18,2005.47,Anthony,70
+OPP1259,CUST007,Syndicate Bricks-And-Clicks Synergies,Closed Lost,2025-09-03,19751.06,Scott,10
+OPP1260,CUST015,Transition Holistic E-Business,Proposal,2025-10-08,7172.6,Candace,90
+OPP1261,CUST002,Generate Cross-Platform Niches,Lead,2025-11-02,2442.73,Jamie,10
+OPP1262,CUST001,Innovate Customized Infrastructures,Closed Lost,2025-11-11,17551.79,Anita,50
+OPP1263,CUST015,Engage Dynamic Architectures,Proposal,2025-10-09,19228.93,Julie,30
+OPP1264,CUST018,Deploy Cutting-Edge Technologies,Proposal,2025-09-20,18263.63,Sharon,50
+OPP1265,CUST010,Enhance Collaborative Infrastructures,Closed Lost,2025-09-17,3205.06,Alexander,50
+OPP1266,CUST001,Enhance One-To-One Convergence,Negotiation,2025-11-11,12010.51,Sean,50
+OPP1267,CUST004,Grow Proactive Technologies,Lead,2025-09-06,740.08,Bianca,30
+OPP1268,CUST012,Strategize Best-Of-Breed Users,Closed Won,2025-09-23,9094.5,Steven,10
+OPP1269,CUST017,Reinvent Granular Mindshare,Negotiation,2025-10-10,17311.74,Ana,50
+OPP1270,CUST007,Synthesize 24/365 Supply-Chains,Qualified,2025-09-27,8786.83,Joe,50
+OPP1271,CUST016,E-Enable Cross-Platform Synergies,Closed Won,2025-10-25,6257.1,John,90
+OPP1272,CUST013,Benchmark Sticky Interfaces,Proposal,2025-10-20,1311.81,Veronica,50
+OPP1273,CUST007,Integrate Interactive Networks,Qualified,2025-09-20,10148.56,Michael,90
+OPP1274,CUST014,Strategize Transparent Functionalities,Qualified,2025-09-06,3705.78,Tyler,70
+OPP1275,CUST016,Generate Collaborative Platforms,Proposal,2025-10-03,12282.81,Sherry,30
+OPP1276,CUST014,Enable Holistic Channels,Negotiation,2025-11-06,1015.05,Carla,90
+OPP1277,CUST015,Strategize E-Business Info-Mediaries,Lead,2025-09-10,12033.03,Aaron,90
+OPP1278,CUST013,Grow Ubiquitous Metrics,Closed Won,2025-09-19,12750.73,Jonathan,50
+OPP1279,CUST006,Utilize Turn-Key E-Business,Closed Won,2025-09-24,6881.68,Jermaine,90
+OPP1280,CUST014,Iterate User-Centric Action-Items,Closed Won,2025-09-16,5722.36,Roger,70
+OPP1281,CUST019,Re-Intermediate Killer E-Services,Proposal,2025-11-12,10925.24,Andrew,70
+OPP1282,CUST016,Productize Granular Systems,Negotiation,2025-10-13,17200.54,Scott,50
+OPP1283,CUST002,Reinvent Viral E-Services,Proposal,2025-10-23,14000.5,Michael,30
+OPP1284,CUST006,Strategize Sticky Interfaces,Closed Lost,2025-09-26,1469.19,Amy,50
+OPP1285,CUST011,Repurpose Synergistic Methodologies,Qualified,2025-10-03,15599.12,John,10
+OPP1286,CUST019,Iterate Strategic Networks,Closed Lost,2025-11-08,3778.42,Stephanie,50
+OPP1287,CUST016,Incentivize Synergistic Content,Closed Won,2025-10-23,18507.75,Savannah,30
+OPP1288,CUST019,Enhance Magnetic Systems,Closed Won,2025-11-08,17520.94,Billy,30
+OPP1289,CUST012,Revolutionize Innovative Portals,Proposal,2025-09-27,18977.03,Patty,70
+OPP1290,CUST011,Disintermediate Innovative Portals,Qualified,2025-10-06,16203.54,Glen,90
+OPP1291,CUST019,Scale Synergistic Channels,Qualified,2025-10-04,14712.2,Cassidy,90
+OPP1292,CUST020,Maximize 24/365 Methodologies,Qualified,2025-10-29,15744.39,Andrea,90
+OPP1293,CUST006,Mesh Value-Added Action-Items,Proposal,2025-10-27,17099.9,Cynthia,50
+OPP1294,CUST007,Architect Robust Initiatives,Negotiation,2025-10-05,11034.18,Allison,10
+OPP1295,CUST020,Orchestrate Holistic E-Services,Closed Lost,2025-10-05,12181.23,Michael,30
+OPP1296,CUST014,Aggregate Magnetic Roi,Lead,2025-09-30,11408.75,Debra,30
+OPP1297,CUST014,Synthesize Innovative Partnerships,Proposal,2025-09-18,7764.97,Melissa,10
+OPP1298,CUST016,Re-Intermediate Real-Time Eyeballs,Closed Won,2025-10-18,14591.71,Kaitlyn,70
+OPP1299,CUST012,Whiteboard Web-Enabled Systems,Qualified,2025-11-19,925.69,Michael,90
+OPP1300,CUST001,Empower Strategic Supply-Chains,Closed Won,2025-09-10,15550.92,Kevin,70
+OPP1301,CUST007,Redefine Magnetic Models,Proposal,2025-10-10,3693.84,Christopher,10
+OPP1302,CUST015,Whiteboard Frictionless Convergence,Lead,2025-11-17,1841.02,Peter,50
+OPP1303,CUST012,Architect Magnetic Networks,Closed Lost,2025-09-13,10062.1,Karen,30
+OPP1304,CUST020,Maximize Mission-Critical Info-Mediaries,Proposal,2025-09-16,3794.91,Angela,50
+OPP1305,CUST003,Disintermediate Real-Time Networks,Closed Lost,2025-11-22,18817.85,Kimberly,10
+OPP1306,CUST006,Synergize Global Technologies,Lead,2025-10-13,16994.38,Carol,70
+OPP1307,CUST017,Unleash Killer Mindshare,Lead,2025-09-15,4863.67,Amber,70
+OPP1308,CUST011,Monetize 24/7 Mindshare,Closed Lost,2025-11-02,8969.88,Natalie,70
+OPP1309,CUST013,Integrate Wireless Partnerships,Negotiation,2025-09-08,10881.41,Annette,70
+OPP1310,CUST015,Syndicate 24/7 Deliverables,Lead,2025-08-30,17738.04,David,90
+OPP1311,CUST009,Monetize Best-Of-Breed Web Services,Proposal,2025-10-27,16599.03,Alicia,90
+OPP1312,CUST011,Enhance Customized Methodologies,Qualified,2025-11-03,19558.43,Holly,70
+OPP1313,CUST008,Visualize Clicks-And-Mortar Partnerships,Closed Lost,2025-10-25,11834.82,April,30
+OPP1314,CUST015,Engage Dot-Com E-Commerce,Proposal,2025-11-04,17766.29,Alexis,50
+OPP1315,CUST006,Visualize Ubiquitous E-Markets,Negotiation,2025-11-09,8826.76,Sandra,70
+OPP1316,CUST006,Synthesize Mission-Critical Platforms,Closed Lost,2025-09-30,18469.9,Christine,50
+OPP1317,CUST006,Monetize Turn-Key Platforms,Lead,2025-09-15,8788.03,Judith,90
+OPP1318,CUST011,Drive Integrated Mindshare,Qualified,2025-10-18,7836.76,Ryan,50
+OPP1319,CUST012,Strategize Synergistic E-Tailers,Closed Lost,2025-10-23,19703.1,Nathan,90
+OPP1320,CUST009,Visualize Killer Web Services,Closed Lost,2025-11-09,5191.06,Joshua,90
+OPP1321,CUST020,Maximize Turn-Key Technologies,Closed Won,2025-10-30,10112.82,Daniel,70
+OPP1322,CUST018,Engineer Synergistic E-Business,Lead,2025-09-15,15533.59,David,30
+OPP1323,CUST015,Envisioneer Rich Partnerships,Proposal,2025-10-31,5479.39,Alejandro,10
+OPP1324,CUST016,Enable Wireless Action-Items,Qualified,2025-10-13,10175.91,Christopher,70
+OPP1325,CUST008,Synergize Killer Deliverables,Closed Lost,2025-09-11,11406.69,Kristi,90
+OPP1326,CUST008,Iterate B2C Functionalities,Proposal,2025-09-03,12068.82,Tracey,10
+OPP1327,CUST002,Leverage B2B Markets,Qualified,2025-09-17,1510.93,Brian,10
+OPP1328,CUST002,Re-Contextualize Distributed E-Services,Negotiation,2025-10-04,6379.17,Samantha,10
+OPP1329,CUST014,Revolutionize Seamless Content,Closed Won,2025-10-26,1864.48,Samantha,90
+OPP1330,CUST007,Embrace Enterprise Convergence,Proposal,2025-10-30,1439.75,Paul,70
+OPP1331,CUST017,Facilitate Web-Enabled Infrastructures,Negotiation,2025-10-12,12089.31,Marvin,50
+OPP1332,CUST003,Re-Intermediate Open-Source Bandwidth,Closed Won,2025-11-26,12135.25,Joseph,50
+OPP1333,CUST007,Enable Interactive Bandwidth,Closed Won,2025-10-02,11646.36,Katrina,50
+OPP1334,CUST011,Enhance Out-Of-The-Box Partnerships,Qualified,2025-11-06,19280.49,Charles,70
+OPP1335,CUST003,Monetize Killer Action-Items,Lead,2025-10-17,17820.79,Kathleen,90
+OPP1336,CUST005,Unleash Synergistic Methodologies,Closed Lost,2025-10-15,10345.18,Michael,10
+OPP1337,CUST009,Syndicate Extensible Supply-Chains,Closed Won,2025-09-30,929.21,Howard,50
+OPP1338,CUST001,Expedite Wireless E-Tailers,Qualified,2025-11-08,13347.04,Tiffany,90
+OPP1339,CUST017,Re-Intermediate Leading-Edge Architectures,Closed Won,2025-09-29,17166.68,Corey,90
+OPP1340,CUST020,Syndicate Transparent Web Services,Closed Lost,2025-09-26,11579.15,Kimberly,10
+OPP1341,CUST005,Redefine Real-Time Technologies,Lead,2025-10-26,18363.18,Kurt,10
+OPP1342,CUST010,Monetize Best-Of-Breed Content,Proposal,2025-09-06,14692.16,Ryan,50
+OPP1343,CUST018,Brand Extensible Convergence,Negotiation,2025-10-15,8729.5,Robert,70
+OPP1344,CUST011,Productize Intuitive Architectures,Qualified,2025-09-27,5366.32,Ricky,50
+OPP1345,CUST005,Productize B2C Architectures,Closed Lost,2025-11-14,13539.59,Michael,30
+OPP1346,CUST013,Extend Rich Action-Items,Proposal,2025-09-22,3812.05,Tiffany,30
+OPP1347,CUST008,Strategize Front-End E-Tailers,Qualified,2025-10-09,3277.58,Brandi,90
+OPP1348,CUST002,Harness Visionary Initiatives,Closed Lost,2025-10-13,981.44,Timothy,50
+OPP1349,CUST017,Harness 24/7 Supply-Chains,Qualified,2025-09-06,6670.37,Christina,30
+OPP1350,CUST019,Brand Holistic Schemas,Proposal,2025-08-28,17955.92,Kevin,70
+OPP1351,CUST004,Grow User-Centric Supply-Chains,Proposal,2025-10-06,19140.78,Donna,90
+OPP1352,CUST007,Morph Front-End Interfaces,Lead,2025-09-15,4572.07,Cody,70
+OPP1353,CUST015,Innovate Cross-Media Architectures,Lead,2025-11-02,5173.77,Jessica,70
+OPP1354,CUST017,Visualize 24/365 Niches,Closed Won,2025-11-22,17461.83,Susan,30
+OPP1355,CUST001,Harness Virtual Solutions,Closed Lost,2025-11-12,5617.06,Jonathan,10
+OPP1356,CUST008,Grow 24/7 Schemas,Closed Won,2025-11-20,19488.89,Corey,90
+OPP1357,CUST019,Exploit Clicks-And-Mortar Metrics,Lead,2025-10-27,11702.53,Sean,50
+OPP1358,CUST016,Whiteboard Impactful Communities,Closed Won,2025-10-22,5393.61,James,90
+OPP1359,CUST006,Streamline Out-Of-The-Box Experiences,Qualified,2025-11-24,7414.08,James,90
+OPP1360,CUST012,Productize Collaborative Infrastructures,Closed Lost,2025-10-05,4432.59,Sharon,10
+OPP1361,CUST006,Deliver Next-Generation Users,Closed Won,2025-11-07,17069.86,Sarah,30
+OPP1362,CUST012,Scale B2B Technologies,Negotiation,2025-11-18,16942.63,Lauren,10
+OPP1363,CUST006,Facilitate Proactive Web-Readiness,Lead,2025-10-20,9684.17,William,30
+OPP1364,CUST014,Orchestrate Magnetic Vortals,Proposal,2025-11-12,7541.56,Karen,10
+OPP1365,CUST010,Harness Enterprise Partnerships,Closed Lost,2025-09-25,11917.92,Ethan,30
+OPP1366,CUST004,Drive Bricks-And-Clicks Synergies,Closed Won,2025-11-12,10978.76,Lisa,10
+OPP1367,CUST005,Re-Contextualize Compelling E-Services,Negotiation,2025-09-04,16233.78,Amanda,30
+OPP1368,CUST005,Scale Dynamic Portals,Closed Won,2025-09-10,11993.99,Mallory,50
+OPP1369,CUST014,Synergize Distributed Action-Items,Negotiation,2025-08-29,6023.17,Amanda,70
+OPP1370,CUST002,Optimize Cutting-Edge Mindshare,Lead,2025-10-29,4385.45,Amanda,90
+OPP1371,CUST018,Incubate Collaborative Synergies,Negotiation,2025-09-19,10367.65,Joshua,30
+OPP1372,CUST016,E-Enable Collaborative Roi,Qualified,2025-10-09,6403.22,Russell,70
+OPP1373,CUST011,Enable Collaborative E-Tailers,Lead,2025-10-16,718.78,Christina,50
+OPP1374,CUST011,Transition Global Vortals,Negotiation,2025-09-11,4550.1,Julia,50
+OPP1375,CUST006,Drive Cutting-Edge Portals,Closed Lost,2025-10-17,12731.77,Jeffrey,10
+OPP1376,CUST001,Matrix Value-Added Interfaces,Closed Won,2025-09-26,11707.78,Nathan,50
+OPP1377,CUST016,Whiteboard Rich Functionalities,Negotiation,2025-11-08,1403.65,Richard,50
+OPP1378,CUST010,Optimize Proactive Mindshare,Qualified,2025-09-28,1705.72,Nancy,50
+OPP1379,CUST015,Incentivize Strategic Platforms,Proposal,2025-09-08,12636.07,Justin,30
+OPP1380,CUST020,Optimize Granular Experiences,Proposal,2025-11-04,15081.05,Kelly,10
+OPP1381,CUST011,Productize Enterprise Info-Mediaries,Closed Won,2025-10-02,18113.82,Robert,10
+OPP1382,CUST012,Integrate 24/7 Synergies,Closed Won,2025-11-01,1485.51,Janice,50
+OPP1383,CUST001,Re-Contextualize Revolutionary Methodologies,Closed Lost,2025-11-04,12244.85,Deborah,70
+OPP1384,CUST019,Productize Turn-Key Communities,Qualified,2025-10-13,12428.97,Kendra,90
+OPP1385,CUST009,Synthesize Extensible Content,Negotiation,2025-10-27,3196.29,Adam,70
+OPP1386,CUST012,Scale 24/365 Vortals,Closed Won,2025-08-29,19622.75,Sean,50
+OPP1387,CUST004,Utilize Innovative Solutions,Qualified,2025-09-10,15954.1,Mia,70
+OPP1388,CUST011,Unleash Best-Of-Breed Applications,Closed Lost,2025-09-28,16552.43,Janet,30
+OPP1389,CUST008,Syndicate Web-Enabled Schemas,Closed Won,2025-09-08,18118.26,Christina,10
+OPP1390,CUST004,Incentivize Back-End E-Markets,Lead,2025-10-05,18195.46,Jeffrey,70
+OPP1391,CUST016,Visualize Cross-Platform Vortals,Lead,2025-10-07,19507.57,Frank,50
+OPP1392,CUST008,Syndicate Extensible Markets,Qualified,2025-09-24,16070.98,Chris,30
+OPP1393,CUST018,E-Enable Holistic Communities,Lead,2025-11-22,5249.03,Robin,90
+OPP1394,CUST016,Facilitate Mission-Critical Content,Negotiation,2025-10-22,11669.93,Eric,30
+OPP1395,CUST011,Maximize Leading-Edge E-Business,Closed Lost,2025-09-15,18576.08,Jessica,30
+OPP1396,CUST017,Innovate Leading-Edge Convergence,Negotiation,2025-11-14,14129.85,Jason,10
+OPP1397,CUST004,Optimize Viral Supply-Chains,Proposal,2025-10-21,6013.53,Daniel,30
+OPP1398,CUST005,Deploy Bleeding-Edge Roi,Closed Won,2025-10-26,2552.86,Ann,70
+OPP1399,CUST014,Expedite Magnetic Solutions,Qualified,2025-09-07,14045.14,Amanda,30
+OPP1400,CUST009,Unleash Enterprise Initiatives,Closed Lost,2025-11-17,11921.8,Dana,50
+OPP1401,CUST017,Seize Viral Eyeballs,Lead,2025-09-08,7227.47,Jacqueline,10
+OPP1402,CUST009,Embrace Magnetic Interfaces,Qualified,2025-10-28,5901.59,Crystal,90
+OPP1403,CUST020,Deliver Synergistic Relationships,Proposal,2025-10-27,5479.49,Eileen,90
+OPP1404,CUST018,Envisioneer Strategic E-Commerce,Closed Won,2025-11-13,9401.86,Brian,50
+OPP1405,CUST018,Unleash Transparent Architectures,Closed Won,2025-10-28,19409.88,Theodore,50
+OPP1406,CUST020,Mesh Interactive Partnerships,Closed Lost,2025-09-09,10509.74,Brenda,50
+OPP1407,CUST015,Revolutionize User-Centric Portals,Closed Lost,2025-11-19,14519.86,Timothy,10
+OPP1408,CUST017,Maximize Granular E-Services,Negotiation,2025-10-19,13479.45,Kristen,70
+OPP1409,CUST018,Facilitate Bleeding-Edge Initiatives,Proposal,2025-10-10,9766.7,Jessica,90
+OPP1410,CUST004,Incubate Sticky Networks,Closed Won,2025-11-08,6361.08,Philip,70
+OPP1411,CUST002,Synergize Back-End Networks,Lead,2025-10-16,10527.18,Teresa,70
+OPP1412,CUST016,E-Enable Strategic Roi,Negotiation,2025-09-02,8789.2,Vincent,50
+OPP1413,CUST006,Transform Cutting-Edge Systems,Closed Lost,2025-11-03,18365.6,Alicia,90
+OPP1414,CUST011,Embrace Vertical Relationships,Negotiation,2025-10-02,19780.24,Victoria,90
+OPP1415,CUST017,Synergize Bricks-And-Clicks Networks,Closed Lost,2025-11-03,2176.64,Mark,10
+OPP1416,CUST012,Evolve Vertical Systems,Closed Won,2025-11-04,13294.76,Hailey,90
+OPP1417,CUST016,Facilitate Transparent Models,Closed Won,2025-11-14,10380.14,Brett,30
+OPP1418,CUST020,Enable Distributed Convergence,Closed Lost,2025-11-16,17963.81,Chelsea,10
+OPP1419,CUST011,Morph Collaborative Initiatives,Closed Won,2025-11-08,16149.09,Tiffany,50
+OPP1420,CUST018,Redefine Bricks-And-Clicks Mindshare,Proposal,2025-09-14,3007.48,Allen,10
+OPP1421,CUST014,Deliver Strategic Experiences,Lead,2025-09-15,16211.28,Crystal,70
+OPP1422,CUST009,Reinvent Transparent Interfaces,Closed Lost,2025-11-09,11393.89,Alex,30
+OPP1423,CUST009,Engage Mission-Critical Functionalities,Lead,2025-11-11,19495.99,Emily,70
+OPP1424,CUST020,Productize Cross-Media Action-Items,Negotiation,2025-10-14,7439.79,Roy,30
+OPP1425,CUST010,Enable Front-End Niches,Negotiation,2025-09-07,1933.43,Keith,50
+OPP1426,CUST005,Brand Rich Roi,Negotiation,2025-11-23,18233.78,Andre,10
+OPP1427,CUST019,Empower Leading-Edge Initiatives,Negotiation,2025-09-05,1633.56,Phyllis,30
+OPP1428,CUST011,Syndicate Robust Experiences,Qualified,2025-09-25,2274.41,Vanessa,70
+OPP1429,CUST008,Architect Bricks-And-Clicks Supply-Chains,Proposal,2025-10-21,17122.2,John,50
+OPP1430,CUST013,Empower Visionary Solutions,Lead,2025-09-04,14953.15,Anthony,30
+OPP1431,CUST011,Grow Visionary Systems,Negotiation,2025-10-27,19847.89,Omar,50
+OPP1432,CUST014,Evolve Frictionless Info-Mediaries,Proposal,2025-09-16,14185.94,Nathan,90
+OPP1433,CUST018,Synergize Global Methodologies,Lead,2025-11-26,17044.06,David,70
+OPP1434,CUST001,Generate Integrated Architectures,Closed Lost,2025-08-29,19348.08,Charles,50
+OPP1435,CUST015,Utilize Intuitive Metrics,Closed Lost,2025-09-12,17747.62,Katherine,30
+OPP1436,CUST008,Engineer Cross-Media Synergies,Qualified,2025-09-04,11481.62,Meagan,50
+OPP1437,CUST018,Enable Efficient Interfaces,Closed Won,2025-10-24,2560.73,Kimberly,70
+OPP1438,CUST012,Drive End-To-End Architectures,Qualified,2025-11-06,6321.89,Cindy,50
+OPP1439,CUST019,Re-Intermediate Robust Action-Items,Qualified,2025-09-23,5907.34,Joseph,50
+OPP1440,CUST013,Aggregate Killer Users,Lead,2025-11-13,710.6,Ashley,30
+OPP1441,CUST002,Incubate Scalable Action-Items,Lead,2025-09-07,2833.42,Michael,10
+OPP1442,CUST016,Unleash 24/7 Portals,Lead,2025-11-13,16824.83,Joseph,70
+OPP1443,CUST009,Drive Revolutionary Systems,Lead,2025-11-13,10854.74,Daniel,70
+OPP1444,CUST004,Unleash Enterprise Infrastructures,Negotiation,2025-11-10,3011.88,Randall,70
+OPP1445,CUST004,Reinvent Collaborative Architectures,Negotiation,2025-11-14,9258.04,Jennifer,10
+OPP1446,CUST008,Evolve Cross-Media Partnerships,Proposal,2025-09-15,2299.47,Richard,70
+OPP1447,CUST012,Deploy User-Centric Experiences,Qualified,2025-09-28,12049.63,Steven,70
+OPP1448,CUST014,Productize Impactful Functionalities,Proposal,2025-10-27,5328.79,Chelsea,10
+OPP1449,CUST011,Innovate Enterprise Infrastructures,Closed Lost,2025-10-05,3795.99,Jose,50
+OPP1450,CUST002,Unleash Killer Paradigms,Proposal,2025-11-13,905.11,Shawn,90
+OPP1451,CUST003,Brand Virtual Communities,Negotiation,2025-11-04,8271.18,Jay,70
+OPP1452,CUST001,Scale Bleeding-Edge Niches,Closed Lost,2025-08-31,15430.58,Tina,30
+OPP1453,CUST017,Cultivate Dot-Com E-Business,Proposal,2025-09-14,9291.53,Tammy,50
+OPP1454,CUST019,Brand Web-Enabled Web-Readiness,Proposal,2025-09-15,16924.23,Lee,10
+OPP1455,CUST008,Evolve Visionary Action-Items,Qualified,2025-10-15,17272.94,Raymond,10
+OPP1456,CUST007,Transition Rich E-Services,Closed Lost,2025-10-15,5057.34,Kathleen,10
+OPP1457,CUST014,Visualize Impactful Platforms,Lead,2025-10-18,18266.13,Erica,10
+OPP1458,CUST004,Envisioneer Compelling E-Commerce,Closed Lost,2025-10-01,6401.26,Latoya,90
+OPP1459,CUST006,Optimize Next-Generation Architectures,Proposal,2025-08-29,10424.56,Cathy,30
+OPP1460,CUST001,Innovate Ubiquitous Infrastructures,Proposal,2025-09-02,16427.24,Tracy,10
+OPP1461,CUST014,Extend Plug-And-Play Schemas,Negotiation,2025-10-27,5396.88,Daniel,10
+OPP1462,CUST002,Expedite Best-Of-Breed Initiatives,Lead,2025-11-07,8941.17,Jennifer,10
+OPP1463,CUST002,Morph Collaborative Supply-Chains,Closed Lost,2025-11-13,7284.69,Edward,50
+OPP1464,CUST014,Iterate Real-Time Experiences,Closed Won,2025-11-19,15296.93,Tina,10
+OPP1465,CUST004,Embrace Holistic Web Services,Proposal,2025-09-03,2177.79,Ashley,50
+OPP1466,CUST007,Matrix Open-Source Models,Lead,2025-10-30,11311.5,Jennifer,70
+OPP1467,CUST011,Unleash Synergistic Vortals,Proposal,2025-09-25,6949.9,Donna,10
+OPP1468,CUST010,Facilitate Viral Applications,Qualified,2025-09-19,1855.67,Timothy,90
+OPP1469,CUST003,Engage Real-Time Partnerships,Lead,2025-09-28,4086.66,Teresa,30
+OPP1470,CUST004,Optimize Customized Action-Items,Proposal,2025-10-28,5054.01,William,90
+OPP1471,CUST005,Engage Compelling E-Services,Lead,2025-10-15,2144.35,Kathleen,30
+OPP1472,CUST018,Mesh Wireless Metrics,Qualified,2025-08-29,16258.81,Kevin,70
+OPP1473,CUST008,Re-Intermediate Cross-Platform Users,Proposal,2025-09-17,10744.17,Sarah,10
+OPP1474,CUST015,Streamline Dot-Com Convergence,Lead,2025-10-04,2294.64,John,30
+OPP1475,CUST010,Transition Magnetic Eyeballs,Closed Won,2025-11-20,14776.26,Kimberly,70
+OPP1476,CUST014,Embrace Visionary Niches,Qualified,2025-11-02,4973.07,Jenna,90
+OPP1477,CUST010,Synergize One-To-One Systems,Closed Won,2025-09-24,12030.19,Kevin,90
+OPP1478,CUST005,Repurpose World-Class Mindshare,Closed Won,2025-11-23,4116.84,Stephanie,90
+OPP1479,CUST008,Facilitate Proactive Channels,Closed Lost,2025-11-19,3888.59,Stacy,70
+OPP1480,CUST006,Empower Robust Experiences,Negotiation,2025-11-08,9234.49,Jeanette,30
+OPP1481,CUST015,E-Enable Web-Enabled Architectures,Qualified,2025-08-31,10362.46,Jennifer,10
+OPP1482,CUST020,Brand Magnetic Bandwidth,Negotiation,2025-09-29,19148.96,Joseph,30
+OPP1483,CUST007,Innovate B2B Functionalities,Negotiation,2025-11-13,13750.6,Heather,70
+OPP1484,CUST017,Integrate Strategic Functionalities,Qualified,2025-09-27,17979.57,Kevin,90
+OPP1485,CUST020,Leverage Scalable Synergies,Lead,2025-10-24,3841.18,Rebecca,50
+OPP1486,CUST001,Synergize Leading-Edge Portals,Proposal,2025-10-24,1124.1,Christopher,90
+OPP1487,CUST004,Engineer Transparent Paradigms,Closed Won,2025-09-20,7510.91,Melanie,30
+OPP1488,CUST001,Revolutionize Holistic Bandwidth,Proposal,2025-09-07,5207.31,Sabrina,10
+OPP1489,CUST005,Aggregate Proactive Portals,Proposal,2025-11-04,8807.26,Corey,50
+OPP1490,CUST019,Implement Next-Generation Infrastructures,Negotiation,2025-09-14,3820.52,Cindy,30
+OPP1491,CUST008,Transform Clicks-And-Mortar E-Commerce,Lead,2025-11-08,18596.88,Chelsea,30
+OPP1492,CUST020,Expedite Synergistic Niches,Lead,2025-09-28,507.83,Savannah,50
+OPP1493,CUST013,Enhance Distributed Initiatives,Closed Won,2025-10-28,19407.24,Michael,90
+OPP1494,CUST019,Empower Wireless Methodologies,Closed Lost,2025-09-05,14857.78,Tonya,70
+OPP1495,CUST002,Engineer B2B Convergence,Proposal,2025-11-25,19486.09,Caroline,50
+OPP1496,CUST009,Engineer One-To-One Infrastructures,Closed Won,2025-09-05,17685.22,Abigail,50
+OPP1497,CUST010,Drive Enterprise Supply-Chains,Proposal,2025-09-06,5677.73,Scott,70
+OPP1498,CUST003,Cultivate Visionary Methodologies,Negotiation,2025-11-19,8829.24,Jacob,70
+OPP1499,CUST001,Revolutionize Real-Time Interfaces,Lead,2025-10-29,3235.63,Lori,50
+OPP1500,CUST019,Target Leading-Edge Supply-Chains,Lead,2025-09-12,987.99,Mark,70
+OPP1501,CUST001,Whiteboard Global Roi,Proposal,2025-11-10,13545.73,Traci,10
+OPP1502,CUST011,Streamline Compelling Partnerships,Closed Won,2025-11-04,2282.82,Michael,10
+OPP1503,CUST012,Incentivize Innovative Eyeballs,Qualified,2025-11-07,5670.77,Christopher,10
+OPP1504,CUST001,Extend Cross-Platform E-Business,Lead,2025-09-06,3961.86,Denise,30
+OPP1505,CUST017,Engineer Global Interfaces,Proposal,2025-09-05,8438.92,Brian,90
+OPP1506,CUST001,Whiteboard Bricks-And-Clicks Models,Qualified,2025-10-23,14334.61,Nathaniel,50
+OPP1507,CUST019,Orchestrate Dot-Com Interfaces,Closed Won,2025-08-30,16598.09,Tony,30
+OPP1508,CUST009,Transform Robust Metrics,Proposal,2025-11-05,7344.16,Thomas,10
+OPP1509,CUST018,Incubate Cross-Media Web-Readiness,Closed Won,2025-08-30,16525.71,Jennifer,70
+OPP1510,CUST010,Productize Killer Models,Lead,2025-09-23,11529.9,Jerry,70
+OPP1511,CUST007,Revolutionize User-Centric E-Markets,Negotiation,2025-09-30,17703.56,Laura,10
+OPP1512,CUST020,Optimize Distributed Deliverables,Qualified,2025-10-11,19571.52,Kevin,10
+OPP1513,CUST014,Maximize Visionary Eyeballs,Negotiation,2025-10-04,7870.76,Scott,90
+OPP1514,CUST010,Strategize 24/365 Interfaces,Lead,2025-09-15,6928.87,Renee,30
+OPP1515,CUST012,Drive End-To-End Networks,Closed Lost,2025-11-02,2738.43,Michelle,10
+OPP1516,CUST002,Cultivate Bricks-And-Clicks Architectures,Closed Won,2025-09-10,7628.85,Tanya,70
+OPP1517,CUST014,Cultivate Cross-Media Functionalities,Proposal,2025-10-17,5808.03,Sarah,30
+OPP1518,CUST011,Generate Real-Time Models,Proposal,2025-10-04,2236.55,Ashley,10
+OPP1519,CUST019,Deliver World-Class Functionalities,Negotiation,2025-11-08,13762.99,Brad,70
+OPP1520,CUST012,Disintermediate Rich Interfaces,Lead,2025-11-09,16615.79,Kristen,70
+OPP1521,CUST005,Innovate Synergistic Roi,Lead,2025-10-09,14512.18,Daniel,70
+OPP1522,CUST020,Synthesize Virtual E-Commerce,Closed Lost,2025-10-12,5869.13,Andrea,30
+OPP1523,CUST004,Matrix Holistic Applications,Proposal,2025-10-14,14590.16,Heather,30
+OPP1524,CUST004,Syndicate Granular Initiatives,Closed Won,2025-11-04,18447.1,Jessica,90
+OPP1525,CUST011,Visualize Cutting-Edge Functionalities,Closed Lost,2025-11-15,16144.86,Shawn,10
+OPP1526,CUST010,Architect Frictionless Bandwidth,Proposal,2025-09-15,18884.1,Olivia,10
+OPP1527,CUST020,Implement Transparent Applications,Closed Won,2025-11-25,2053.64,Lawrence,90
+OPP1528,CUST013,Syndicate Clicks-And-Mortar E-Commerce,Lead,2025-09-07,12173.81,Joseph,10
+OPP1529,CUST014,Innovate Turn-Key E-Services,Closed Won,2025-11-13,10613.42,Jeremiah,90
+OPP1530,CUST017,Enhance Out-Of-The-Box Solutions,Negotiation,2025-10-02,3889.81,Robert,10
+OPP1531,CUST009,Incentivize Open-Source Functionalities,Closed Lost,2025-11-22,8984.67,Paul,70
+OPP1532,CUST012,Iterate Innovative Action-Items,Closed Lost,2025-11-19,3275.03,Daisy,70
+OPP1533,CUST012,Repurpose One-To-One Eyeballs,Qualified,2025-10-19,7060.31,Christine,30
+OPP1534,CUST015,Enhance Next-Generation Info-Mediaries,Proposal,2025-09-25,8069.9,Reginald,10
+OPP1535,CUST015,Architect Back-End Methodologies,Negotiation,2025-10-16,11094.15,Kenneth,10
+OPP1536,CUST008,Transform Proactive Technologies,Qualified,2025-10-11,3994.54,Raymond,10
+OPP1537,CUST003,Grow Cross-Media E-Services,Qualified,2025-10-27,8244.62,Austin,70
+OPP1538,CUST008,Aggregate Extensible Solutions,Qualified,2025-09-20,12648.91,Troy,50
+OPP1539,CUST015,Re-Contextualize Cross-Media E-Services,Lead,2025-10-31,7435.93,Andre,70
+OPP1540,CUST008,Transform Intuitive Mindshare,Closed Lost,2025-10-18,17288.78,Steven,50
+OPP1541,CUST019,Deliver Cutting-Edge Interfaces,Negotiation,2025-11-09,9085.93,Bryan,90
+OPP1542,CUST016,Visualize Seamless Functionalities,Negotiation,2025-09-14,6673.65,Beth,70
+OPP1543,CUST018,Streamline Cross-Platform Paradigms,Closed Won,2025-10-17,6210.54,Robert,30
+OPP1544,CUST019,Integrate Granular Infrastructures,Negotiation,2025-09-07,2167.99,Alan,50
+OPP1545,CUST003,Embrace Bleeding-Edge Action-Items,Qualified,2025-11-18,16582.42,Heather,50
+OPP1546,CUST018,Incentivize Plug-And-Play Eyeballs,Closed Lost,2025-10-08,19471.44,Kathleen,10
+OPP1547,CUST018,Brand Best-Of-Breed Convergence,Closed Won,2025-10-25,17773.82,James,50
+OPP1548,CUST002,Synthesize Back-End Systems,Closed Won,2025-11-06,16451.36,Suzanne,70
+OPP1549,CUST015,Revolutionize One-To-One Architectures,Proposal,2025-08-29,10717.06,Chad,50
+OPP1550,CUST018,Iterate Sticky E-Business,Proposal,2025-09-25,17634.08,Maxwell,30
+OPP1551,CUST007,Implement Dynamic Deliverables,Proposal,2025-10-16,13554.48,Patricia,30
+OPP1552,CUST005,Seize Granular Paradigms,Negotiation,2025-09-05,3057.88,Jennifer,90
+OPP1553,CUST004,Re-Intermediate E-Business Mindshare,Negotiation,2025-11-03,7339.71,Bonnie,50
+OPP1554,CUST001,Morph Interactive Synergies,Proposal,2025-08-31,8501.82,Kylie,50
+OPP1555,CUST011,Orchestrate Frictionless E-Business,Qualified,2025-11-17,11997.81,Sylvia,90
+OPP1556,CUST009,E-Enable Best-Of-Breed E-Tailers,Negotiation,2025-11-11,1405.06,Brittany,50
+OPP1557,CUST013,Empower E-Business Schemas,Closed Won,2025-10-09,12015.46,Nathan,50
+OPP1558,CUST006,Orchestrate Impactful Relationships,Proposal,2025-08-28,8540.18,Laura,30
+OPP1559,CUST002,Engage Scalable E-Markets,Lead,2025-09-18,6167.73,Randy,10
+OPP1560,CUST004,Whiteboard Ubiquitous Web Services,Closed Won,2025-10-18,3212.77,Kelly,90
+OPP1561,CUST015,Optimize Sticky Convergence,Proposal,2025-10-12,4432.81,Jessica,50
+OPP1562,CUST019,Integrate 24/7 E-Business,Qualified,2025-09-30,7833.8,Belinda,30
+OPP1563,CUST007,Scale Virtual Deliverables,Qualified,2025-10-14,10123.02,Karen,50
+OPP1564,CUST006,Mesh Out-Of-The-Box Functionalities,Lead,2025-09-03,16122.51,Mark,70
+OPP1565,CUST017,Redefine Efficient Metrics,Lead,2025-10-07,15813.62,Jesse,90
+OPP1566,CUST009,Synergize Collaborative Relationships,Closed Won,2025-09-30,7091.22,Kayla,30
+OPP1567,CUST019,Incubate Cutting-Edge Relationships,Negotiation,2025-11-26,15091.63,Jacob,50
+OPP1568,CUST007,Architect Intuitive Channels,Closed Won,2025-09-18,12883.5,John,30
+OPP1569,CUST010,Leverage Sticky Partnerships,Proposal,2025-10-22,13887.01,Craig,90
+OPP1570,CUST007,Embrace Seamless E-Business,Lead,2025-11-17,19355.43,Brenda,70
+OPP1571,CUST008,Deliver World-Class Niches,Qualified,2025-09-13,3186.51,Taylor,90
+OPP1572,CUST001,Monetize Transparent Action-Items,Qualified,2025-11-20,516.71,Annette,10
+OPP1573,CUST006,Repurpose Dot-Com Interfaces,Closed Lost,2025-09-23,19436.52,Patricia,30
+OPP1574,CUST020,Innovate Collaborative Schemas,Lead,2025-10-08,16249.43,Kendra,30
+OPP1575,CUST014,Disintermediate Visionary Info-Mediaries,Qualified,2025-08-30,11212.59,Cynthia,90
+OPP1576,CUST002,Evolve Rich Communities,Closed Lost,2025-09-02,19826.93,Kristin,10
+OPP1577,CUST009,Enhance User-Centric E-Tailers,Closed Won,2025-09-10,7849.81,Rachel,70
+OPP1578,CUST015,Iterate Synergistic Schemas,Negotiation,2025-10-13,2833.3,Anne,70
+OPP1579,CUST006,Generate Web-Enabled Infrastructures,Closed Lost,2025-09-07,4455.61,Tyler,50
+OPP1580,CUST006,Reinvent Strategic Metrics,Lead,2025-11-06,13752.94,Jacob,10
+OPP1581,CUST011,Harness Cross-Media Web Services,Closed Won,2025-10-19,4647.21,John,30
+OPP1582,CUST014,Engineer Strategic Channels,Proposal,2025-10-23,17507.34,Kristen,90
+OPP1583,CUST004,Synergize Virtual Communities,Closed Won,2025-10-04,12330.55,Brent,30
+OPP1584,CUST003,Maximize Next-Generation Users,Negotiation,2025-09-16,18926.71,April,70
+OPP1585,CUST006,Syndicate Sticky Metrics,Closed Won,2025-10-17,5695.19,Patrick,50
+OPP1586,CUST003,Monetize Impactful Solutions,Closed Won,2025-09-10,2760.07,Martin,90
+OPP1587,CUST007,Strategize 24/7 Synergies,Qualified,2025-11-06,9504.78,Monique,10
+OPP1588,CUST005,Incentivize Scalable Supply-Chains,Proposal,2025-09-24,14557.41,Rachel,30
+OPP1589,CUST013,Scale Innovative Schemas,Proposal,2025-09-21,18057.95,Adrian,90
+OPP1590,CUST020,E-Enable 24/365 Vortals,Closed Won,2025-11-03,3604.34,Derek,30
+OPP1591,CUST001,Transition Out-Of-The-Box Schemas,Negotiation,2025-11-26,13388.95,John,30
+OPP1592,CUST004,Scale Sticky Schemas,Proposal,2025-09-09,19724.24,Jesse,30
+OPP1593,CUST003,Target Front-End Markets,Lead,2025-09-27,16668.61,Sheila,70
+OPP1594,CUST014,Visualize Scalable Roi,Closed Lost,2025-11-08,5036.32,Debra,70
+OPP1595,CUST015,Drive Innovative E-Markets,Negotiation,2025-09-04,7961.06,Frederick,90
+OPP1596,CUST012,Re-Intermediate Out-Of-The-Box E-Business,Closed Lost,2025-09-10,7159.5,Jerry,50
+OPP1597,CUST010,Unleash Customized Functionalities,Closed Won,2025-09-10,15855.87,Vanessa,70
+OPP1598,CUST002,Cultivate Dynamic Synergies,Proposal,2025-09-25,2825.46,Peter,30
+OPP1599,CUST007,Innovate Vertical Paradigms,Negotiation,2025-09-02,10152.02,Jennifer,30
+OPP1600,CUST013,Productize Killer Initiatives,Proposal,2025-08-29,18140.07,Shannon,70
+OPP1601,CUST014,Evolve Dot-Com Info-Mediaries,Closed Won,2025-09-28,11187.45,Brenda,70
+OPP1602,CUST011,Enable Cross-Platform Partnerships,Lead,2025-09-04,6470.56,Jonathan,10
+OPP1603,CUST016,Exploit Plug-And-Play E-Commerce,Lead,2025-11-13,1680.24,Chelsea,50
+OPP1604,CUST011,Generate Open-Source Supply-Chains,Qualified,2025-10-20,3117.87,Jack,30
+OPP1605,CUST019,Implement B2B Deliverables,Closed Won,2025-11-23,11236.23,Jesse,30
+OPP1606,CUST019,Redefine Virtual Info-Mediaries,Lead,2025-11-09,3627.38,Scott,50
+OPP1607,CUST015,Incubate Synergistic Niches,Closed Won,2025-10-27,11955.64,Alexis,30
+OPP1608,CUST012,Expedite Web-Enabled Mindshare,Closed Lost,2025-10-22,6233.09,Jeffrey,90
+OPP1609,CUST012,Synthesize Best-Of-Breed Initiatives,Closed Won,2025-10-19,14351.5,Stephen,50
+OPP1610,CUST020,Empower Turn-Key Roi,Qualified,2025-10-19,2226.97,Jaime,10
+OPP1611,CUST009,Synergize Bleeding-Edge Eyeballs,Negotiation,2025-09-09,17396.38,Gordon,30
+OPP1612,CUST013,Whiteboard Innovative Channels,Closed Lost,2025-11-04,6401.0,Amy,30
+OPP1613,CUST002,Matrix Bleeding-Edge E-Services,Closed Won,2025-10-11,17905.41,Teresa,10
+OPP1614,CUST014,Deploy Proactive Synergies,Closed Won,2025-09-06,6409.56,Erin,10
+OPP1615,CUST003,Benchmark B2B Methodologies,Lead,2025-09-08,9930.24,Kimberly,10
+OPP1616,CUST008,Leverage Innovative E-Business,Closed Won,2025-10-28,12672.62,Kimberly,30
+OPP1617,CUST014,Re-Intermediate Customized Markets,Closed Won,2025-10-20,19684.33,Clifford,10
+OPP1618,CUST007,Incubate Compelling E-Markets,Proposal,2025-10-24,14093.16,Deanna,30
+OPP1619,CUST007,Embrace Bleeding-Edge Users,Qualified,2025-09-19,10464.87,Jennifer,50
+OPP1620,CUST002,Transform Holistic E-Business,Negotiation,2025-10-29,8127.0,Jennifer,90
+OPP1621,CUST004,Deliver E-Business Infrastructures,Lead,2025-10-01,11856.15,David,10
+OPP1622,CUST003,Benchmark Strategic Initiatives,Negotiation,2025-10-20,972.45,Joseph,30
+OPP1623,CUST003,Syndicate Visionary Web Services,Negotiation,2025-11-14,17423.86,Misty,30
+OPP1624,CUST002,Monetize 24/365 Applications,Closed Won,2025-09-01,11004.52,Jennifer,30
+OPP1625,CUST012,Utilize Synergistic Initiatives,Closed Lost,2025-11-10,13517.73,Stacy,30
+OPP1626,CUST020,Drive Bleeding-Edge Niches,Qualified,2025-10-08,17117.27,Gabrielle,10
+OPP1627,CUST014,Drive Impactful Methodologies,Closed Won,2025-11-15,16347.78,Isaiah,90
+OPP1628,CUST016,Matrix Web-Enabled Users,Negotiation,2025-10-02,11108.59,Maria,50
+OPP1629,CUST002,Streamline Transparent Mindshare,Closed Won,2025-09-14,7941.96,Colton,10
+OPP1630,CUST017,Benchmark Distributed E-Markets,Qualified,2025-10-17,6519.46,Michael,50
+OPP1631,CUST001,Whiteboard Best-Of-Breed Models,Proposal,2025-09-16,2126.81,Anthony,50
+OPP1632,CUST015,Target B2C Methodologies,Closed Won,2025-09-14,6057.44,Beverly,90
+OPP1633,CUST020,Seize End-To-End E-Commerce,Closed Lost,2025-11-22,19508.06,Wayne,70
+OPP1634,CUST014,Synergize Clicks-And-Mortar Bandwidth,Lead,2025-11-07,4906.02,Robert,70
+OPP1635,CUST014,Expedite 24/7 Roi,Negotiation,2025-11-16,18038.32,Katherine,30
+OPP1636,CUST012,Empower Compelling Applications,Negotiation,2025-09-23,1910.59,Matthew,30
+OPP1637,CUST014,Unleash Web-Enabled E-Tailers,Closed Won,2025-09-18,5317.06,Kristi,50
+OPP1638,CUST015,Aggregate Leading-Edge E-Tailers,Closed Lost,2025-08-31,2512.58,Rebecca,30
+OPP1639,CUST004,Optimize Visionary Markets,Negotiation,2025-08-30,3137.84,Jay,30
+OPP1640,CUST007,Re-Contextualize Seamless Infrastructures,Proposal,2025-11-08,9551.05,Evan,70
+OPP1641,CUST004,Architect B2B Applications,Closed Won,2025-10-20,11525.63,Michael,30
+OPP1642,CUST019,Matrix Killer Channels,Proposal,2025-10-05,5600.16,Rebecca,90
+OPP1643,CUST008,Expedite Wireless Paradigms,Lead,2025-10-10,8907.85,Nichole,10
+OPP1644,CUST007,E-Enable Compelling Metrics,Closed Won,2025-09-12,1832.15,John,70
+OPP1645,CUST007,Drive Vertical Channels,Closed Lost,2025-10-01,17659.18,Vanessa,30
+OPP1646,CUST019,E-Enable Synergistic Eyeballs,Lead,2025-11-12,2037.4,James,50
+OPP1647,CUST002,Extend Value-Added Portals,Closed Won,2025-11-14,15292.35,Steven,70
+OPP1648,CUST004,Grow Integrated Deliverables,Closed Lost,2025-10-29,16645.41,Gail,90
+OPP1649,CUST004,Facilitate Visionary E-Business,Closed Won,2025-09-16,2433.18,Jacob,10
+OPP1650,CUST004,Cultivate Bricks-And-Clicks Deliverables,Closed Lost,2025-10-02,527.21,Jonathan,10
+OPP1651,CUST019,Repurpose Out-Of-The-Box Roi,Proposal,2025-09-01,11786.58,Thomas,90
+OPP1652,CUST001,Iterate Open-Source E-Services,Proposal,2025-09-21,10800.59,John,10
+OPP1653,CUST008,Redefine Efficient Models,Closed Won,2025-09-13,6711.3,Jason,50
+OPP1654,CUST010,Empower Interactive Portals,Lead,2025-11-21,8745.24,Kelsey,10
+OPP1655,CUST004,Orchestrate Bricks-And-Clicks Architectures,Closed Won,2025-10-02,5465.89,Felicia,90
+OPP1656,CUST005,Seize Dot-Com Niches,Closed Won,2025-09-12,7784.05,Paul,50
+OPP1657,CUST007,Repurpose Clicks-And-Mortar Infrastructures,Closed Won,2025-10-31,5166.14,Greg,90
+OPP1658,CUST002,Drive Virtual Action-Items,Proposal,2025-11-15,6169.46,Alicia,70
+OPP1659,CUST002,Matrix Bricks-And-Clicks Channels,Closed Lost,2025-09-18,7501.11,Robert,30
+OPP1660,CUST020,Morph Virtual Solutions,Closed Won,2025-11-23,17403.79,David,50
+OPP1661,CUST009,Cultivate Ubiquitous Mindshare,Lead,2025-10-19,950.51,Victor,10
+OPP1662,CUST012,Drive Viral Technologies,Lead,2025-10-22,6462.88,Melissa,10
+OPP1663,CUST002,Iterate Cross-Media Interfaces,Negotiation,2025-09-06,15736.89,David,30
+OPP1664,CUST014,Empower Holistic Relationships,Closed Won,2025-10-28,10517.17,Corey,70
+OPP1665,CUST013,Revolutionize Intuitive Models,Proposal,2025-10-23,13492.73,Jason,10
+OPP1666,CUST008,Matrix Holistic Convergence,Closed Lost,2025-09-26,13367.22,Katelyn,10
+OPP1667,CUST011,Synergize Mission-Critical Experiences,Closed Won,2025-10-21,12329.15,Dennis,70
+OPP1668,CUST010,Strategize Mission-Critical Applications,Negotiation,2025-10-01,14838.02,Natasha,70
+OPP1669,CUST006,Evolve Magnetic Synergies,Lead,2025-11-15,5866.7,Joseph,70
+OPP1670,CUST008,Aggregate Cutting-Edge Niches,Proposal,2025-10-18,17741.02,Judith,70
+OPP1671,CUST017,Implement Front-End E-Tailers,Closed Lost,2025-11-20,16573.97,Daniel,70
+OPP1672,CUST006,Re-Intermediate Sticky E-Markets,Proposal,2025-09-27,17544.77,Meagan,10
+OPP1673,CUST009,Utilize Integrated Paradigms,Closed Won,2025-08-30,12532.0,Thomas,70
+OPP1674,CUST003,Transform 24/365 Niches,Closed Won,2025-10-05,2234.62,Joseph,70
+OPP1675,CUST019,Matrix Clicks-And-Mortar Schemas,Proposal,2025-10-01,7427.23,Nicholas,50
+OPP1676,CUST008,Optimize World-Class Initiatives,Negotiation,2025-11-26,1819.5,Robert,90
+OPP1677,CUST013,Re-Contextualize Best-Of-Breed E-Services,Negotiation,2025-11-16,1881.11,Charles,90
+OPP1678,CUST002,Leverage 24/365 E-Markets,Lead,2025-11-07,15810.98,Derrick,30
+OPP1679,CUST003,Innovate Bricks-And-Clicks Mindshare,Closed Lost,2025-11-04,5931.68,Justin,50
+OPP1680,CUST014,Re-Intermediate Innovative Users,Proposal,2025-08-28,15304.24,Andre,70
+OPP1681,CUST009,Productize E-Business Functionalities,Closed Lost,2025-10-12,5829.79,Teresa,70
+OPP1682,CUST001,E-Enable Customized Markets,Proposal,2025-11-08,4930.69,Kristen,70
+OPP1683,CUST019,Transition Interactive Content,Qualified,2025-11-09,708.57,Samantha,90
+OPP1684,CUST011,Enhance Seamless E-Commerce,Closed Won,2025-09-23,5755.91,Alexis,90
+OPP1685,CUST019,Incubate Transparent Channels,Qualified,2025-09-25,3997.6,Cristian,10
+OPP1686,CUST005,Implement Rich E-Tailers,Negotiation,2025-10-11,18197.77,Kathy,90
+OPP1687,CUST019,Reinvent Out-Of-The-Box E-Services,Negotiation,2025-10-03,3235.1,Tyler,90
+OPP1688,CUST019,Redefine Front-End Initiatives,Qualified,2025-10-28,11478.86,Ashley,70
+OPP1689,CUST008,Enhance Bricks-And-Clicks Niches,Proposal,2025-11-17,5512.84,Anna,70
+OPP1690,CUST003,Repurpose Web-Enabled Schemas,Lead,2025-10-17,12987.38,Wendy,10
+OPP1691,CUST018,Enhance Intuitive Platforms,Closed Won,2025-11-14,12053.12,Karen,90
+OPP1692,CUST011,Repurpose Integrated Portals,Lead,2025-10-26,15717.57,Catherine,70
+OPP1693,CUST016,Brand Transparent Convergence,Negotiation,2025-08-30,17180.61,Matthew,30
+OPP1694,CUST004,Deliver Ubiquitous Technologies,Negotiation,2025-11-07,19677.59,Elizabeth,70
+OPP1695,CUST007,Synthesize Extensible Metrics,Proposal,2025-11-10,14006.19,Lisa,10
+OPP1696,CUST018,Monetize Revolutionary Networks,Negotiation,2025-11-21,15649.05,Kaitlyn,10
+OPP1697,CUST004,Implement 24/7 Web Services,Closed Lost,2025-11-05,547.02,Benjamin,10
+OPP1698,CUST016,Transform Sticky Partnerships,Lead,2025-09-19,7112.31,Sarah,90
+OPP1699,CUST010,Unleash B2B E-Services,Closed Won,2025-10-16,9174.72,Jacob,10
+OPP1700,CUST005,Re-Contextualize Cross-Platform Deliverables,Closed Won,2025-09-03,7934.15,Angela,10
+OPP1701,CUST004,Engineer Visionary Web Services,Negotiation,2025-09-20,6578.63,Lisa,90
+OPP1702,CUST012,Redefine Granular Convergence,Closed Lost,2025-09-03,14923.63,Katherine,50
+OPP1703,CUST018,Leverage Rich Infrastructures,Proposal,2025-10-10,13069.4,Adam,30
+OPP1704,CUST011,Productize Web-Enabled Schemas,Proposal,2025-09-15,11887.2,Kimberly,30
+OPP1705,CUST019,Orchestrate Bricks-And-Clicks Networks,Closed Lost,2025-10-18,13655.01,Scott,70
+OPP1706,CUST009,Aggregate Back-End Supply-Chains,Negotiation,2025-10-28,3491.85,Justin,10
+OPP1707,CUST012,Transition Transparent Convergence,Negotiation,2025-11-11,9235.36,Susan,10
+OPP1708,CUST001,Whiteboard Dynamic E-Tailers,Lead,2025-10-26,13226.83,Jeffrey,50
+OPP1709,CUST020,Reinvent Front-End Technologies,Qualified,2025-10-12,3264.81,John,70
+OPP1710,CUST006,Brand E-Business Web-Readiness,Negotiation,2025-11-22,12689.02,Beverly,70
+OPP1711,CUST010,Scale Sticky Deliverables,Closed Won,2025-11-13,17378.78,Maurice,30
+OPP1712,CUST008,Harness Best-Of-Breed E-Tailers,Closed Lost,2025-08-28,19784.66,Breanna,70
+OPP1713,CUST007,Monetize Bleeding-Edge Systems,Negotiation,2025-11-04,8637.95,Kelsey,90
+OPP1714,CUST011,Expedite Dot-Com Convergence,Negotiation,2025-11-03,9453.24,Jay,50
+OPP1715,CUST007,Redefine Interactive Interfaces,Closed Lost,2025-11-17,11055.5,Rebekah,90
+OPP1716,CUST013,Redefine Turn-Key Action-Items,Negotiation,2025-11-14,4061.34,Scott,10
+OPP1717,CUST004,Cultivate Extensible Partnerships,Closed Lost,2025-11-09,12188.28,Emily,10
+OPP1718,CUST019,Whiteboard Rich Interfaces,Closed Lost,2025-10-12,3578.74,David,30
+OPP1719,CUST001,Innovate Granular Functionalities,Lead,2025-08-28,8650.82,Patrick,30
+OPP1720,CUST017,Synthesize World-Class Portals,Closed Lost,2025-09-13,12161.51,Elizabeth,50
+OPP1721,CUST020,Maximize Leading-Edge Convergence,Proposal,2025-11-07,2979.54,Daniel,50
+OPP1722,CUST003,Innovate Ubiquitous Relationships,Lead,2025-10-29,9864.11,Christopher,30
+OPP1723,CUST001,Enable Next-Generation Info-Mediaries,Negotiation,2025-09-07,6023.52,Leah,90
+OPP1724,CUST018,Mesh User-Centric Content,Proposal,2025-11-19,592.2,Benjamin,50
+OPP1725,CUST016,Expedite Ubiquitous Applications,Closed Won,2025-10-08,15661.39,Julie,50
+OPP1726,CUST002,Integrate B2B Methodologies,Closed Lost,2025-11-18,16398.17,John,50
+OPP1727,CUST013,Drive Wireless Web-Readiness,Qualified,2025-09-06,3823.09,Ashley,10
+OPP1728,CUST011,Drive Global Mindshare,Closed Won,2025-09-25,16903.24,Peggy,50
+OPP1729,CUST006,Facilitate Value-Added Functionalities,Closed Won,2025-08-28,2374.22,Corey,30
+OPP1730,CUST009,Drive Front-End Web-Readiness,Proposal,2025-09-22,11223.14,Pamela,10
+OPP1731,CUST007,Syndicate Leading-Edge Methodologies,Negotiation,2025-11-26,1231.56,Kyle,10
+OPP1732,CUST001,Synergize Best-Of-Breed Communities,Lead,2025-11-26,13749.09,Renee,30
+OPP1733,CUST010,Seize Mission-Critical Action-Items,Closed Won,2025-09-23,18081.84,Nicholas,50
+OPP1734,CUST018,Transform Cross-Platform Networks,Closed Won,2025-09-21,3403.16,Kenneth,50
+OPP1735,CUST013,Re-Contextualize Ubiquitous Applications,Proposal,2025-09-03,10447.49,Mary,30
+OPP1736,CUST009,Synergize One-To-One Schemas,Negotiation,2025-10-09,1738.61,Margaret,50
+OPP1737,CUST007,Incentivize Efficient Partnerships,Negotiation,2025-10-07,7169.42,Anna,70
+OPP1738,CUST018,Unleash Interactive Solutions,Lead,2025-10-17,10227.74,Tracey,70
+OPP1739,CUST020,Cultivate Impactful Channels,Lead,2025-10-21,4881.71,Zachary,70
+OPP1740,CUST019,Transform Robust Supply-Chains,Proposal,2025-09-23,15016.63,John,10
+OPP1741,CUST003,Grow Seamless Functionalities,Proposal,2025-09-29,7694.23,Victoria,70
+OPP1742,CUST012,Engineer Scalable Mindshare,Closed Won,2025-11-12,11292.63,Jonathan,30
+OPP1743,CUST004,Empower Ubiquitous Initiatives,Proposal,2025-10-10,5337.5,Matthew,90
+OPP1744,CUST006,Engineer Magnetic Deliverables,Negotiation,2025-10-03,15754.5,Mark,30
+OPP1745,CUST006,Grow Killer Communities,Closed Won,2025-11-20,6766.8,Melvin,30
+OPP1746,CUST004,Syndicate Holistic Schemas,Closed Lost,2025-11-22,7954.74,Michelle,10
+OPP1747,CUST002,Brand Vertical Metrics,Negotiation,2025-09-25,872.41,Danny,50
+OPP1748,CUST003,Productize Extensible Paradigms,Qualified,2025-09-07,14682.7,Kyle,10
+OPP1749,CUST017,Utilize Dynamic E-Services,Closed Lost,2025-10-23,17372.92,Meghan,50
+OPP1750,CUST009,Grow Leading-Edge Niches,Lead,2025-10-04,16801.96,Nancy,90
+OPP1751,CUST008,Matrix Dynamic Roi,Closed Won,2025-10-01,6123.35,Nancy,10
+OPP1752,CUST018,Innovate Collaborative Synergies,Closed Lost,2025-10-31,6828.34,Lauren,10
+OPP1753,CUST007,Syndicate Wireless Eyeballs,Closed Won,2025-10-25,14092.97,Paul,10
+OPP1754,CUST020,Morph Frictionless Experiences,Negotiation,2025-09-02,9777.52,Ashley,50
+OPP1755,CUST006,Synergize One-To-One Communities,Proposal,2025-11-13,16725.51,Michaela,90
+OPP1756,CUST017,Integrate Out-Of-The-Box Initiatives,Negotiation,2025-09-19,16482.53,Patricia,70
+OPP1757,CUST005,Syndicate Web-Enabled Action-Items,Closed Won,2025-10-03,17207.35,Craig,70
+OPP1758,CUST020,Monetize Best-Of-Breed Applications,Negotiation,2025-10-27,8354.49,Cody,10
+OPP1759,CUST016,Re-Contextualize Next-Generation Web-Readiness,Closed Lost,2025-10-16,9549.46,Bryan,30
+OPP1760,CUST003,Implement Back-End Architectures,Negotiation,2025-09-30,2317.66,Robert,30
+OPP1761,CUST011,Repurpose Mission-Critical Action-Items,Proposal,2025-09-01,19134.84,Patricia,70
+OPP1762,CUST017,Redefine Plug-And-Play Architectures,Qualified,2025-09-01,19089.81,Christine,50
+OPP1763,CUST003,Orchestrate Bleeding-Edge Convergence,Closed Lost,2025-10-05,6201.94,Christopher,90
+OPP1764,CUST009,Aggregate Vertical Metrics,Lead,2025-10-28,2558.12,Julie,90
+OPP1765,CUST013,Leverage Next-Generation E-Markets,Qualified,2025-10-02,1298.75,Sydney,70
+OPP1766,CUST020,Synergize Dynamic Niches,Closed Won,2025-10-26,15689.32,Cassandra,90
+OPP1767,CUST003,Enable Real-Time Partnerships,Closed Lost,2025-09-20,17889.58,Arthur,10
+OPP1768,CUST004,Revolutionize Seamless Interfaces,Proposal,2025-10-25,3706.79,Hector,10
+OPP1769,CUST002,Cultivate Strategic Networks,Closed Lost,2025-10-16,13567.86,Corey,30
+OPP1770,CUST019,Innovate Clicks-And-Mortar Schemas,Negotiation,2025-09-07,12215.66,Mark,10
+OPP1771,CUST017,E-Enable Transparent Content,Negotiation,2025-11-22,4225.22,Curtis,30
+OPP1772,CUST016,Maximize Revolutionary Info-Mediaries,Qualified,2025-11-06,2495.03,Melissa,90
+OPP1773,CUST019,Morph Enterprise Applications,Negotiation,2025-10-11,19577.13,Scott,50
+OPP1774,CUST020,Empower Cross-Platform Info-Mediaries,Lead,2025-09-22,9393.56,Matthew,50
+OPP1775,CUST018,Drive Sticky Web Services,Lead,2025-10-24,17718.27,Samuel,70
+OPP1776,CUST005,Deliver Front-End Channels,Closed Lost,2025-10-20,17687.01,Kerry,30
+OPP1777,CUST020,Scale Strategic Schemas,Proposal,2025-11-21,10560.73,Matthew,30
+OPP1778,CUST013,Drive Efficient Architectures,Lead,2025-08-30,3203.92,Andrea,10
+OPP1779,CUST008,Matrix Dynamic Portals,Lead,2025-11-07,19318.77,Debra,30
+OPP1780,CUST002,Deliver Real-Time Content,Lead,2025-10-22,17799.45,Wendy,30
+OPP1781,CUST015,Revolutionize Extensible Technologies,Negotiation,2025-10-11,3925.31,William,70
+OPP1782,CUST007,Matrix Value-Added Architectures,Qualified,2025-09-22,3530.41,Jacob,90
+OPP1783,CUST005,Innovate B2B Solutions,Closed Won,2025-11-10,11164.21,Anita,50
+OPP1784,CUST001,Aggregate End-To-End Action-Items,Closed Lost,2025-11-09,1554.11,Mark,10
+OPP1785,CUST014,Redefine Transparent Methodologies,Proposal,2025-08-29,2045.01,Tracey,10
+OPP1786,CUST006,Revolutionize Impactful Convergence,Lead,2025-10-20,8985.34,Melissa,50
+OPP1787,CUST009,Streamline Bleeding-Edge Systems,Proposal,2025-09-24,2823.29,Julia,10
+OPP1788,CUST002,Transition Holistic Deliverables,Closed Won,2025-09-18,1640.66,Jody,90
+OPP1789,CUST013,Matrix Vertical Action-Items,Negotiation,2025-10-30,13026.81,Miranda,10
+OPP1790,CUST008,Generate Virtual Interfaces,Lead,2025-09-01,18679.45,Tracy,90
+OPP1791,CUST013,Innovate Back-End Initiatives,Closed Won,2025-11-04,15968.64,Steven,70
+OPP1792,CUST013,Repurpose 24/365 E-Commerce,Closed Won,2025-11-06,13808.85,Jessica,90
+OPP1793,CUST015,Implement Killer Technologies,Closed Lost,2025-11-12,14846.66,Melinda,50
+OPP1794,CUST011,Facilitate Granular E-Services,Lead,2025-10-29,12928.51,James,70
+OPP1795,CUST008,Reinvent Sticky Vortals,Negotiation,2025-11-24,17701.3,Danielle,10
+OPP1796,CUST012,Innovate Wireless Models,Qualified,2025-10-07,11370.19,Mary,30
+OPP1797,CUST013,Integrate Leading-Edge Markets,Closed Lost,2025-11-22,5449.31,Linda,10
+OPP1798,CUST004,Benchmark User-Centric Markets,Closed Won,2025-10-15,11486.81,Carolyn,10
+OPP1799,CUST011,Visualize Seamless Paradigms,Closed Lost,2025-10-15,18670.82,Daniel,90
+OPP1800,CUST017,Facilitate Integrated E-Tailers,Negotiation,2025-11-26,1500.36,William,50
+OPP1801,CUST011,Productize Best-Of-Breed Experiences,Closed Lost,2025-09-09,1004.63,Olivia,50
+OPP1802,CUST012,Iterate Back-End E-Services,Proposal,2025-09-13,7594.26,Lauren,30
+OPP1803,CUST020,Implement Impactful Technologies,Proposal,2025-11-26,1949.8,Denise,10
+OPP1804,CUST004,Re-Intermediate Impactful E-Markets,Qualified,2025-11-08,5012.48,Kristine,10
+OPP1805,CUST001,Cultivate Holistic Convergence,Qualified,2025-11-05,13866.59,Curtis,10
+OPP1806,CUST011,Harness Viral Portals,Closed Lost,2025-09-16,12893.85,Charles,30
+OPP1807,CUST002,Matrix Mission-Critical Vortals,Closed Won,2025-09-16,6238.37,Katherine,30
+OPP1808,CUST006,Embrace Cutting-Edge Action-Items,Negotiation,2025-09-04,12599.46,Micheal,10
+OPP1809,CUST016,Cultivate Value-Added Convergence,Qualified,2025-10-16,14499.1,Kimberly,30
+OPP1810,CUST003,Embrace Impactful Interfaces,Proposal,2025-10-05,1251.01,Jasmine,70
+OPP1811,CUST019,Re-Intermediate Web-Enabled E-Business,Proposal,2025-11-16,3697.46,David,70
+OPP1812,CUST018,Incentivize Enterprise Action-Items,Closed Lost,2025-10-21,10550.36,Roger,30
+OPP1813,CUST017,Envisioneer Leading-Edge Methodologies,Closed Lost,2025-10-02,2885.75,Pamela,30
+OPP1814,CUST014,Seize Distributed Experiences,Negotiation,2025-09-05,7490.03,Austin,10
+OPP1815,CUST013,E-Enable Value-Added E-Services,Closed Won,2025-10-12,2098.06,Samantha,50
+OPP1816,CUST015,Brand Impactful Users,Negotiation,2025-11-04,1693.4,Christian,50
+OPP1817,CUST015,Visualize One-To-One Users,Closed Won,2025-09-02,19602.6,Craig,50
+OPP1818,CUST004,E-Enable Frictionless E-Commerce,Lead,2025-11-13,7759.76,Joyce,90
+OPP1819,CUST020,Engineer Real-Time Solutions,Lead,2025-10-10,3360.12,Carly,50
+OPP1820,CUST015,Drive Interactive Architectures,Qualified,2025-10-14,2197.44,Jennifer,30
+OPP1821,CUST002,Envisioneer Leading-Edge Web-Readiness,Closed Lost,2025-09-28,12512.55,Sarah,30
+OPP1822,CUST010,Architect Cross-Platform Methodologies,Proposal,2025-10-25,10052.76,Jasmine,90
+OPP1823,CUST001,Whiteboard Cross-Media Metrics,Closed Won,2025-11-14,7580.47,Benjamin,50
+OPP1824,CUST004,Envisioneer Web-Enabled Systems,Proposal,2025-11-03,1356.71,Jennifer,10
+OPP1825,CUST012,Aggregate Synergistic Networks,Negotiation,2025-10-15,8905.69,James,90
+OPP1826,CUST005,Deploy Transparent Experiences,Negotiation,2025-10-09,18320.63,William,10
+OPP1827,CUST003,E-Enable Extensible Technologies,Closed Lost,2025-11-17,9134.5,Brett,90
+OPP1828,CUST010,Maximize Viral Vortals,Lead,2025-11-25,15291.67,Ryan,30
+OPP1829,CUST011,Streamline Strategic E-Business,Closed Won,2025-09-13,5772.27,Christopher,90
+OPP1830,CUST002,Mesh Interactive Bandwidth,Negotiation,2025-08-31,13339.54,Julie,90
+OPP1831,CUST016,Grow Customized Initiatives,Lead,2025-10-13,17688.23,Robert,10
+OPP1832,CUST008,Generate Back-End Platforms,Lead,2025-09-19,13158.12,Amanda,50
+OPP1833,CUST010,Transform Cutting-Edge E-Markets,Qualified,2025-10-12,16638.43,Grant,70
+OPP1834,CUST009,Redefine Leading-Edge Action-Items,Closed Won,2025-11-19,6570.05,Laura,30
+OPP1835,CUST009,Expedite Synergistic E-Commerce,Closed Lost,2025-10-22,10580.43,Tracy,30
+OPP1836,CUST015,Morph Value-Added Roi,Closed Won,2025-09-29,18710.5,Derek,30
+OPP1837,CUST007,Facilitate Visionary Technologies,Lead,2025-10-08,8727.26,Bradley,10
+OPP1838,CUST016,Syndicate B2C Supply-Chains,Lead,2025-11-17,13301.84,Megan,10
+OPP1839,CUST006,Empower Frictionless Relationships,Closed Lost,2025-11-17,18627.66,Wesley,30
+OPP1840,CUST016,Mesh Mission-Critical Convergence,Closed Won,2025-11-02,16031.53,Mark,10
+OPP1841,CUST012,Brand Seamless E-Commerce,Negotiation,2025-11-11,5265.7,Anna,90
+OPP1842,CUST014,Innovate Seamless E-Commerce,Qualified,2025-09-30,11579.91,Gabrielle,90
+OPP1843,CUST020,Aggregate Sticky Info-Mediaries,Lead,2025-09-19,2605.66,Nicole,90
+OPP1844,CUST013,Cultivate Front-End E-Services,Closed Won,2025-09-10,17201.6,Deborah,70
+OPP1845,CUST010,Matrix Leading-Edge Deliverables,Proposal,2025-10-03,2043.39,Noah,30
+OPP1846,CUST009,Synergize Extensible E-Services,Qualified,2025-10-06,4089.63,Debra,50
+OPP1847,CUST011,Scale Plug-And-Play Convergence,Closed Lost,2025-09-14,16583.14,Katherine,50
+OPP1848,CUST009,Deliver Seamless Niches,Lead,2025-09-13,13594.34,Philip,90
+OPP1849,CUST002,Incentivize Killer E-Markets,Proposal,2025-08-29,1891.17,Gina,30
+OPP1850,CUST009,Integrate Global Convergence,Negotiation,2025-11-19,18858.46,Lisa,30
+OPP1851,CUST006,Deliver Frictionless Mindshare,Lead,2025-10-20,9643.64,Lori,50
+OPP1852,CUST004,Brand Bleeding-Edge Infrastructures,Proposal,2025-09-26,15471.72,Melissa,90
+OPP1853,CUST012,Integrate B2C Bandwidth,Proposal,2025-11-14,1852.26,Paul,70
+OPP1854,CUST002,Productize Bleeding-Edge Architectures,Proposal,2025-09-25,17794.95,Michelle,50
+OPP1855,CUST003,Incubate Leading-Edge Initiatives,Lead,2025-09-25,9508.27,Ann,50
+OPP1856,CUST018,Syndicate 24/365 Models,Closed Won,2025-11-22,4401.07,Angela,50
+OPP1857,CUST020,Leverage Frictionless Convergence,Qualified,2025-10-09,3841.23,Jeffrey,10
+OPP1858,CUST007,Repurpose Open-Source Technologies,Closed Won,2025-10-17,14911.45,Taylor,70
+OPP1859,CUST010,Harness Bleeding-Edge Content,Lead,2025-09-23,4339.58,Patrick,70
+OPP1860,CUST014,Drive Compelling Users,Lead,2025-09-19,16136.62,Alexander,90
+OPP1861,CUST015,Streamline Clicks-And-Mortar Networks,Lead,2025-11-21,5366.71,Jennifer,10
+OPP1862,CUST011,Innovate Leading-Edge Platforms,Closed Lost,2025-10-01,13049.31,Michael,70
+OPP1863,CUST015,Streamline E-Business Platforms,Closed Lost,2025-08-30,13527.13,Tina,30
+OPP1864,CUST003,Engineer Leading-Edge Info-Mediaries,Closed Won,2025-09-13,12944.24,Matthew,30
+OPP1865,CUST019,Iterate Next-Generation Content,Proposal,2025-09-20,13905.79,Julie,30
+OPP1866,CUST007,Re-Intermediate Out-Of-The-Box Deliverables,Lead,2025-10-28,18153.49,Lisa,70
+OPP1867,CUST006,Architect Interactive Infrastructures,Qualified,2025-11-05,2771.92,Jessica,90
+OPP1868,CUST010,Synthesize Integrated Technologies,Negotiation,2025-09-23,4623.67,Phillip,30
+OPP1869,CUST005,Visualize Synergistic Functionalities,Qualified,2025-10-18,3359.84,Colleen,10
+OPP1870,CUST013,Orchestrate Plug-And-Play Applications,Closed Lost,2025-09-22,4149.83,Sheri,30
+OPP1871,CUST009,Seize Bleeding-Edge E-Markets,Qualified,2025-09-03,1611.86,Kayla,90
+OPP1872,CUST019,Facilitate 24/365 Systems,Closed Won,2025-09-03,10859.52,Joshua,30
+OPP1873,CUST015,E-Enable B2B Systems,Lead,2025-11-23,8322.2,Lisa,10
+OPP1874,CUST016,Brand Cutting-Edge Experiences,Proposal,2025-10-30,19078.33,Mary,10
+OPP1875,CUST012,Embrace Ubiquitous Experiences,Lead,2025-09-21,10762.86,Sandra,70
+OPP1876,CUST003,Re-Contextualize Bricks-And-Clicks Partnerships,Negotiation,2025-10-10,3593.21,Joseph,50
+OPP1877,CUST013,Cultivate Plug-And-Play Mindshare,Negotiation,2025-11-08,8693.44,Teresa,10
+OPP1878,CUST017,Leverage Transparent Systems,Lead,2025-10-20,15415.74,Mark,70
+OPP1879,CUST004,Optimize Transparent Applications,Negotiation,2025-10-12,18961.47,Steven,10
+OPP1880,CUST004,Deliver Intuitive Web Services,Closed Won,2025-08-31,1753.97,Alice,90
+OPP1881,CUST012,Implement Next-Generation Functionalities,Closed Lost,2025-09-02,5178.7,Denise,50
+OPP1882,CUST012,Syndicate Cutting-Edge E-Business,Negotiation,2025-11-21,6008.9,Corey,30
+OPP1883,CUST018,Empower Front-End Infrastructures,Closed Lost,2025-10-23,15830.06,Alan,10
+OPP1884,CUST004,Streamline Distributed Convergence,Proposal,2025-10-16,18006.77,Jeffrey,70
+OPP1885,CUST001,Extend Bleeding-Edge Technologies,Lead,2025-11-07,15832.66,Sara,70
+OPP1886,CUST016,Iterate Frictionless E-Commerce,Proposal,2025-11-12,12625.07,Jennifer,10
+OPP1887,CUST008,Syndicate Dot-Com E-Tailers,Lead,2025-09-25,17088.72,Brandon,10
+OPP1888,CUST009,Orchestrate Best-Of-Breed Bandwidth,Proposal,2025-09-12,3190.67,Jonathan,30
+OPP1889,CUST002,Expedite Web-Enabled Info-Mediaries,Qualified,2025-10-10,4650.84,Dana,90
+OPP1890,CUST006,Aggregate Bricks-And-Clicks Web Services,Closed Lost,2025-09-29,812.19,Madison,90
+OPP1891,CUST019,Streamline B2B Interfaces,Closed Lost,2025-11-19,4868.0,Peggy,90
+OPP1892,CUST019,Empower Dynamic Communities,Negotiation,2025-09-04,19403.34,Julie,70
+OPP1893,CUST010,Morph Open-Source Bandwidth,Qualified,2025-09-02,1566.93,Zachary,50
+OPP1894,CUST010,Mesh End-To-End Mindshare,Proposal,2025-10-15,12310.12,Jason,10
+OPP1895,CUST005,Innovate Killer Applications,Closed Won,2025-11-02,3896.0,Christine,30
+OPP1896,CUST002,Mesh Open-Source Architectures,Qualified,2025-09-21,3256.14,Paul,50
+OPP1897,CUST020,Deliver Granular Communities,Negotiation,2025-10-25,17666.67,Amy,90
+OPP1898,CUST011,Transform Turn-Key Applications,Proposal,2025-11-20,7255.74,Courtney,50
+OPP1899,CUST006,Architect Distributed Partnerships,Proposal,2025-09-16,18044.1,Kelly,50
+OPP1900,CUST004,Exploit Seamless Bandwidth,Proposal,2025-09-12,7911.31,Shawn,30
+OPP1901,CUST011,Deliver Bricks-And-Clicks Methodologies,Negotiation,2025-11-21,16284.55,Stephanie,50
+OPP1902,CUST019,Re-Intermediate B2B E-Business,Closed Won,2025-11-03,13655.53,Steven,30
+OPP1903,CUST002,Integrate Bricks-And-Clicks E-Business,Closed Won,2025-11-10,8434.37,William,70
+OPP1904,CUST013,Matrix Next-Generation Web Services,Closed Lost,2025-09-23,1573.77,Robert,50
+OPP1905,CUST017,Exploit User-Centric Supply-Chains,Closed Lost,2025-11-21,7171.8,Jay,90
+OPP1906,CUST003,Orchestrate Rich Platforms,Lead,2025-11-01,14871.11,Joshua,70
+OPP1907,CUST004,Drive Visionary Vortals,Closed Lost,2025-11-09,18186.59,Christopher,10
+OPP1908,CUST015,Incubate Robust Metrics,Proposal,2025-09-28,8960.03,Ellen,50
+OPP1909,CUST006,Architect Frictionless Vortals,Lead,2025-10-30,6468.39,Julie,10
+OPP1910,CUST012,E-Enable Strategic Interfaces,Proposal,2025-10-02,17106.69,Sandra,70
+OPP1911,CUST004,Implement Killer Niches,Closed Won,2025-10-22,9769.84,John,70
+OPP1912,CUST007,Exploit Visionary Channels,Qualified,2025-09-02,14303.15,Donna,30
+OPP1913,CUST020,Empower Killer Channels,Lead,2025-09-07,7978.49,Karen,70
+OPP1914,CUST002,Harness Magnetic Initiatives,Qualified,2025-09-09,9666.05,Aaron,70
+OPP1915,CUST006,Disintermediate Clicks-And-Mortar Synergies,Lead,2025-08-30,13319.93,Joseph,50
+OPP1916,CUST019,Redefine World-Class Mindshare,Lead,2025-11-21,9536.95,Jonathan,90
+OPP1917,CUST014,Grow Virtual Models,Closed Lost,2025-09-27,8142.59,Devin,70
+OPP1918,CUST018,Visualize Plug-And-Play Communities,Lead,2025-11-20,13281.59,Teresa,10
+OPP1919,CUST017,Deploy Seamless Web-Readiness,Lead,2025-09-24,3660.76,Mary,90
+OPP1920,CUST007,Syndicate Global E-Commerce,Qualified,2025-11-11,15074.21,Timothy,10
+OPP1921,CUST019,Productize Wireless Web-Readiness,Qualified,2025-11-17,1102.45,Tyler,30
+OPP1922,CUST004,Disintermediate Web-Enabled Schemas,Lead,2025-09-19,17428.75,Willie,10
+OPP1923,CUST012,Whiteboard Wireless Web-Readiness,Proposal,2025-10-29,16743.61,Jeffrey,10
+OPP1924,CUST008,Iterate Compelling Synergies,Lead,2025-10-01,2367.2,Michael,90
+OPP1925,CUST018,Evolve Leading-Edge Models,Negotiation,2025-09-17,3959.6,Brittany,10
+OPP1926,CUST020,E-Enable Front-End Networks,Negotiation,2025-10-26,14375.63,Nicole,70
+OPP1927,CUST002,Re-Intermediate Bleeding-Edge Eyeballs,Qualified,2025-09-24,8326.91,Andrew,70
+OPP1928,CUST019,Engage Interactive Applications,Negotiation,2025-09-12,6473.18,Jennifer,70
+OPP1929,CUST011,Utilize Scalable Portals,Proposal,2025-08-29,19815.7,Sean,90
+OPP1930,CUST003,Benchmark One-To-One Functionalities,Proposal,2025-11-06,11725.56,Jason,50
+OPP1931,CUST008,Morph 24/7 Methodologies,Qualified,2025-11-17,5322.13,Becky,30
+OPP1932,CUST007,Deliver Global Partnerships,Closed Won,2025-10-13,7507.16,Justin,90
+OPP1933,CUST012,Syndicate Turn-Key Portals,Closed Lost,2025-11-22,3714.41,Sarah,90
+OPP1934,CUST016,Benchmark Distributed Portals,Lead,2025-11-16,12962.99,Megan,10
+OPP1935,CUST013,Seize Leading-Edge Solutions,Qualified,2025-09-01,18109.71,Joann,30
+OPP1936,CUST009,Iterate Viral Communities,Qualified,2025-11-11,14213.75,Casey,10
+OPP1937,CUST010,Utilize User-Centric Applications,Qualified,2025-09-28,5519.65,Elizabeth,90
+OPP1938,CUST013,Aggregate Sticky Paradigms,Closed Won,2025-10-06,17379.92,Karen,50
+OPP1939,CUST014,Generate Killer Info-Mediaries,Negotiation,2025-10-03,9580.73,Nicole,10
+OPP1940,CUST017,Aggregate Best-Of-Breed Schemas,Qualified,2025-10-17,3402.7,Jeffrey,90
+OPP1941,CUST002,Cultivate Granular Applications,Closed Lost,2025-09-22,11296.74,Amanda,50
+OPP1942,CUST016,Optimize Leading-Edge E-Commerce,Negotiation,2025-11-06,13911.67,Angela,90
+OPP1943,CUST007,Syndicate Cutting-Edge Action-Items,Negotiation,2025-09-04,9014.99,Stephen,70
+OPP1944,CUST001,Syndicate Integrated E-Tailers,Closed Won,2025-08-30,11676.73,Keith,30
+OPP1945,CUST006,Expedite Dot-Com Supply-Chains,Closed Lost,2025-10-26,19177.74,Melinda,50
+OPP1946,CUST016,Re-Intermediate Intuitive Communities,Proposal,2025-11-24,1936.42,Jesse,10
+OPP1947,CUST005,Disintermediate 24/7 Platforms,Qualified,2025-10-05,2333.33,Larry,30
+OPP1948,CUST013,Re-Intermediate Next-Generation Solutions,Proposal,2025-11-24,16502.77,Antonio,50
+OPP1949,CUST012,Deliver Distributed E-Markets,Qualified,2025-10-21,3573.57,April,30
+OPP1950,CUST002,Embrace Plug-And-Play Users,Negotiation,2025-10-23,2900.67,Sherri,90
+OPP1951,CUST015,Evolve Frictionless Niches,Closed Lost,2025-10-06,2408.79,Richard,10
+OPP1952,CUST020,Revolutionize Impactful Applications,Qualified,2025-09-06,7085.92,Timothy,30
+OPP1953,CUST017,Facilitate Cross-Media Initiatives,Closed Won,2025-11-14,2750.84,Tammie,50
+OPP1954,CUST010,Utilize Cross-Media Channels,Negotiation,2025-10-08,1345.01,Chad,50
+OPP1955,CUST013,Engage Web-Enabled Systems,Closed Won,2025-10-12,7904.55,Rebecca,50
+OPP1956,CUST007,Engage Distributed Users,Proposal,2025-10-31,13427.12,Christopher,50
+OPP1957,CUST011,Redefine B2B Roi,Closed Lost,2025-10-01,1671.29,Daniel,30
+OPP1958,CUST004,Monetize Wireless Channels,Negotiation,2025-10-07,18446.05,Michael,50
+OPP1959,CUST016,Drive Collaborative Synergies,Negotiation,2025-10-26,4843.52,Julia,70
+OPP1960,CUST012,Unleash Open-Source Architectures,Closed Won,2025-11-20,11140.46,Raymond,10
+OPP1961,CUST008,Innovate Transparent Applications,Lead,2025-11-18,17457.63,David,70
+OPP1962,CUST008,Drive Vertical Platforms,Proposal,2025-10-22,12584.38,Jason,90
+OPP1963,CUST006,Empower B2C Synergies,Closed Won,2025-11-19,15785.89,Paul,90
+OPP1964,CUST003,Synergize E-Business Metrics,Proposal,2025-11-22,5940.83,Paul,10
+OPP1965,CUST002,Extend Clicks-And-Mortar Methodologies,Closed Won,2025-09-11,9531.02,Jessica,10
+OPP1966,CUST020,Reinvent Interactive Infrastructures,Negotiation,2025-11-18,4704.78,Darren,50
+OPP1967,CUST014,Drive Magnetic Web-Readiness,Qualified,2025-11-17,12433.81,Joseph,10
+OPP1968,CUST018,Cultivate Plug-And-Play E-Markets,Lead,2025-09-13,3445.8,Ryan,30
+OPP1969,CUST003,Facilitate Global Content,Closed Won,2025-09-07,15187.8,Brett,30
+OPP1970,CUST014,Harness B2B Vortals,Qualified,2025-11-14,2383.22,Kimberly,90
+OPP1971,CUST012,Target Visionary Info-Mediaries,Closed Won,2025-11-06,14102.87,Dawn,10
+OPP1972,CUST018,Target Impactful Users,Qualified,2025-09-28,4910.07,Sherry,90
+OPP1973,CUST007,Repurpose Sticky Systems,Negotiation,2025-11-19,12821.53,Todd,70
+OPP1974,CUST016,Facilitate Extensible Methodologies,Lead,2025-10-29,10879.66,Kimberly,70
+OPP1975,CUST008,Maximize Holistic Info-Mediaries,Closed Lost,2025-09-25,18610.48,Stacey,90
+OPP1976,CUST011,Disintermediate Magnetic Content,Lead,2025-10-04,9088.52,Maria,70
+OPP1977,CUST013,Maximize Distributed Applications,Negotiation,2025-10-21,4331.8,Michael,70
+OPP1978,CUST011,Generate Innovative E-Business,Proposal,2025-09-29,14584.96,Kristen,10
+OPP1979,CUST009,Extend Efficient Channels,Qualified,2025-10-30,16973.22,Evelyn,10
+OPP1980,CUST009,Enhance Vertical Models,Closed Won,2025-10-30,16937.92,Lisa,30
+OPP1981,CUST012,Orchestrate Viral Portals,Qualified,2025-10-10,19511.42,Ashlee,50
+OPP1982,CUST004,E-Enable Plug-And-Play E-Services,Qualified,2025-11-01,17709.41,Margaret,70
+OPP1983,CUST011,Seize Front-End E-Services,Negotiation,2025-09-14,18113.27,Aaron,70
+OPP1984,CUST019,E-Enable Impactful Models,Closed Lost,2025-09-27,18579.68,Haley,90
+OPP1985,CUST015,Morph Integrated Infrastructures,Closed Lost,2025-09-03,12379.37,Christopher,10
+OPP1986,CUST002,Streamline Out-Of-The-Box E-Tailers,Proposal,2025-10-27,604.45,William,90
+OPP1987,CUST008,Empower One-To-One Users,Qualified,2025-09-23,11266.92,Nicole,50
+OPP1988,CUST006,Integrate Best-Of-Breed Systems,Qualified,2025-09-29,7415.3,Tony,30
+OPP1989,CUST020,Transform Transparent Content,Qualified,2025-11-23,10204.57,Cathy,70
+OPP1990,CUST003,Expedite Out-Of-The-Box Convergence,Negotiation,2025-09-22,10198.17,Kyle,90
+OPP1991,CUST001,Productize Killer E-Business,Qualified,2025-11-13,5762.66,Kristina,50
+OPP1992,CUST011,Visualize 24/7 Channels,Lead,2025-11-02,14325.67,Ronald,50
+OPP1993,CUST015,Deliver Wireless Networks,Lead,2025-09-18,4139.49,Kristen,30
+OPP1994,CUST014,Synthesize 24/7 Metrics,Closed Lost,2025-11-08,513.35,Tiffany,70
+OPP1995,CUST006,Transform Distributed Convergence,Lead,2025-10-01,5453.86,Robert,10
+OPP1996,CUST017,Seize Cross-Media Communities,Closed Lost,2025-11-26,5244.4,Jeffrey,10
+OPP1997,CUST015,Orchestrate Collaborative Supply-Chains,Closed Lost,2025-09-13,18882.21,David,50
+OPP1998,CUST015,Exploit Magnetic Platforms,Qualified,2025-09-22,17610.07,Amanda,10
+OPP1999,CUST017,Aggregate 24/7 Initiatives,Lead,2025-09-28,18140.93,Melinda,30
+OPP2000,CUST018,Engineer 24/365 Mindshare,Negotiation,2025-11-13,2012.98,Thomas,10
