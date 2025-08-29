@@ -323,7 +323,7 @@
       },
       "BronzeObjectID": {
         "type": "string",
-        "defaultValue": "c6c5024f-de55-45ca-a79a-decbe16235e3"
+        "defaultValue": "511201b2-97be-49e8-aa73-c42a9337fbb5"
       },
       "BronzeWorkspaceID": {
         "type": "string",
@@ -331,7 +331,7 @@
       },
       "SilverObjectID": {
         "type": "string",
-        "defaultValue": "c6c5024f-de55-45ca-a79a-decbe16235e3"
+        "defaultValue": "511201b2-97be-49e8-aa73-c42a9337fbb5"
       },
       "SilverWorkspaceID": {
         "type": "string",
