@@ -49,10 +49,10 @@
               "typeProperties": {
                 "schema": "ELT",
                 "table": "IngestDefinition",
-                "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+                "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
               }
             }
           },
@@ -293,10 +293,10 @@
               "type": "AzureSqlTable",
               "schema": [],
               "typeProperties": {
-                "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+                "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
               }
             }
           },
@@ -321,10 +321,10 @@
               "typeProperties": {
                 "schema": "ELT",
                 "table": "L1TransformDefinition",
-                "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+                "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
               }
             }
           },
@@ -617,10 +617,10 @@
                     }
                   }
                 ],
-                "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+                "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
               }
             }
           ]
@@ -666,10 +666,10 @@
             }
           ],
           "scriptBlockExecutionTimeout": "02:00:00",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+          "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
         }
       },
       {
@@ -715,10 +715,10 @@
             }
           ],
           "scriptBlockExecutionTimeout": "02:00:00",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+          "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
         }
       }
     ],

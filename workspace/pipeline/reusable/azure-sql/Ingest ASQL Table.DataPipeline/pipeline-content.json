@@ -21,7 +21,7 @@
         },
         "typeProperties": {
           "storedProcedureName": "[ELT].[InsertIngestInstance]",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+          "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c",
           "storedProcedureParameters": {
             "ADFPipelineRunID": {
               "value": {
@@ -68,7 +68,7 @@
           }
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
         }
       },
       {
@@ -239,7 +239,7 @@
         },
         "typeProperties": {
           "storedProcedureName": "[ELT].[UpdateIngestInstance]",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+          "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c",
           "storedProcedureParameters": {
             "ADFIngestPipelineRunID": {
               "value": {
@@ -290,7 +290,7 @@
           }
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
         }
       },
       {
@@ -313,7 +313,7 @@
         },
         "typeProperties": {
           "storedProcedureName": "[ELT].[UpdateIngestInstance]",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+          "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c",
           "storedProcedureParameters": {
             "ADFIngestPipelineRunID": {
               "value": {
@@ -336,7 +336,7 @@
           }
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
         }
       },
       {
@@ -385,10 +385,10 @@
             "type": "AzureSqlTable",
             "schema": [],
             "typeProperties": {
-              "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+              "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
             },
             "externalReferences": {
-              "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+              "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
             }
           }
         }
@@ -424,7 +424,7 @@
               },
               "typeProperties": {
                 "storedProcedureName": "[ELT].[InsertTransformInstance_L1]",
-                "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+                "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c",
                 "storedProcedureParameters": {
                   "CustomParameters": {
                     "value": {
@@ -583,7 +583,7 @@
                 }
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
               }
             }
           ]
@@ -629,10 +629,10 @@
             "type": "AzureSqlTable",
             "schema": [],
             "typeProperties": {
-              "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+              "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c"
             },
             "externalReferences": {
-              "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+              "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
             }
           }
         }
@@ -668,7 +668,7 @@
               },
               "typeProperties": {
                 "storedProcedureName": "[ELT].[InsertTransformInstance_L2]",
-                "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+                "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c",
                 "storedProcedureParameters": {
                   "CustomParameters": {
                     "value": {
@@ -883,7 +883,7 @@
                 }
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
               }
             }
           ]
@@ -909,7 +909,7 @@
         },
         "typeProperties": {
           "storedProcedureName": "[ELT].[UpdateIngestDefinition]",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+          "database": "controlDB-2edeea27-04e7-42ee-8d97-a6e2ee49499c",
           "storedProcedureParameters": {
             "IngestID": {
               "value": {
@@ -939,7 +939,7 @@
           }
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8c623efe-9037-4c20-85ae-f9d028a42948"
         }
       }
     ],
@@ -1057,7 +1057,7 @@
       },
       "BronzeWorkspaceID": {
         "type": "string",
-        "defaultValue": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec"
+        "defaultValue": "4385015c-08f1-4b2d-a43b-ceb37791dba3"
       }
     },
     "variables": {
