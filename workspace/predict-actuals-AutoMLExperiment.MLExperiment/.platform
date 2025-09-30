@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLExperiment",
+    "displayName": "predict-actuals-AutoMLExperiment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e404087d-4d9b-aaa6-4e8f-fca2ce132410"
+  }
+}

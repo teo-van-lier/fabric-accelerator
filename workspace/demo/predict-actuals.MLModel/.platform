@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLModel",
+    "displayName": "predict-actuals"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ce1a4cbe-d8b2-a2a9-427a-410693806ff2"
+  }
+}

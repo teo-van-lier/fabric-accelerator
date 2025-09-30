@@ -1,0 +1,92 @@
+table fact_actuals
+	lineageTag: 86579815-f817-452d-84d9-e10b778b038a
+	sourceLineageTag: [dbo].[fact_actuals]
+
+	measure 'Total Actual Amount' = ```
+			
+			CALCULATE (
+			    SUM ( fact_actuals[Amount] ),
+			    USERELATIONSHIP ( dim_date[Date], fact_actuals[Date] )
+			)
+			
+			```
+		lineageTag: c0ad4eae-4418-4411-b8d5-535b8182e4c8
+
+		changedProperty = Name
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column TransactionID
+		dataType: int64
+		formatString: 0
+		sourceProviderType: int
+		lineageTag: 4db1e72e-d460-428b-b1ba-8fee32fa548a
+		sourceLineageTag: TransactionID
+		summarizeBy: count
+		sourceColumn: TransactionID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Date
+		dataType: dateTime
+		formatString: General Date
+		sourceProviderType: datetime2
+		lineageTag: b43c51d5-34b4-4859-9b8e-59c9c7dbf305
+		sourceLineageTag: Date
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+	column AccountCode
+		dataType: int64
+		formatString: 0
+		sourceProviderType: int
+		lineageTag: f1e8464f-5f44-4963-9004-f22fd7fa1e9e
+		sourceLineageTag: AccountCode
+		summarizeBy: count
+		sourceColumn: AccountCode
+
+		annotation SummarizationSetBy = Automatic
+
+	column Amount
+		dataType: double
+		sourceProviderType: float
+		lineageTag: 44588419-816d-4f99-99dc-87de819d5247
+		sourceLineageTag: Amount
+		summarizeBy: sum
+		sourceColumn: Amount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Currency
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: f2e5939b-aa95-46f6-8635-36f9440ce92c
+		sourceLineageTag: Currency
+		summarizeBy: none
+		sourceColumn: Currency
+
+		annotation SummarizationSetBy = Automatic
+
+	column CustomerID
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: f76e0864-d463-4342-9cd5-ef73cf9252d4
+		sourceLineageTag: CustomerID
+		summarizeBy: none
+		sourceColumn: CustomerID
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_actuals = entity
+		mode: directLake
+		source
+			entityName: fact_actuals
+			schemaName: dbo
+			expressionSource: DatabaseQuery
+
+	annotation PBI_ResultType = Table
+

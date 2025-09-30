@@ -1,0 +1,23 @@
+table dim_customers
+	lineageTag: ba5d189e-e71e-450b-97e9-3ac7649a92d2
+	sourceLineageTag: [dbo].[dim_customers]
+
+	column CustomerID
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: fa2aedf0-19f9-4d32-85da-3dd888303942
+		sourceLineageTag: CustomerID
+		summarizeBy: none
+		sourceColumn: CustomerID
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_customers = entity
+		mode: directLake
+		source
+			entityName: dim_customers
+			schemaName: dbo
+			expressionSource: DatabaseQuery
+
+	annotation PBI_ResultType = Table
+

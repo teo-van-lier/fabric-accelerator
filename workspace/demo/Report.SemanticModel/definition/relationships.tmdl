@@ -1,0 +1,18 @@
+relationship 9422f6b8-584e-9fce-e4b3-8eccbc0462f0
+	fromColumn: fact_actuals.CustomerID
+	toColumn: dim_customers.CustomerID
+
+relationship 5a194d19-ca21-55fc-5b0a-867b561b8df7
+	fromColumn: fact_crm.CustomerID
+	toColumn: dim_customers.CustomerID
+
+relationship dc95f1a0-f956-9c12-efc4-28f520f37e9c
+	isActive: false
+	fromColumn: fact_actuals.Date
+	toColumn: dim_date.Date
+
+relationship 58ca03d3-dcd0-63af-de0a-8e9650a42d63
+	isActive: false
+	fromColumn: fact_crm.ExpectedCloseDate
+	toColumn: dim_date.Date
+

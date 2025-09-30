@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "name": "crm",
+    "path": "/Tables/bronze",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/dbo/crm",
+        "itemId": "1355e38b-d635-45a7-9d21-8f02933bc81f",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "artifactType": "Lakehouse"
+      }
+    }
+  },
+  {
+    "name": "accounting_actuals",
+    "path": "/Tables/bronze",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/dbo/accounting_actuals",
+        "itemId": "1355e38b-d635-45a7-9d21-8f02933bc81f",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "artifactType": "Lakehouse"
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+table fact_crm
+	lineageTag: 98a9b0cc-ae70-4c2a-b3f9-f0ddf68915b0
+	sourceLineageTag: [dbo].[fact_crm]
+
+	measure 'Total Expected Revenue' = ```
+			
+			CALCULATE (
+			    SUM ( fact_crm[ExpectedRevenue] ),
+			    USERELATIONSHIP ( dim_date[Date], fact_crm[ExpectedCloseDate] )
+			)
+			
+			```
+		lineageTag: 417984f0-3c9e-4ddc-9e11-cc0df563c7a2
+
+		changedProperty = Name
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column OpportunityID
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: 5dd3698e-1eb4-4b97-8f04-3559c1c3c1d8
+		sourceLineageTag: OpportunityID
+		summarizeBy: none
+		sourceColumn: OpportunityID
+
+		annotation SummarizationSetBy = Automatic
+
+	column CustomerID
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: d77e7a0e-f89a-44b3-b44e-82eca2864263
+		sourceLineageTag: CustomerID
+		summarizeBy: none
+		sourceColumn: CustomerID
+
+		annotation SummarizationSetBy = Automatic
+
+	column OpportunityName
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: 038ae227-4617-4b93-9f0d-5d0febe7c9b0
+		sourceLineageTag: OpportunityName
+		summarizeBy: none
+		sourceColumn: OpportunityName
+
+		annotation SummarizationSetBy = Automatic
+
+	column Stage
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: 99fa40d0-711e-4f61-a889-9bda1b7e2553
+		sourceLineageTag: Stage
+		summarizeBy: none
+		sourceColumn: Stage
+
+		annotation SummarizationSetBy = Automatic
+
+	column ExpectedCloseDate
+		dataType: dateTime
+		formatString: General Date
+		sourceProviderType: datetime2
+		lineageTag: 523101ca-1f49-48c6-8ced-47cac903b79c
+		sourceLineageTag: ExpectedCloseDate
+		summarizeBy: none
+		sourceColumn: ExpectedCloseDate
+
+		annotation SummarizationSetBy = Automatic
+
+	column ExpectedRevenue
+		dataType: double
+		sourceProviderType: float
+		lineageTag: 1e7b24e9-50f1-49ef-b856-7d3497fe7066
+		sourceLineageTag: ExpectedRevenue
+		summarizeBy: sum
+		sourceColumn: ExpectedRevenue
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Owner
+		dataType: string
+		sourceProviderType: varchar(8000)
+		lineageTag: 2e96c0a6-878d-4d7a-84fd-cb43cabfd584
+		sourceLineageTag: Owner
+		summarizeBy: none
+		sourceColumn: Owner
+
+		annotation SummarizationSetBy = Automatic
+
+	column probability
+		dataType: int64
+		formatString: 0
+		sourceProviderType: int
+		lineageTag: 0159a7a8-b010-47a4-9c3b-889203c3d100
+		sourceLineageTag: probability
+		summarizeBy: sum
+		sourceColumn: probability
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_crm = entity
+		mode: directLake
+		source
+			entityName: fact_crm
+			schemaName: dbo
+			expressionSource: DatabaseQuery
+
+	annotation PBI_ResultType = Table
+

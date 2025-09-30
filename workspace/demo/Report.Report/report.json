@@ -1,0 +1,108 @@
+{
+  "config": "{\"version\":\"5.66\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU10\",\"type\":2,\"version\":{\"visual\":\"1.8.95\",\"report\":\"2.0.95\",\"page\":\"1.3.95\"}}},\"activeSectionIndex\":1,\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":0,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"useEnhancedTooltips\":true,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY24SU10",
+            "path": "BaseThemes/CY24SU10.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{}",
+      "displayName": "Page 1",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "1c12da431b075b802b03",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"277a8c8b7497037ee461\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":0,\"width\":626.5942591155934,\"height\":390.256012412723,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"clusteredColumnChart\",\"projections\":{\"Category\":[{\"queryRef\":\"dim_customers.CustomerID\",\"active\":true}],\"Y\":[{\"queryRef\":\"Sum(fact_crm.ExpectedRevenue)\"},{\"queryRef\":\"Sum(fact_actuals.Amount)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"dim_customers\",\"Type\":0},{\"Name\":\"f\",\"Entity\":\"fact_crm\",\"Type\":0},{\"Name\":\"f1\",\"Entity\":\"fact_actuals\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"CustomerID\"},\"Name\":\"dim_customers.CustomerID\",\"NativeReferenceName\":\"Customer\"},{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0},\"Name\":\"Sum(fact_crm.ExpectedRevenue)\",\"NativeReferenceName\":\"Expected revenue\"},{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f1\"}},\"Property\":\"Amount\"}},\"Function\":0},\"Name\":\"Sum(fact_actuals.Amount)\",\"NativeReferenceName\":\"Actual amount\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0}}}]},\"columnProperties\":{\"Sum(fact_crm.ExpectedRevenue)\":{\"displayName\":\"Expected revenue\"},\"Sum(fact_actuals.Amount)\":{\"displayName\":\"Actual amount\"},\"dim_customers.CustomerID\":{\"displayName\":\"Customer\"}},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"title\":[{\"properties\":{\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Expected revenue vs. actual amount per customer'\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 390.26,
+          "width": 626.59,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"661df3431c565b071e50\",\"layouts\":[{\"id\":0,\"position\":{\"x\":655.8027197231293,\"y\":400.25120829553566,\"z\":3000,\"width\":624.4934285879605,\"height\":319.86248781334564,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"scatterChart\",\"projections\":{\"X\":[{\"queryRef\":\"Sum(fact_crm.probability)\",\"active\":true}],\"Y\":[{\"queryRef\":\"Sum(fact_crm.ExpectedRevenue)\"}],\"Size\":[{\"queryRef\":\"Sum(fact_actuals.Amount)\"}],\"Series\":[{\"queryRef\":\"fact_crm.Stage\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_crm\",\"Type\":0},{\"Name\":\"f1\",\"Entity\":\"fact_actuals\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"probability\"}},\"Function\":0},\"Name\":\"Sum(fact_crm.probability)\",\"NativeReferenceName\":\"Sum of probability\"},{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0},\"Name\":\"Sum(fact_crm.ExpectedRevenue)\",\"NativeReferenceName\":\"Sum of ExpectedRevenue\"},{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f1\"}},\"Property\":\"Amount\"}},\"Function\":0},\"Name\":\"Sum(fact_actuals.Amount)\",\"NativeReferenceName\":\"Sum of Amount\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Stage\"},\"Name\":\"fact_crm.Stage\",\"NativeReferenceName\":\"Stage\"}]},\"drillFilterOtherVisuals\":true,\"vcObjects\":{\"title\":[{\"properties\":{\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Expected revenue per stage and probability'\"}}}}}]}}}",
+          "filters": "[{\"name\":\"218689ded22bac123b69\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"fact_crm\"}},\"Property\":\"Stage\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_crm\",\"Type\":0}],\"Where\":[{\"Condition\":{\"Not\":{\"Expression\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Stage\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"null\"}}]]}}}}}]},\"type\":\"Categorical\",\"howCreated\":0,\"objects\":{\"general\":[{\"properties\":{\"isInvertedSelectionMode\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]},\"isHiddenInViewMode\":false}]",
+          "height": 319.86,
+          "width": 624.49,
+          "x": 655.80,
+          "y": 400.25,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"b9345708e431b60a1658\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":400.25120829553566,\"z\":1000,\"width\":639.7249756266913,\"height\":319.86248781334564,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"lineClusteredColumnComboChart\",\"projections\":{\"Y2\":[{\"queryRef\":\"fact_crm.Total Expected Revenue\"}],\"Category\":[{\"queryRef\":\"dim_date.Date\",\"active\":true}],\"Y\":[{\"queryRef\":\"fact_actuals.Total Actual Amount\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_crm\",\"Type\":0},{\"Name\":\"f1\",\"Entity\":\"fact_actuals\",\"Type\":0},{\"Name\":\"d\",\"Entity\":\"dim_date\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"},\"Name\":\"dim_date.Date\",\"NativeReferenceName\":\"Date\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f1\"}},\"Property\":\"Total Actual Amount\"},\"Name\":\"fact_actuals.Total Actual Amount\",\"NativeReferenceName\":\"Total Actual Amount\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Total Expected Revenue\"},\"Name\":\"fact_crm.Total Expected Revenue\",\"NativeReferenceName\":\"Total Expected Revenue\"}],\"OrderBy\":[{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"title\":[{\"properties\":{\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Excepected revenue vs. actual amount over time'\"}}}}}]}}}",
+          "filters": "[{\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"dim_date\"}},\"Property\":\"Date\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"dim_date\",\"Type\":0}],\"Where\":[{\"Condition\":{\"Between\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"}},\"LowerBound\":{\"DateSpan\":{\"Expression\":{\"DateAdd\":{\"Expression\":{\"DateAdd\":{\"Expression\":{\"Now\":{}},\"Amount\":1,\"TimeUnit\":0}},\"Amount\":-5,\"TimeUnit\":3}},\"TimeUnit\":0}},\"UpperBound\":{\"DateSpan\":{\"Expression\":{\"Now\":{}},\"TimeUnit\":0}}}}}]},\"type\":\"RelativeDate\",\"howCreated\":0,\"isHiddenInViewMode\":false}]",
+          "height": 319.86,
+          "width": 639.72,
+          "x": 0.00,
+          "y": 400.25,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"cc4b925600c9b0cc7b68\",\"layouts\":[{\"id\":0,\"position\":{\"x\":639.7249756266913,\"y\":0,\"z\":2000,\"width\":624.4934285879605,\"height\":390.0968436030485,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"funnel\",\"projections\":{\"Category\":[{\"queryRef\":\"fact_crm.Stage\",\"active\":true}],\"Y\":[{\"queryRef\":\"Sum(fact_crm.ExpectedRevenue)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_crm\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Stage\"},\"Name\":\"fact_crm.Stage\",\"NativeReferenceName\":\"Stage\"},{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0},\"Name\":\"Sum(fact_crm.ExpectedRevenue)\",\"NativeReferenceName\":\"Sum of ExpectedRevenue\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 390.10,
+          "width": 624.49,
+          "x": 639.72,
+          "y": 0.00,
+          "z": 2000.00
+        }
+      ],
+      "width": 1280.00
+    },
+    {
+      "config": "{}",
+      "displayName": "Page 2",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "9dd1472281c48c89b0a0",
+      "ordinal": 1,
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"0c2b9573806b9368a091\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10,\"y\":435,\"width\":785,\"height\":285,\"z\":2,\"tabOrder\":2}}],\"singleVisual\":{\"visualType\":\"waterfallChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Sum(fact_crm.ExpectedRevenue)\"}],\"Category\":[{\"queryRef\":\"fact_crm.Stage\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_crm\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0},\"Name\":\"Sum(fact_crm.ExpectedRevenue)\",\"NativeReferenceName\":\"Sum of ExpectedRevenue\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Stage\"},\"Name\":\"fact_crm.Stage\",\"NativeReferenceName\":\"Stage\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"title\":[{\"properties\":{\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Expected revenue per stage'\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 285.00,
+          "width": 785.00,
+          "x": 10.00,
+          "y": 435.00,
+          "z": 2.00
+        },
+        {
+          "config": "{\"name\":\"9cfec6de679109a694aa\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.154364692487162,\"y\":0,\"z\":0,\"width\":785.2708695523406,\"height\":424.79092296904633,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"clusteredColumnChart\",\"projections\":{\"Y\":[{\"queryRef\":\"fact_actuals.Total Actual Amount\"}],\"Category\":[{\"queryRef\":\"dim_date.Date\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_actuals\",\"Type\":0},{\"Name\":\"d\",\"Entity\":\"dim_date\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Total Actual Amount\"},\"Name\":\"fact_actuals.Total Actual Amount\",\"NativeReferenceName\":\"Total Actual Amount\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"},\"Name\":\"dim_date.Date\",\"NativeReferenceName\":\"Date\"}],\"OrderBy\":[{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{},\"vcObjects\":{\"title\":[{\"properties\":{\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Revenue over time'\"}}}}}]}}}",
+          "filters": "[{\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"dim_date\"}},\"Property\":\"YearMonth\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"dim_date\",\"Type\":0}],\"Where\":[{\"Condition\":{\"Contains\":{\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"YearMonth\"}},\"Right\":{\"Literal\":{\"Value\":\"'2025'\"}}}}}]},\"type\":\"Advanced\",\"howCreated\":1,\"isHiddenInViewMode\":false}]",
+          "height": 424.79,
+          "width": 785.27,
+          "x": 10.15,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"d8a6d7648966eabd779b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":776.808898975268,\"y\":0,\"z\":1,\"width\":503.48724933582184,\"height\":396.02022300699934,\"tabOrder\":1}}],\"singleVisual\":{\"visualType\":\"pivotTable\",\"projections\":{\"Rows\":[{\"queryRef\":\"dim_customers.CustomerID\",\"active\":true}],\"Values\":[{\"queryRef\":\"Sum(fact_crm.ExpectedRevenue)\"},{\"queryRef\":\"Sum(fact_actuals.Amount)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_crm\",\"Type\":0},{\"Name\":\"f1\",\"Entity\":\"fact_actuals\",\"Type\":0},{\"Name\":\"d\",\"Entity\":\"dim_customers\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"ExpectedRevenue\"}},\"Function\":0},\"Name\":\"Sum(fact_crm.ExpectedRevenue)\",\"NativeReferenceName\":\"Sum of ExpectedRevenue\"},{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f1\"}},\"Property\":\"Amount\"}},\"Function\":0},\"Name\":\"Sum(fact_actuals.Amount)\",\"NativeReferenceName\":\"Sum of Amount\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"CustomerID\"},\"Name\":\"dim_customers.CustomerID\",\"NativeReferenceName\":\"CustomerID\"}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Actual revenue vs. expected revenue per customer'\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 396.02,
+          "width": 503.49,
+          "x": 776.81,
+          "y": 0.00,
+          "z": 1.00
+        }
+      ],
+      "width": 1280.00
+    }
+  ]
+}
