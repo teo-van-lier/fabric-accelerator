@@ -14,10 +14,10 @@ for i in range(2000):
         "CustomerID": random.choice(customers),
         "OpportunityName": fake.bs().title(),
         "Stage": random.choice(stages),
-        "ExpectedCloseDate": fake.date_between(start_date="today", end_date="+3M"),
+        "ExpectedCloseDate": fake.date_between(start_date="-3M", end_date="+3M"),
         "ExpectedRevenue": round(random.uniform(500, 20000), 2),
         "Owner": fake.first_name(),
         "Probability": random.choice([10,30,50,70,90])
     })
-
 pd.DataFrame(pipeline).to_csv("./crm_data.csv", index=False)
+print("Wrote file")
